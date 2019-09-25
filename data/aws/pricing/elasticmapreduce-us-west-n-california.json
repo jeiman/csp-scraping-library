@@ -1,0 +1,374 @@
+{
+  "Instance-instancetype-g2.2xlarge": {
+    "rateCode": "K44EQZTW9AD2KNE3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2000000000"
+  },
+  "Instance-instancetype-z1d.xlarge": {
+    "rateCode": "GH57APD39W4Y97AZ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0930000000"
+  },
+  "Instance-instancetype-z1d.6xlarge": {
+    "rateCode": "TY7AWUJA5RCJWPAP.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-z1d.3xlarge": {
+    "rateCode": "ERFU2ZST8UF2RCHC.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-z1d.2xlarge": {
+    "rateCode": "AKGXAGJFS4GY8H77.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1860000000"
+  },
+  "Instance-instancetype-z1d.12xlarge": {
+    "rateCode": "UZ2XQPEGS6R4KJM8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-hi1.4xlarge": {
+    "rateCode": "BB85U9E7X3CY8D93.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-m2.xlarge": {
+    "rateCode": "US2D6QNJG3RCJJ29.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0620000000"
+  },
+  "Instance-instancetype-m2.4xlarge": {
+    "rateCode": "JZB24B6WCM5G558M.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2460000000"
+  },
+  "Instance-instancetype-m2.2xlarge": {
+    "rateCode": "AFUC3EJT9976G6YA.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1230000000"
+  },
+  "Instance-instancetype-m1.xlarge": {
+    "rateCode": "N7K8GUJQR3E76W46.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0880000000"
+  },
+  "Instance-instancetype-m1.small": {
+    "rateCode": "K9CYXDCH8FNPJR5K.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0110000000"
+  },
+  "Instance-instancetype-m1.medium": {
+    "rateCode": "J2FEV9MR5BRSX8Q3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0220000000"
+  },
+  "Instance-instancetype-m1.large": {
+    "rateCode": "MCGNYA333E9YCBC3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0440000000"
+  },
+  "Instance-instancetype-cc1.4xlarge": {
+    "rateCode": "2TFH3NWT97A3JBJ4.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-c1.xlarge": {
+    "rateCode": "FX27NS3MZSSCUZP5.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1200000000"
+  },
+  "Instance-instancetype-c1.medium": {
+    "rateCode": "ABGAP7K29DS5BAAD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0300000000"
+  },
+  "Instance-instancetype-g3.8xlarge": {
+    "rateCode": "Z9E7QT9JFAASDT2Y.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-g3.16xlarge": {
+    "rateCode": "BZBXJNE9PKNAAP77.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-m3.xlarge": {
+    "rateCode": "BXQR2TW3AHYGFEFB.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0700000000"
+  },
+  "Instance-instancetype-m3.medium": {
+    "rateCode": "XNM5EXVR4RB6G3FX.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0180000000"
+  },
+  "Instance-instancetype-m3.large": {
+    "rateCode": "69D8C5HJ9DW6FWR9.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0350000000"
+  },
+  "Instance-instancetype-m3.2xlarge": {
+    "rateCode": "U9JGNZD4VE9Y7MRG.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1400000000"
+  },
+  "Instance-instancetype-g3.4xlarge": {
+    "rateCode": "RT788DJHQC4CQHPM.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-c3.xlarge": {
+    "rateCode": "JM5YHUVGPZMQJP9W.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0530000000"
+  },
+  "Instance-instancetype-c3.large": {
+    "rateCode": "HV5A7AFGAHK3UJW7.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0260000000"
+  },
+  "Instance-instancetype-c3.8xlarge": {
+    "rateCode": "XJAJW9MR6V9A9UN9.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-c3.4xlarge": {
+    "rateCode": "AGM5ZJAEAY2YZJ7A.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2100000000"
+  },
+  "Instance-instancetype-c3.2xlarge": {
+    "rateCode": "A4DWSEWU3WDYZC8A.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1050000000"
+  },
+  "Instance-instancetype-r3.xlarge": {
+    "rateCode": "MSN9JXRBWXY9WJJT.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0900000000"
+  },
+  "Instance-instancetype-r3.8xlarge": {
+    "rateCode": "XVCQS48FGY962NNR.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-r3.4xlarge": {
+    "rateCode": "XHACQ2MAD93YQ95E.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-r3.2xlarge": {
+    "rateCode": "EG88NWHN4NYQTHEE.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1800000000"
+  },
+  "Instance-instancetype-i2.xlarge": {
+    "rateCode": "22CQFX8CQZB23TBD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2130000000"
+  },
+  "Instance-instancetype-i2.8xlarge": {
+    "rateCode": "PCH64PWVU6SNBE9M.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-i2.4xlarge": {
+    "rateCode": "YJ3MU8P2KU48K82D.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-i2.2xlarge": {
+    "rateCode": "3MSRZTVPM7P7N9H5.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-c4.xlarge": {
+    "rateCode": "U3PXTRQRFSDV8J45.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0520000000"
+  },
+  "Instance-instancetype-c4.large": {
+    "rateCode": "3NYWMVRAZ4JCY7TP.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0260000000"
+  },
+  "Instance-instancetype-c4.8xlarge": {
+    "rateCode": "SSR5WQH2X56KCSDU.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-c4.4xlarge": {
+    "rateCode": "5TEMSZF78YWYSE7W.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2100000000"
+  },
+  "Instance-instancetype-c4.2xlarge": {
+    "rateCode": "CMGPPTV45ZD9ZNSY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1050000000"
+  },
+  "Instance-instancetype-r5d.xlarge": {
+    "rateCode": "847PMENK2RAEJDVV.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0720000000"
+  },
+  "Instance-instancetype-r5d.4xlarge": {
+    "rateCode": "MYK6HWQAW3S7ZQEY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-r5d.2xlarge": {
+    "rateCode": "GANRCBPW6GYXB6R8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1440000000"
+  },
+  "Instance-instancetype-r5d.24xlarge": {
+    "rateCode": "AJJJBDBHJTV5GV59.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-r5d.12xlarge": {
+    "rateCode": "QW4YSCFFVTMKK25W.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-r4.large": {
+    "rateCode": "4RDEZUAEM4JHSE7J.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0340000000"
+  },
+  "Instance-instancetype-m5d.xlarge": {
+    "rateCode": "FA5SB9KTWC7Y3QMT.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0570000000"
+  },
+  "Instance-instancetype-m5d.4xlarge": {
+    "rateCode": "C2P6W9Q4CZKP36JV.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2260000000"
+  },
+  "Instance-instancetype-m5d.2xlarge": {
+    "rateCode": "BHSTSVJ99K89SUHY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1130000000"
+  },
+  "Instance-instancetype-m5d.24xlarge": {
+    "rateCode": "DGFZC3D35P57D76J.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-m5d.12xlarge": {
+    "rateCode": "NJP35UWZ5MV7NF68.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-m4.xlarge": {
+    "rateCode": "UPJ5E6X8MC559ZSR.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0600000000"
+  },
+  "Instance-instancetype-m4.large": {
+    "rateCode": "JTSNXQP55E35A28K.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0300000000"
+  },
+  "Instance-instancetype-m4.4xlarge": {
+    "rateCode": "Y2GMXP3JVDZMENK7.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2400000000"
+  },
+  "Instance-instancetype-m4.2xlarge": {
+    "rateCode": "RSCAZ3YMNX5A22VJ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1200000000"
+  },
+  "Instance-instancetype-m4.16xlarge": {
+    "rateCode": "HF7UTXRVN8KZHAFY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-m4.10xlarge": {
+    "rateCode": "BEVAEABKNP2VM86X.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-c5d.xlarge": {
+    "rateCode": "QPAQKH3H2ZR8B44C.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0480000000"
+  },
+  "Instance-instancetype-c5d.9xlarge": {
+    "rateCode": "HS98NTVS9UFV2AK4.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-c5d.4xlarge": {
+    "rateCode": "ZVPKZGXA2R6E7A8W.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1920000000"
+  },
+  "Instance-instancetype-c5d.2xlarge": {
+    "rateCode": "BNKWXKYHGNMQFXJJ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0960000000"
+  },
+  "Instance-instancetype-c5d.18xlarge": {
+    "rateCode": "EQQASUNGZHG92DQ8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-r5.xlarge": {
+    "rateCode": "VEQMSDS9B672F8ZX.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0630000000"
+  },
+  "Instance-instancetype-r5.4xlarge": {
+    "rateCode": "2CZ8NR2GK2ADMPZS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2520000000"
+  },
+  "Instance-instancetype-r5.2xlarge": {
+    "rateCode": "37VQBKJJHEBRUXUC.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1260000000"
+  },
+  "Instance-instancetype-r5.24xlarge": {
+    "rateCode": "CSSHMZ2Q74BZUPSU.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-r5.12xlarge": {
+    "rateCode": "B5KPEN7SZZHE4G8G.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-r4.xlarge": {
+    "rateCode": "SFJCEBJXYFF74UFJ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0670000000"
+  },
+  "Instance-instancetype-r4.8xlarge": {
+    "rateCode": "ZFCXVUSAC6KT9RQE.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-r4.4xlarge": {
+    "rateCode": "BD8MSE5NWM95TRN9.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2660000000"
+  },
+  "Instance-instancetype-r4.2xlarge": {
+    "rateCode": "NCV8QE4PG8FGN6GK.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1330000000"
+  },
+  "Instance-instancetype-r4.16xlarge": {
+    "rateCode": "5QEX6U5C5XH5UWWE.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-d2.xlarge": {
+    "rateCode": "E7422NG78MT9SEF6.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1730000000"
+  },
+  "Instance-instancetype-d2.8xlarge": {
+    "rateCode": "TY7XDJ7GZ6BS24KH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-d2.4xlarge": {
+    "rateCode": "C59JUS8TJPDM86RY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-d2.2xlarge": {
+    "rateCode": "KRQU9QQF8NTN8ZP6.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-m5.xlarge": {
+    "rateCode": "TWPNWD5YXZXX9ZJK.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0480000000"
+  },
+  "Instance-instancetype-m5.4xlarge": {
+    "rateCode": "VJMX5Y9PUYCJSBN8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1920000000"
+  },
+  "Instance-instancetype-m5.2xlarge": {
+    "rateCode": "S5GG72AUFFCGMPJM.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0960000000"
+  },
+  "Instance-instancetype-m5.24xlarge": {
+    "rateCode": "3GKPU6W8TS45YYAU.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-m5.12xlarge": {
+    "rateCode": "HYR2JCSCZGPF88FQ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-c5.xlarge": {
+    "rateCode": "DFD6QN7W459BWB9Y.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0430000000"
+  },
+  "Instance-instancetype-c5.9xlarge": {
+    "rateCode": "GYMZFASC7MSMYMXT.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-c5.4xlarge": {
+    "rateCode": "Y889XZC82N4H7VP7.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1700000000"
+  },
+  "Instance-instancetype-c5.2xlarge": {
+    "rateCode": "ZUW96EY7UDXB6P3A.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0850000000"
+  },
+  "Instance-instancetype-c5.18xlarge": {
+    "rateCode": "CK7B5ECZ2FYHKZ99.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-i3.xlarge": {
+    "rateCode": "JYF9DJ33MEJV4ZW3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0780000000"
+  },
+  "Instance-instancetype-i3.8xlarge": {
+    "rateCode": "KTTA2FDSNGWPNNNU.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-i3.4xlarge": {
+    "rateCode": "TVE5TQY3TZPHW8V3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  },
+  "Instance-instancetype-i3.2xlarge": {
+    "rateCode": "SW7R7GJZPXYPPYUD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1560000000"
+  },
+  "Instance-instancetype-i3.16xlarge": {
+    "rateCode": "QPENTSMAU44G8XQ2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2700000000"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "service_path": "/blockchain/",
+    "service_name": "Amazon Managed Blockchain",
+    "mini_description": "Create and manage scalable blockchain networks",
+    "category": "Blockchain",
+    "url": "https://aws.amazon.com/blockchain/",
+    "keywords": [
+      "Blockchain on AWS",
+      "Easily build scalable blockchain and ledger solutions",
+      "Use Cases",
+      "Track and verify transactions with centralized ownership",
+      "Execute transactions and contracts with decentralized ownership",
+      "AWS Capabilities",
+      "Products",
+      "Amazon QLDB",
+      "Amazon Managed Blockchain",
+      "AWS Blockchain Templates",
+      "AWS Blockchain Partners",
+      "Customers"
+    ],
+    "benefits": "Blockchain on AWS Easily build scalable blockchain and ledger solutions  Use Cases Track and verify transactions with centralized ownership Execute transactions and contracts with decentralized ownership AWS Capabilities Products Amazon QLDB Amazon Managed Blockchain AWS Blockchain Templates  AWS Blockchain Partners Customers"
+  }
+]

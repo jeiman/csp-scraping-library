@@ -1,0 +1,74 @@
+{
+  "API Request": {
+    "rateCode": "U3NDM5SKT6U2TDUV.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000100000"
+  },
+  "API Request GetMetricData": {
+    "rateCode": "A4XJHAK9N8WRHB6X.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000100000"
+  },
+  "Alarm High Resolution": {
+    "rateCode": "DZKRWJ6AMNWYQKF3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3000000000"
+  },
+  "Alarm Standard": {
+    "rateCode": "6635AWWTXTJVSCUQ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1000000000"
+  },
+  "Stored Data": {
+    "rateCode": "X29B4N6M8XXU5FFH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0330000000"
+  },
+  "Metric for the first 10000": {
+    "rateCode": "334SFV86A6WNMFNJ.JRTCKXETXF.A6VD9GXV7W",
+    "price": "0.3000000000"
+  },
+  "Metric for the next 750000": {
+    "rateCode": "334SFV86A6WNMFNJ.JRTCKXETXF.95SDKRWVHH",
+    "price": "0.0500000000"
+  },
+  "Metric for the next 240000": {
+    "rateCode": "334SFV86A6WNMFNJ.JRTCKXETXF.FG3KHZ79QN",
+    "price": "0.1000000000"
+  },
+  "Metric for over 1000000": {
+    "rateCode": "334SFV86A6WNMFNJ.JRTCKXETXF.VNJQCFJPS4",
+    "price": "0.0200000000"
+  },
+  "Delivered Logs for first 10TB": {
+    "rateCode": "NAZB2JGZYPXYVV6R.JRTCKXETXF.Q3Z75P77EN",
+    "price": "0.3800000000"
+  },
+  "Delivered Logs for next 20TB": {
+    "rateCode": "NAZB2JGZYPXYVV6R.JRTCKXETXF.JM86AE7V7B",
+    "price": "0.2280000000"
+  },
+  "Delivered Logs for next next 20 TB": {
+    "rateCode": "NAZB2JGZYPXYVV6R.JRTCKXETXF.AMET9K77J3",
+    "price": "0.1140000000"
+  },
+  "Delivered Logs for over 50TB": {
+    "rateCode": "NAZB2JGZYPXYVV6R.JRTCKXETXF.AQTKZ3QBDA",
+    "price": "0.0760000000"
+  },
+  "Vended Logs First 10TB": {
+    "rateCode": "HF4Q3BTJCYQQX7J7.JRTCKXETXF.Q3Z75P77EN",
+    "price": "0.7600000000"
+  },
+  "Vended Logs Next 20TB": {
+    "rateCode": "HF4Q3BTJCYQQX7J7.JRTCKXETXF.JM86AE7V7B",
+    "price": "0.3800000000"
+  },
+  "Vended Logs Next Next 20TB": {
+    "rateCode": "HF4Q3BTJCYQQX7J7.JRTCKXETXF.AMET9K77J3",
+    "price": "0.1520000000"
+  },
+  "Logs Collected Data Ingestion": {
+    "rateCode": "SRRNBUPDXXSNA5D3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.7600000000"
+  },
+  "Vended Logs over 50TB": {
+    "rateCode": "HF4Q3BTJCYQQX7J7.JRTCKXETXF.AQTKZ3QBDA",
+    "price": "0.0760000000"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Content Classification 0 1 per GB": {
+    "rateCode": "ZJKBKGMS76VAJ6K3.JRTCKXETXF.JTU8TKNAMW",
+    "price": "5.0000000000"
+  },
+  "Extended Storage of Classification Results AmazonS3 per GB": {
+    "rateCode": "WK9RTH9C9VWGGFD2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0500000000"
+  },
+  "CloudTrail per Events": {
+    "rateCode": "QD9RVF2KC9Y4MT8R.JRTCKXETXF.FF8BMSDA2R",
+    "price": "0.0000040000"
+  },
+  "FREE Tier Content Classification per GB": {
+    "rateCode": "ZJKBKGMS76VAJ6K3.JRTCKXETXF.8EEUB22XNJ",
+    "price": "0.0000000000"
+  },
+  "FREE Tier CloudTrail per Events": {
+    "rateCode": "QD9RVF2KC9Y4MT8R.JRTCKXETXF.NADQ2ZJX8V",
+    "price": "0.0000000000"
+  }
+}

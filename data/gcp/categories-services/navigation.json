@@ -1,0 +1,45 @@
+[
+  {
+    "service_name": "Maps",
+    "service_short_name": "maps",
+    "description": "Bring the real world to your users with customized maps and Street View imagery.",
+    "url": "https://cloud.google.com/maps-platform/maps/",
+    "category": "Navigation"
+  },
+  {
+    "service_name": "Routes",
+    "service_short_name": "routes",
+    "description": "Help your users get from A to Z with comprehensive data and real-time traffic.",
+    "url": "https://cloud.google.com/maps-platform/routes/",
+    "category": "Navigation"
+  },
+  {
+    "service_name": "Places",
+    "service_short_name": "places",
+    "description": "Help users discover the world with rich details for over 100 million points of\n                    interest.",
+    "url": "https://cloud.google.com/maps-platform/places/",
+    "category": "Navigation"
+  },
+  {
+    "service_name": "Ridesharing",
+    "service_short_name": "ridesharing",
+    "description": "Integrate Google Maps into your ridesharing app for reliable, real-time routing.",
+    "url": "https://cloud.google.com/maps-platform/ridesharing/",
+    "category": "Navigation",
+    "benefits": ""
+  },
+  {
+    "service_name": "Gaming",
+    "service_short_name": "gaming",
+    "description": "Create immersive, real-world games with up-to-date global data.",
+    "url": "https://cloud.google.com/maps-platform/gaming/",
+    "category": "Navigation"
+  },
+  {
+    "service_name": "Asset tracking",
+    "service_short_name": "assetTracking",
+    "description": "Accurate, real-time global location data for fleets, assets, and devices.",
+    "url": "https://cloud.google.com/maps-platform/asset-tracking/",
+    "category": "Navigation"
+  }
+]

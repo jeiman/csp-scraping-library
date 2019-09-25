@@ -1,0 +1,83 @@
+[
+  {
+    "service_name": "Logic Apps",
+    "service_path": "/en-gb/services/logic-apps/",
+    "url": "https://azure.microsoft.com/en-gb/services/logic-apps/",
+    "description": "Automate the access and use of data across clouds without writing code",
+    "category": "Integration",
+    "keywords": [
+      "Out-of-the-box",
+      "connectors",
+      "reduce",
+      "integration",
+      "challenges.",
+      "Connect",
+      "and",
+      "integrate",
+      "data",
+      "from",
+      "the",
+      "cloud",
+      "to",
+      "on-premises.",
+      "B2B",
+      "and",
+      "enterprise",
+      "messaging",
+      "in",
+      "the",
+      "cloud.",
+      "Take",
+      "advantage",
+      "of",
+      "your",
+      "current",
+      "BizTalk",
+      "Server",
+      "investments",
+      "to",
+      "connect",
+      "to",
+      "SaaS",
+      "applications.",
+      "Tap",
+      "into",
+      "the",
+      "power",
+      "of",
+      "Azure",
+      "services"
+    ],
+    "benefits": "Out-of-the-box connectors reduce integration challenges. Connect and integrate data from the cloud to on-premises. B2B and enterprise messaging in the cloud. Take advantage of your current BizTalk Server investments to connect to SaaS applications. Tap into the power of Azure services."
+  },
+  {
+    "service_name": "API Management",
+    "service_path": "/en-gb/services/api-management/",
+    "url": "https://azure.microsoft.com/en-gb/services/api-management/",
+    "description": "Publish APIs to developers, partners and employees securely and at scale",
+    "category": "Integration",
+    "keywords": [
+      "Create",
+      "an",
+      "API",
+      "gateway",
+      "and",
+      "developer",
+      "portal",
+      "in",
+      "minutes"
+    ],
+    "benefits": "Create an API gateway and developer portal in minutes."
+  },
+  {
+    "service_name": "Service Bus",
+    "service_path": "/en-gb/services/service-bus/",
+    "url": "https://azure.microsoft.com/en-gb/services/service-bus/",
+    "description": "Connect across private and public cloud environments",
+    "category": "Integration",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  }
+]

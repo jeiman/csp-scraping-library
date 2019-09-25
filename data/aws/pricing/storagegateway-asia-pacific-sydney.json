@@ -1,0 +1,42 @@
+{
+  "StorageGateway UploadedBytes Over 12.2TB": {
+    "rateCode": "3PFETNZPEUWWWME7.JRTCKXETXF.GFG7H5FKAU",
+    "price": "0.0000000000"
+  },
+  "StorageGateway UploadedBytes First 12.2 TB": {
+    "rateCode": "3PFETNZPEUWWWME7.JRTCKXETXF.SRERGXVDDH",
+    "price": "0.0100000000"
+  },
+  "StorageGateway UploadedBytes Tier 2": {
+    "rateCode": "3PFETNZPEUWWWME7.JRTCKXETXF.GFG7H5FKAU",
+    "price": "0.0000000000"
+  },
+  "StorageGateway UploadedBytes Tier 1": {
+    "rateCode": "3PFETNZPEUWWWME7.JRTCKXETXF.SRERGXVDDH",
+    "price": "0.0100000000"
+  },
+  "StorageGateway Standard Volume Cached": {
+    "rateCode": "FEKB5Q9XFE9Y5782.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0250000000"
+  },
+  "StorageGateway Standard Virtual Tape in Library": {
+    "rateCode": "QR6KNFGTANM8EQH4.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0250000000"
+  },
+  "StorageGateway Glacier Archive": {
+    "rateCode": "Y4RY73FYQCZK7RNJ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0050000000"
+  },
+  "StorageGateway Fee Tape EarlyDelete": {
+    "rateCode": "VPV3X6J889AG67H8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0050000000"
+  },
+  "StorageGateway Fee Glacier Tape Retrieval Deprecated": {
+    "rateCode": "BV9G46J3STZWXSW8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0100000000"
+  },
+  "StorageGateway Fee Glacier Tape Retrieval Current": {
+    "rateCode": "YXAP7ZWR2FKWRVBB.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0100000000"
+  }
+}

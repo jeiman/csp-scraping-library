@@ -1,0 +1,10 @@
+{
+  "Charge for per GB data processed by VPC Endpoints per GB": {
+    "rateCode": "6A98QHAV2WRP9UZU.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0100000000"
+  },
+  "Hourly charge for VPC Endpoints per Hrs": {
+    "rateCode": "XT8EBG3345ZB9FPM.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0143000000"
+  }
+}

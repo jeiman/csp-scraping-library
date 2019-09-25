@@ -1,0 +1,10 @@
+{
+  "Lambda Requests Free Tier": {
+    "rateCode": "ZQVCC2M69R4S79XS.A429C66SYZ.SB2VSFF4TP",
+    "price": "0.0000000000"
+  },
+  "Lambda Duration Free Tier": {
+    "rateCode": "4VCGJ7EG8PJVZG7S.A429C66SYZ.KJYPJPDD2A",
+    "price": "0.0000000000"
+  }
+}

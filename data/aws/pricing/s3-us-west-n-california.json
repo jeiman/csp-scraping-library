@@ -1,0 +1,230 @@
+{
+  "Bulk Glacier Restore Requests": {
+    "rateCode": "T6DYX35PT8G6KCRS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000275000"
+  },
+  "COPY requests to Glacier per Requests": {
+    "rateCode": "P736FBCQMVJH7PYB.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000550000"
+  },
+  "CompleteMultipartUpload for Replication to Glacier per Requests": {
+    "rateCode": "QYQZN4PKQ3PSXYAR.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000550000"
+  },
+  "CompleteMultipartUpload to Glacier per Requests": {
+    "rateCode": "YMX9VWBSEYRE5X6E.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000550000"
+  },
+  "CopyPart to Glacier per Requests": {
+    "rateCode": "GRDEGVNJDSG7U5S3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000055000"
+  },
+  "Data Returned by S3 Select in Intelligent Tiering per GB": {
+    "rateCode": "5XEUJT7YJMQ755VK.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0008000000"
+  },
+  "Data Returned by S3 Select in One Zone Infrequent Access per GB": {
+    "rateCode": "SJ4Z2QJ4RK3HF3Y8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0100000000"
+  },
+  "Data Returned by S3 Select in Standard Infrequent Access per GB": {
+    "rateCode": "G36FE7RQJ8FRQCV9.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0100000000"
+  },
+  "Data Returned by S3 Select in Standard per GB": {
+    "rateCode": "C2ACP7M4VPBEUK97.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0008000000"
+  },
+  "Data Scanned by S3 Select in Intelligent Tiering per GB": {
+    "rateCode": "PS9SND6AAMZG4HR9.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0022500000"
+  },
+  "Data Scanned by S3 Select in One Zone Infrequent Access per GB": {
+    "rateCode": "7QNW89Y5NX4BAZP5.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0022500000"
+  },
+  "Data Scanned by S3 Select in Standard Infrequent Access per GB": {
+    "rateCode": "HB8QG47WG2MTBFTD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0022500000"
+  },
+  "Data Scanned by S3 Select in Standard per GB": {
+    "rateCode": "PQXQJ236ZZ5WRSJW.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0022500000"
+  },
+  "Fee for Bulk Retrieval of data stored": {
+    "rateCode": "YE7UXKR7JVXDHYSC.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0027500000"
+  },
+  "Fee for Bulk Retrieval of data stored from Glacier Deep Archive": {
+    "rateCode": "36GHPEZBQWW8X4HD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0035000000"
+  },
+  "Fee for Standard Retrieval of data stored": {
+    "rateCode": "6YXXPG3ZD2S2YHWE.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0110000000"
+  },
+  "Fee for Standard Retrieval of data stored from Glacier Deep Archive": {
+    "rateCode": "G2H4BG7TVDN24WTH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0220000000"
+  },
+  "GET and all other requests per Requests": {
+    "rateCode": "8V7SFTM8C7PGXXJ8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000004400"
+  },
+  "GET and all other requests to GDA per Requests": {
+    "rateCode": "6YGM88AP72GQSK5Q.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000004400"
+  },
+  "GET and all other requests to GLACIER per Requests": {
+    "rateCode": "XYPP4QUHKSHB4DGN.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000004400"
+  },
+  "GET and all other requests to Intelligent Tiering per Requests": {
+    "rateCode": "VSECM5RFGN5KW5M8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000004400"
+  },
+  "GET and all other requests to One Zone Infrequent Access per Requests": {
+    "rateCode": "P36WJAA6JDH6TERF.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000010000"
+  },
+  "GET and all other requests to Standard Infrequent Access per Requests": {
+    "rateCode": "3B9GTFM3KPQRE6VR.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000010000"
+  },
+  "Glacier Staging Storage per GB Mo": {
+    "rateCode": "H3VWW32PN77EQMEE.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0240000000"
+  },
+  "Glacier Storage per GB Mo": {
+    "rateCode": "QPNEFGJQKH55KVF3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0050000000"
+  },
+  "Intelligent Tiering Frequent Access First 50 TB per GB Mo": {
+    "rateCode": "358YXGGXWV4YQSEA.JRTCKXETXF.PGHJ3S3EYE",
+    "price": "0.0260000000"
+  },
+  "Intelligent Tiering Frequent Access Next 450 TB per GB Mo": {
+    "rateCode": "358YXGGXWV4YQSEA.JRTCKXETXF.D42MF2PVJS",
+    "price": "0.0250000000"
+  },
+  "Intelligent Tiering Frequent Access Over 500 TB per GB Mo": {
+    "rateCode": "358YXGGXWV4YQSEA.JRTCKXETXF.PXJDJ3YRG3",
+    "price": "0.0240000000"
+  },
+  "Intelligent Tiering Infrequent Access per GB Mo": {
+    "rateCode": "MV39K25HZ6YARFWD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0190000000"
+  },
+  "Lifecycle Transition Requests into Glacier Deep Archive per Requests": {
+    "rateCode": "GQKF5MY85E8MWSCR.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000600000"
+  },
+  "Lifecycle Transition Requests into Glacier per Requests": {
+    "rateCode": "VPUMWTPSJM2RT42G.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000550000"
+  },
+  "Lifecycle Transition Requests into Standard Infrequent Access or One Zone - Infrequent Access or Intelligent Tiering per Requests": {
+    "rateCode": "FX65HD6MC7463GH2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000100000"
+  },
+  "Object Retrieval in One Zone Infrequent Access per GB": {
+    "rateCode": "TSFWKWTWCWYQY52P.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0100000000"
+  },
+  "Object Retrieval in Standard Infrequent Access per GB": {
+    "rateCode": "5Q4QY3EP7RTVXN3F.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0100000000"
+  },
+  "One Zone Infrequent Access Storage Inf per GB-Mo": {
+    "rateCode": "5HJE9C3BMY3VTT6B.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0152000000"
+  },
+  "POST requests to Glacier per Requests": {
+    "rateCode": "EZ7QCEFAWS3KJKSY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000550000"
+  },
+  "PUT COPY/POST or LIST requests per Requests": {
+    "rateCode": "CE79BJ8EJA6B9EDP.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000055000"
+  },
+  "PUT COPY/POST or LIST requests to Intelligent Tiering per Requests": {
+    "rateCode": "PRCQFKFHXPT7YWEQ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000055000"
+  },
+  "PUT COPY/POST or LIST requests to One Zone Infrequent Access per Requests": {
+    "rateCode": "PVNFYJ65M5V9QM69.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000100000"
+  },
+  "PUT COPY/POST or LIST requests to Standard Infrequent Access per Requests": {
+    "rateCode": "MQTZGNQFUG87FAY5.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000100000"
+  },
+  "PUT for Replication to Glacier per Requests": {
+    "rateCode": "QKSKC7NW3MZATDTW.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000550000"
+  },
+  "PUT requests to Glacier per Requests": {
+    "rateCode": "W9JH75KRD68NCUBS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000550000"
+  },
+  "Per object fee for objects included in Analytics": {
+    "rateCode": "QE92DZ27ENSZ7KXZ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000001000"
+  },
+  "Per object fee for objects listed in an Inventory": {
+    "rateCode": "GW3ADEXQ2WK4YS98.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000028"
+  },
+  "Per object per month monitoring and automation fee for objects in Intelligent Tiering": {
+    "rateCode": "V7DUJZRCG6DRJPKR.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000025000"
+  },
+  "Reduced Redundancy Storage First 1 YB per GB Mo": {
+    "rateCode": "NW75MCAQ9V42XJYQ.JRTCKXETXF.6YNURZBX9Y",
+    "price": "0.0264000000"
+  },
+  "Reduced Redundancy Storage Nex 500 TB per GB Mo": {
+    "rateCode": "NW75MCAQ9V42XJYQ.JRTCKXETXF.YJ98HAVVPP",
+    "price": "0.0250000000"
+  },
+  "Reduced Redundancy Storage Next 4 000 TB per GB Mo": {
+    "rateCode": "NW75MCAQ9V42XJYQ.JRTCKXETXF.J25EHUHHDK",
+    "price": "0.0246000000"
+  },
+  "Reduced Redundancy Storage Next 450 TB per GB Mo": {
+    "rateCode": "NW75MCAQ9V42XJYQ.JRTCKXETXF.D42MF2PVJS",
+    "price": "0.0255000000"
+  },
+  "Reduced Redundancy Storage Next 49 TB perGB Mo": {
+    "rateCode": "NW75MCAQ9V42XJYQ.JRTCKXETXF.QUZRP4P8Y4",
+    "price": "0.0259000000"
+  },
+  "Reduced Redundancy Storage Over 5 000 TB per GB Mo": {
+    "rateCode": "NW75MCAQ9V42XJYQ.JRTCKXETXF.JR3K5QW8G3",
+    "price": "0.0242000000"
+  },
+  "Restore Object per Requests": {
+    "rateCode": "HTN2HWUWQ7HJT9GV.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000550000"
+  },
+  "Standard Infrequent Access Storage per GB-Mo": {
+    "rateCode": "KSBFQZKTYMM2Q863.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0190000000"
+  },
+  "Standard Storage First 50 TB per GB Mo": {
+    "rateCode": "TZP3WS2ZP5WNPJT2.JRTCKXETXF.PGHJ3S3EYE",
+    "price": "0.0260000000"
+  },
+  "Standard Storage Next 450 TB per GB Mo": {
+    "rateCode": "TZP3WS2ZP5WNPJT2.JRTCKXETXF.D42MF2PVJS",
+    "price": "0.0250000000"
+  },
+  "Standard Storage Over 500 TB per GB Mo": {
+    "rateCode": "TZP3WS2ZP5WNPJT2.JRTCKXETXF.PXJDJ3YRG3",
+    "price": "0.0240000000"
+  },
+  "Tags Storage per Tag Mo": {
+    "rateCode": "Z48V86KJQXT2ANH7.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000010000"
+  }
+}

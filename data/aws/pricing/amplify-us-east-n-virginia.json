@@ -1,0 +1,14 @@
+{
+  "Per Stored GigaBytes": {
+    "rateCode": "QRT9FFDUCFJTWSS6.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0230000000"
+  },
+  "Per Served GigaBytes": {
+    "rateCode": "QPQD3RGPJYEKWHWU.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1500000000"
+  },
+  "Build minutes": {
+    "rateCode": "B23WRTJMK3Q2YX5G.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0100000000"
+  }
+}

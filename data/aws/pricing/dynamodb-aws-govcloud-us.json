@@ -1,0 +1,70 @@
+{
+  "1yr Read Capacity Unit Hrs Provisioned": {
+    "rateCode": "4V948SDEXP8YXSR5.YTVHEVGPBZ.6YS6EN2CT7",
+    "price": "0.0000310000"
+  },
+  "1yr Write Capacity Unit Hrs Provisioned": {
+    "rateCode": "Q87Z7CDJDY8E2GF9.YTVHEVGPBZ.6YS6EN2CT7",
+    "price": "0.0001220000"
+  },
+  "3yr Read Capacity Unit Hrs Provisioned": {
+    "rateCode": "4V948SDEXP8YXSR5.VG8YD49WWM.6YS6EN2CT7",
+    "price": "0.0000190000"
+  },
+  "3yr Write Capacity Unit Hrs Provisioned": {
+    "rateCode": "Q87Z7CDJDY8E2GF9.VG8YD49WWM.6YS6EN2CT7",
+    "price": "0.0000970000"
+  },
+  "Data Storage Indexed GB-Mo": {
+    "rateCode": "VWCETPT8JCRYPKVM.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3000000000"
+  },
+  "On-Demand Backup Storage GB-Month": {
+    "rateCode": "FJ5DH2G9WQREEND8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1200000000"
+  },
+  "PITR Backup Storage GB-Mo": {
+    "rateCode": "45FBWP6397W5QSZD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2400000000"
+  },
+  "PayPerRequest Read Request Units": {
+    "rateCode": "ZBV6J5MDXZTQ4YJD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000003000"
+  },
+  "PayPerRequest Write Request Units": {
+    "rateCode": "NEB9YPXPMVQSH79D.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000015000"
+  },
+  "Provisioned 1yr DDB-ReadUnits Upfront Fee": {
+    "rateCode": "4V948SDEXP8YXSR5.YTVHEVGPBZ.2TG2D8R56U",
+    "price": "0.36"
+  },
+  "Provisioned 1yr DDB-WriteUnits Upfront Fee": {
+    "rateCode": "Q87Z7CDJDY8E2GF9.YTVHEVGPBZ.2TG2D8R56U",
+    "price": "1.8"
+  },
+  "Provisioned 3yr DDB-ReadUnits Upfront Fee": {
+    "rateCode": "4V948SDEXP8YXSR5.VG8YD49WWM.2TG2D8R56U",
+    "price": "0.43"
+  },
+  "Provisioned 3yr DDB-WriteUnits Upfront Fee": {
+    "rateCode": "Q87Z7CDJDY8E2GF9.VG8YD49WWM.2TG2D8R56U",
+    "price": "2.16"
+  },
+  "Provisioned Read Units": {
+    "rateCode": "4V948SDEXP8YXSR5.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0001560000"
+  },
+  "Provisioned Write Units": {
+    "rateCode": "Q87Z7CDJDY8E2GF9.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0007800000"
+  },
+  "Restore Data Size": {
+    "rateCode": "7MM5RFDMVUSVQ5BQ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1800000000"
+  },
+  "Streams Read Requests": {
+    "rateCode": "222RXP75TCN6HS9K.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000002400"
+  }
+}

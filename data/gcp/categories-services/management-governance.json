@@ -1,0 +1,152 @@
+[
+  {
+    "service_name": "Stackdriver",
+    "service_short_name": "stackdriver",
+    "description": "Monitoring and management for services, containers, applications, and\n                        infrastructure.",
+    "url": "https://cloud.google.com/stackdriver/",
+    "category": "Management & Governance",
+    "benefits": "Works with multiple clouds and on-premises infrastructureFind and fix issues fastFull-stack insightsNative Google integration and moreDebuggerAlertsError reportingTracingRapid discoveryLoggingUptime monitoringDashboardsIntegrationsProfilingSmart defaults\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Monitoring",
+    "service_short_name": "monitoring",
+    "description": "Monitoring for applications on GCP and AWS.",
+    "url": "https://cloud.google.com/monitoring/",
+    "category": "Management & Governance",
+    "benefits": "For Google Cloud Platform, AWS, and hybrid deploymentsIdentify trends, prevent issuesReduce monitoring overheadImprove signal-to-noiseFix problems fasterAWS integrationCustom metricsGCP integrationMonitoring agentLogging integrationDashboardsGroup/cluster supportAlertingUptime monitoring\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Service Monitoring (alpha)",
+    "service_short_name": "serviceMonitoring",
+    "description": "Stackdriver Service monitoring for Istio and Google App Engine services.",
+    "url": "https://cloud.google.com/service-monitoring/",
+    "category": "Management & Governance",
+    "benefits": "Service observabilitySetting service level objectivesObservability ergonomics"
+  },
+  {
+    "service_name": "Logging",
+    "service_short_name": "logging",
+    "description": "Logging for applications on GCP and AWS.",
+    "url": "https://cloud.google.com/logging/",
+    "category": "Management & Governance",
+    "benefits": "Seamlessly resolve issuesScalable and fully managedAll your cloud logs in one placeReal-time insightsCustom logs / Ingestion APILogs alertingAWS integration / agentAdvanced analytics with BigQueryLogs retentionArchive with Cloud StorageStream logs with Cloud Pub/SubLogs searchThird-party integrationsLogs-based metricsAudit logging\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Error Reporting",
+    "service_short_name": "errorReporting",
+    "description": "Identifies and helps you understand application errors.",
+    "url": "https://cloud.google.com/error-reporting/",
+    "category": "Management & Governance",
+    "benefits": "Quickly understand errorsAutomatic and real-timeInstant error notificationPopular languagesReal-time processingIntelligent error groupingOverview with filteringError detailsStack trace explorationAlertsIssue tracker integrationMobile applicationEasy setup\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Trace",
+    "service_short_name": "trace",
+    "description": "Find performance bottlenecks in production.",
+    "url": "https://cloud.google.com/trace/",
+    "category": "Management & Governance",
+    "benefits": "Find performance bottlenecksFast, automatic issue detectionBroad platform supportEasy set upPerformance insightsAutomatic analysisExtensibility for custom workloadsLatency shift detection\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Debugger",
+    "service_short_name": "debugger",
+    "description": "Investigate code behavior in production.",
+    "url": "https://cloud.google.com/debugger/",
+    "category": "Management & Governance",
+    "benefits": "Debug in productionMultiple source optionsCollaborate while debuggingUse your workflowsDebug snapshotDebug logpointsConditional debuggingIDE integrationEasy setup\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Profiler",
+    "service_short_name": "profiler",
+    "description": "Low-impact CPU and heap profiling to reduce latency.",
+    "url": "https://cloud.google.com/profiler/",
+    "category": "Management & Governance",
+    "benefits": "Low-impact production profilingBroad platform support\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Private Catalog (beta)",
+    "service_short_name": "privateCatalog",
+    "description": "Control and make internal enterprise solutions easily discoverable.",
+    "url": "https://cloud.google.com/private-catalog/",
+    "category": "Management & Governance",
+    "benefits": "Control distributionIncrease discoverabilityEnsure internal compliance and governanceOne toolAdvanced search and filtersConsolidated viewAPI supportDeployment guardrailsInventory control\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Transparent Service Level Indicators",
+    "service_short_name": "transparentSLI",
+    "description": "Monitor Google Cloud services and their effects on your workloads.",
+    "url": "https://cloud.google.com/transparent-sli/",
+    "category": "Management & Governance",
+    "benefits": "Measure all the things\n      \n        Real transparency"
+  },
+  {
+    "service_name": "Cloud Deployment Manager",
+    "service_short_name": "cloudDeploymentManager",
+    "description": "Manage cloud resources with simple templates.",
+    "url": "https://cloud.google.com/deployment-manager/",
+    "category": "Management & Governance",
+    "benefits": "Repeatable deployment processDeclarative languageFocus on the applicationTemplate-drivenParallel deploymentTemplatesUpdatesInput and output parametersSchema filesReferencesPreview modeConsole UI\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Console",
+    "service_short_name": "cloudConsole",
+    "description": "GCP's integrated management console.",
+    "url": "https://cloud.google.com/cloud-console/",
+    "category": "Management & Governance",
+    "benefits": "Find and manage your resources quicklyDevOps on the goMore secure administrative interfaceGo from data to insightsEmpower developer productivityResource managementPowerful data  managementBillingSSH in browserActivity streamMobile appsCloud ShellDiagnosticsAdminMarketplaceLocalized\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Shell",
+    "service_short_name": "cloudShell",
+    "description": "Command-line management from any browser.",
+    "url": "https://cloud.google.com/shell/",
+    "category": "Management & Governance"
+  },
+  {
+    "service_name": "Cloud Mobile App",
+    "service_short_name": "cloudMobileApp",
+    "description": "Manage GCP services from your mobile device.",
+    "url": "https://cloud.google.com/console-app/",
+    "category": "Management & Governance",
+    "benefits": "Production alertingDiagnose and fix issuesKeep an eye on your environmentIncident managementAlertsError reportingCompute EngineCustomizable dashboardBillingApp EngineCloud StorageCloud SQL\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cost management",
+    "service_short_name": "costManagement",
+    "description": "Tools for monitoring, controlling, and optimizing your costs.",
+    "url": "https://cloud.google.com/cost-management/",
+    "category": "Management & Governance",
+    "benefits": "Visibility is powerDrive accountability, spend more responsiblyTake control of your costsIntelligent insights for smart spendingLearn and buildNeed more help?"
+  },
+  {
+    "service_name": "Cloud APIs",
+    "service_short_name": "cloudApis",
+    "description": "Programmatic interfaces for all GCP services.",
+    "url": "https://cloud.google.com/apis/",
+    "category": "Management & Governance"
+  },
+  {
+    "service_name": "Orbitera White-Label Marketplace",
+    "service_short_name": "orbiteraWhiteLabelMarketplace",
+    "description": "Enable customers to find and purchase your solutions.",
+    "url": "https://cloud.google.com/marketplace/orbitera-whitelabel/",
+    "category": "Management & Governance",
+    "benefits": "Streamline your customers' experienceConfigure offerings flexiblyReach a larger audience with channel salesRetain full control and ownershipSelf-service for customers Fully customizable marketplaceIntegrated dashboardChannel managementConfigurable incentivesWant to schedule a demo or do you have more\n                questions about Orbitera White-Label Marketplace?"
+  },
+  {
+    "service_name": "Google Cloud Service Mesh",
+    "service_short_name": "googleCloudServiceMesh",
+    "description": "The fully managed service mesh for your complex microservices architectures.",
+    "url": "https://cloud.google.com/service-mesh/",
+    "category": "Management & Governance",
+    "benefits": "Fully managed, full stopSecurity without complexityDeep insights into your meshTraffic management made simpleZero-effort StackdriverAuthenticate and encrypt seamlesslyFlexible authorizationFine-grained traffic managementFailure recovery out of the boxEasy-to-configure fault injectionLoad balancingSecurity insights\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Orbitera White-Label Marketplace",
+    "service_short_name": "orbiteraWhiteLabelMarketplace",
+    "description": "Create products and test drives and enable customers to find and purchase your\n                    solutions that run on multiple cloud providers, direct or through your channel.",
+    "url": "https://cloud.google.com/marketplace/orbitera-whitelabel/",
+    "category": "Management & Governance",
+    "benefits": "Streamline your customers' experienceConfigure offerings flexiblyReach a larger audience with channel salesRetain full control and ownershipSelf-service for customers Fully customizable marketplaceIntegrated dashboardChannel managementConfigurable incentivesWant to schedule a demo or do you have more\n                questions about Orbitera White-Label Marketplace?"
+  }
+]

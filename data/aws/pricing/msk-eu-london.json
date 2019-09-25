@@ -1,0 +1,30 @@
+{
+  "RunVolume": {
+    "rateCode": "PK9T26Y29G7DUTSA.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1160000000"
+  },
+  "RunBroker-computefamily-m5.xlarge": {
+    "rateCode": "884X5UERQDBSQVTQ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.4860000000"
+  },
+  "RunBroker-computefamily-m5.large": {
+    "rateCode": "NK5YUN95Y7TX5HKQ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2430000000"
+  },
+  "RunBroker-computefamily-m5.4xlarge": {
+    "rateCode": "M5QZYYMZCXUPWKNV.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.9430000000"
+  },
+  "RunBroker-computefamily-m5.2xlarge": {
+    "rateCode": "Y7FTERY6PZDHURN6.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.9710000000"
+  },
+  "RunBroker-computefamily-m5.24xlarge": {
+    "rateCode": "7A895WUYHP45KEDN.JRTCKXETXF.6YS6EN2CT7",
+    "price": "11.6550000000"
+  },
+  "RunBroker-computefamily-m5.12xlarge": {
+    "rateCode": "F6NKP4VNCMSW8QT6.JRTCKXETXF.6YS6EN2CT7",
+    "price": "5.8280000000"
+  }
+}

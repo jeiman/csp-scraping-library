@@ -1,0 +1,46 @@
+[
+  {
+    "service_path": "/aws-cost-management/aws-cost-explorer/",
+    "service_name": "AWS Cost Explorer",
+    "mini_description": "Analyze Your AWS Cost and Usage",
+    "category": "Cost Management",
+    "url": "https://aws.amazon.com/aws-cost-management/aws-cost-explorer/",
+    "keywords": [
+      ""
+    ],
+    "benefits": ""
+  },
+  {
+    "service_path": "/aws-cost-management/aws-budgets/",
+    "service_name": "AWS Budgets",
+    "mini_description": "Set Custom Cost and Usage Budgets",
+    "category": "Cost Management",
+    "url": "https://aws.amazon.com/aws-cost-management/aws-budgets/",
+    "keywords": [
+      ""
+    ],
+    "benefits": ""
+  },
+  {
+    "service_path": "/aws-cost-management/aws-cost-and-usage-reporting/",
+    "service_name": "AWS Cost and Usage Report",
+    "mini_description": "Access Comprehensive Cost and Usage Information",
+    "category": "Cost Management",
+    "url": "https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/",
+    "keywords": [
+      ""
+    ],
+    "benefits": ""
+  },
+  {
+    "service_path": "/aws-cost-management/reserved-instance-reporting/",
+    "service_name": "Reserved Instance Reporting",
+    "mini_description": "Dive Deeper into Your Reserved Instances (RIs)",
+    "category": "Cost Management",
+    "url": "https://aws.amazon.com/aws-cost-management/reserved-instance-reporting/",
+    "keywords": [
+      ""
+    ],
+    "benefits": ""
+  }
+]

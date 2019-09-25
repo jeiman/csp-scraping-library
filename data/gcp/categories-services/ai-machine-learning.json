@@ -1,0 +1,152 @@
+[
+  {
+    "service_name": "Vision AI",
+    "service_short_name": "visionAi",
+    "description": "Derive insights from images in the cloud or at the edge with AutoML Vision,\n                        or use pre-trained Vision API models to detect emotion, text, and more.",
+    "url": "https://cloud.google.com/vision/",
+    "category": "AI & Machine Learning",
+    "benefits": "AutoML VisionVision APIDetect objects automaticallyGain intelligence at the edgeReduce purchase frictionUnderstand text and act on itDetect explicit contentUse our data labeling service\n                Industrial inspection\n              \n                Vision product search\n              \n                Document classification\n              \n                Image search\n              Integrate computer vision into your applications"
+  },
+  {
+    "service_name": "AI Hub (beta)",
+    "service_short_name": "AiHub",
+    "description": "Discover, share, and deploy AI on Google Cloud.",
+    "url": "https://cloud.google.com/ai-hub/",
+    "category": "AI & Machine Learning",
+    "benefits": "DiscoverShareDeployAccess both public and private content Easily share your AI content with AI users"
+  },
+  {
+    "service_name": "Cloud AI building blocks",
+    "service_short_name": "cloudAiBuildingBlocks",
+    "description": "Easily infuse AI into applications with custom or pre-trained models.",
+    "url": "https://cloud.google.com/products/ai/building-blocks/",
+    "category": "AI & Machine Learning",
+    "benefits": "Related content"
+  },
+  {
+    "service_name": "Cloud AutoML (beta)",
+    "service_short_name": "cloudAutoMlL ",
+    "description": "Easily train high-quality, custom ML models.",
+    "url": "https://cloud.google.com/automl/",
+    "category": "AI & Machine Learning",
+    "benefits": "State-of-the-art performanceGet up and running fastGenerate high-quality training dataAutoML VisionAutoML Video IntelligenceAutoML Natural LanguageAutoML TranslationAutoML TablesCustom modelsPowered by Google’s AutoML and transfer learningFully integratedIntegration with data labeling service.Cloud AutoMLStart learning"
+  },
+  {
+    "service_name": "Video Intelligence",
+    "service_short_name": "videoIntelligence",
+    "description": "Enable powerful content discovery and engaging video experiences with\n                        AutoML Video Intelligence and Video Intelligence API.",
+    "url": "https://cloud.google.com/video-intelligence/",
+    "category": "AI & Machine Learning",
+    "benefits": "AutoML Video IntelligenceVideo Intelligence APIPrecise video analysisSimplify media managementEasily create intelligent video appsAutomate expensive workflowsProcess and store on Google Cloud PlatformContent moderationRecommended contentMedia archivesContextual advertisementsAutoML Video IntelligenceVideo Intelligence API"
+  },
+  {
+    "service_name": "Cloud Natural Language",
+    "service_short_name": "cloudNaturalLanguage",
+    "description": "Derive insights from unstructured text.",
+    "url": "https://cloud.google.com/natural-language/",
+    "category": "AI & Machine Learning",
+    "benefits": "AutoML Natural LanguageNatural Language APIInsights from customersMultimedia and multilingual supportExtract key document entities that matterReceipt and invoice understandingContent classification relationship graphsBest of Google deep-learning modelsAutoML Natural LanguageNatural Language API"
+  },
+  {
+    "service_name": "Cloud Translation",
+    "service_short_name": "cloudTranslation",
+    "description": "Dynamically translate between languages.",
+    "url": "https://cloud.google.com/translate/",
+    "category": "AI & Machine Learning",
+    "benefits": "AutoML TranslationTranslation API Translate many languagesLanguage detectionGlossary supportHighly scalableEasy integrationSimple, affordable pricingAutoML TranslationTranslation API"
+  },
+  {
+    "service_name": "Cloud Text-to-Speech",
+    "service_short_name": "cloudTextToSpeech",
+    "description": "Text-to-speech conversion powered by ML.",
+    "url": "https://cloud.google.com/text-to-speech/",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "service_name": "Cloud Speech-to-Text",
+    "service_short_name": "cloudSpeechToText",
+    "description": "Speech-to-text conversion powered by ML.",
+    "url": "https://cloud.google.com/speech-to-text/",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "service_name": "Cloud Healthcare Model Explorer",
+    "service_short_name": "cloudHealthcareModelExplorer",
+    "description": "Evaluate healthcare AI models on GCP.",
+    "url": "https://cloud.google.com/healthcare-model-explorer/",
+    "category": "AI & Machine Learning",
+    "benefits": "Evaluate AI models for medical imagingAssess performance against public datasetsCloud Healthcare Model Explorer"
+  },
+  {
+    "service_name": "Dialogflow",
+    "service_short_name": "dialogflow",
+    "description": "Create conversational experiences across devices and platforms.",
+    "url": "https://cloud.google.com/dialogflow/",
+    "category": "AI & Machine Learning",
+    "benefits": "Powered by Google machine learningMake building serverless apps easyBring your enterprise knowledgeDeliver automated phone serviceDeploy across platforms and languagesDesigned for a voice-first worldImprove experiences with built-in analyticsUnderstand user sentimentRely on automatic spelling correction"
+  },
+  {
+    "service_name": "AutoML Tables (beta)",
+    "service_short_name": "autoMlTables",
+    "description": "Automatically build and deploy state-of-the-art machine learning models\n                        on structured data.",
+    "url": "https://cloud.google.com/automl-tables/",
+    "category": "AI & Machine Learning",
+    "benefits": "Increases model qualityHandles data as found in the wildEasy-to-build modelsEasy-to-deploy and scale modelsSaves timeSaves moneySee how you can use AutoML Tables to turn your structured data into predictive insightsMaximize your revenueOptimize your portfolio Understand your customerMaintain your equipmentReady to try AutoML Tables?"
+  },
+  {
+    "service_name": "Cloud Inference API (alpha)",
+    "service_short_name": "cloudInferenceApi",
+    "description": "Quickly run large-scale correlations over typed time-series datasets.",
+    "url": "https://cloud.google.com/inference/",
+    "category": "AI & Machine Learning",
+    "benefits": "Easy to useReal-time analysisSecureIntegratedAnomaly and trend detectionLarge scaleLow latency for queriesServerless and fully managed\n        Cloud Inference API Alpha\n        Learn and build"
+  },
+  {
+    "service_name": "Recommendations AI (beta)",
+    "service_short_name": "recommendationsAi",
+    "description": "Deliver highly personalized product recommendations at scale.",
+    "url": "https://cloud.google.com/recommendations/",
+    "category": "AI & Machine Learning",
+    "benefits": "Dramatic improvements to meaningful metricsFully managed serviceGet up and running fastMaximize your data’s valueChoose your strategyDeliver at any touchpointYour data. Your models.Simple pricingAutomatic global scaleGDPR compliantProduct catalog dataCustomer dataMultiple ways to integrate your dataSelect your recommendation typeSelect your objectiveSet business rulesShow recommendations anywhere in the customer journeyProduct catalog dataCustomer dataMultiple ways to integrate your dataSelect your recommendation typeSelect your objectiveSet business rulesShow recommendations anywhere in the customer journey"
+  },
+  {
+    "service_name": "AI Platform",
+    "service_short_name": "cloudAiPlatform",
+    "description": "Build AI applications that run on GCP or on-premises without significant\n                        code changes.",
+    "url": "https://cloud.google.com/ai-platform/",
+    "category": "AI & Machine Learning",
+    "benefits": "PrepareBuild and runManageShareLearn and buildNeed more help?"
+  },
+  {
+    "service_name": "Cloud TPU",
+    "service_short_name": "cloudTpu",
+    "description": "Train and run ML models faster than ever.",
+    "url": "https://cloud.google.com/tpu/",
+    "category": "AI & Machine Learning",
+    "benefits": "Built for AI on Google CloudIterate faster on your ML solutionsProven, state-of-the-art modelsCloud TPU v2Cloud TPU v3Cloud TPU v2 Pod (beta)Cloud TPU v3 Pod (beta)Model libraryConnect Cloud TPUs to custom machine typesFully integrated with Google Cloud PlatformPreemptible Cloud TPU"
+  },
+  {
+    "service_name": "AI Platform Deep Learning VM Image",
+    "service_short_name": "cloudDeepLearningVmImage",
+    "description": "Preconfigured VMs for deep learning applications.",
+    "url": "https://cloud.google.com/deep-learning-vm-image/",
+    "category": "AI & Machine Learning",
+    "benefits": "Broad supportOptimized for performanceFast prototypingIntegrated notebook experience\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "AI Platform Notebooks (beta)",
+    "service_short_name": "AiPlatformNotebooks",
+    "description": "An enterprise notebook service to get your projects up and running\n                        in minutes.",
+    "url": "https://cloud.google.com/ai-platform-notebooks/",
+    "category": "AI & Machine Learning",
+    "benefits": "Get up and running fastUse popular open source frameworksScale on demandEnd-to-end supportManaged JupyterLab experienceAI Hub supportSupport for data science frameworksOptimized for machine learningIntegrated experienceGit supportAdvanced networkingSingle user mode and service account accessBring your own container\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Deep Learning Containers",
+    "service_short_name": "deepLearningContainers",
+    "description": "Preconfigured and optimized containers for deep learning environments.",
+    "url": "https://cloud.google.com/ai-platform/deep-learning-containers/",
+    "category": "AI & Machine Learning",
+    "benefits": "Consistent environmentFast prototypingPerformance optimized"
+  }
+]

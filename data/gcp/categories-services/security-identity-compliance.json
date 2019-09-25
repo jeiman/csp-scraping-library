@@ -1,0 +1,161 @@
+[
+  {
+    "service_name": "Security key enforcement",
+    "service_short_name": "securityKeyEnforcement",
+    "description": "Enforce the use of security keys to help prevent account takeovers.",
+    "url": "https://cloud.google.com/security-key/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Simpler to useA must for admins and high-value usersTitan Security KeyBuilt-in on Android phonesAccount takeover protectionChoiceOpen standardsAdmin controls\n        Security key enforcement\n        Need more help?"
+  },
+  {
+    "service_name": "Access Transparency",
+    "service_short_name": "accessTransparency",
+    "description": "Get visibility over your cloud provider through near real-time logs.",
+    "url": "https://cloud.google.com/access-transparency/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Move to the cloud with confidenceApprove access by GCP support engineersExtend your security automation to a deeper layerGet the data you needAccess approvalAccess justificationsResource and method identificationStackdriver Logging integrationAccessor locationData protection controlsNear real-time publication\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Binary Authorization",
+    "service_short_name": "binaryAuthorization",
+    "description": "Deploy only trusted containers on Kubernetes Engine.",
+    "url": "https://cloud.google.com/binary-authorization/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Enforce standardized container release practicesPut proactive security measures in placeNative GCP integrationPolicy creationPolicy verification and enforcementCloud Security Command Center integrationAudit loggingCloud KMS supportOpen-source support for KubernetesDry-run supportBreakglass supportIntegration with third-party solutions\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Audit Logs",
+    "service_short_name": "cloudAuditLogs",
+    "description": "Gain visibility into who did what, when, and where for all user activity\n                        on Google Cloud Platform.",
+    "url": "https://cloud.google.com/audit-logs/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Real-time delivery of audit eventImmutable audit trailEnd-to-end transparency in a single pane of glassDefault encryptionAutomated visibilityIncident managementCompliance by defaultIntegration with partners\n        \n          Learn and build\n        \n      Need more help?"
+  },
+  {
+    "service_name": "Cloud IAM",
+    "service_short_name": "cloudIam",
+    "description": "Fine-grained identity and access management for GCP resources.",
+    "url": "https://cloud.google.com/iam/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Enterprise identity made easyThe right rolesGranular resource controlContext-aware accessSimplicity firstBuilt-in audit trailAccess control your waySingle access control interfaceFine-grained controlContext-aware accessFlexible rolesWeb, programmatic, and command-line accessBuilt-in audit trailSupport for Cloud IdentityFree of charge\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Identity",
+    "service_short_name": "cloudIdentity",
+    "description": "Easily manage user identities, devices, and applications from one console.",
+    "url": "https://cloud.google.com/identity/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Google-grade securityUser and IT simplicityMeeting you where you areGive users one-click access to appsProtect user and company dataEnforce policies for personal and corporate devicesAccount securityDevice securityDigital workspaceUnified management consoleHRMS integrationHybrid identity managementSLA and complianceTechnical supportAccount takeover protection"
+  },
+  {
+    "service_name": "Identity Platform",
+    "service_short_name": "identityPlatform",
+    "description": "Add Google-grade identity and access management to your apps.",
+    "url": "https://cloud.google.com/identity-cp/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Authentication as a serviceBroad protocol supportTwo-factor authentication (coming soon)Intelligent account protectionPlanet-scale infrastructureEnterprise support and SLAMonthly active users (MAU) of social providers, anonymous, email+password, and phone authentication. No additional charge for multiple authentications per month for each MAU.Monthly active users (MAU) of SAML and OpenID Connect Federation providers. No additional charge for multiple authentications per month for each MAU.Successful authentication by phone number/SMSAdd Google-grade identity and access management to your apps."
+  },
+  {
+    "service_name": "Cloud Identity-Aware Proxy",
+    "service_short_name": "cloudIdentityAwareProxy",
+    "description": "Use identity and context to guard access to your applications and VMs.",
+    "url": "https://cloud.google.com/iap/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Simpler for cloud adminsSimpler for remote workersContext-aware accessSecure access administrationControls access without VPNSaves admin timeWorks with cloud and on-premises appsSaves end user timeDeploys in minutesProtects your apps and VMs\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Data Loss Prevention",
+    "service_short_name": "cloudDataLossPreventionApi",
+    "description": "Discover and redact sensitive data.",
+    "url": "https://cloud.google.com/dlp/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Discover and classify sensitive dataAutomatically mask your data to safely unlock more of the cloudBuilt to easily fit into your workloadsEnhance your understanding of data privacy riskFlexible classificationPay-as-you-go pricingSecure data handlingNo hardware or deployments to manageCustom detectorsDetailed findingsEasy workload integrationSimple and powerful redactionLikelihood scoresREST API\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud HSM",
+    "service_short_name": "cloudHsm",
+    "description": "Protect cryptographic keys with a fully managed hardware security module\n                        service.",
+    "url": "https://cloud.google.com/hsm/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Maintain control over cryptographic keysHelp satisfy compliance requirementsAutomate time-consuming tasksEasily integrate with Cloud KMSPay for what you useSymmetric and asymmetric key supportStatement attestationIntegration with Cloud KMSMulti-region support\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Key Management Service",
+    "service_short_name": "cloudKeyManagementService",
+    "description": "Manage encryption keys on GCP.",
+    "url": "https://cloud.google.com/kms/",
+    "category": "Security, Identity & Compliance"
+  },
+  {
+    "service_name": "Cloud Security Command Center",
+    "service_short_name": "cloudSecurityCommandCenter",
+    "description": "Comprehensive security and data risk platform for GCP.",
+    "url": "https://cloud.google.com/security-command-center/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Prevent threats with visibility and control over your cloud data and servicesDetect and respond to threats targeting your Google Cloud Platform assetsAsset discovery and inventorySensitive data discoveryApplication vulnerability detectionREST API and SIEMAccess control monitoringAnomaly detection from GoogleThreat detectionThird-party security tool inputsReal-time notifications and remediationAudit logs\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Security Scanner",
+    "service_short_name": "cloudSecurityScanner",
+    "description": "Automatically scan your App Engine apps.",
+    "url": "https://cloud.google.com/security-scanner/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Find common security vulnerabilitiesFocus on actionable resultsIntegrates easily with your processesVulnerability detectionSimple controlActionable resultsSelection of agent browsersUser authentication\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Context-aware access",
+    "service_short_name": "contextAwareAccess",
+    "description": "Manage access to apps and infrastructure based on a user’s identity and context.",
+    "url": "https://cloud.google.com/context-aware-access/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Simpler user accessGoogle-grade securityUnified access managementVPN-less user accessZero Trust securityBuilt-in with GCP and G SuiteCloud or on-premisesSingle platform and policiesPlanet-scale infrastructure\n        Manage access to apps and infrastructure based on a user’s identity and context"
+  },
+  {
+    "service_name": "Event Threat Detection (beta)",
+    "service_short_name": "eventThreatDetection",
+    "description": "Uncover security threats in Google Cloud Platform environments.",
+    "url": "https://cloud.google.com/event-threat-detection/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Quickly detect the most worrisome cloud-based threatsPowered by industry-leading threat intelligenceOptimize your SIEM and cut costsEnable a single pane of glass with Cloud Security Command Center integrationStackdriver Logging integrationDetect high-profile cloud threatsView findings in Cloud Security Command CenterStream findings with Cloud Pub/Sub and Cloud FunctionsFlexible API\n        Event Threat Detection"
+  },
+  {
+    "service_name": "Managed Service for Microsoft Active Directory (alpha)",
+    "service_short_name": "managedServiceForMicrosoftActiveDirectory",
+    "description": "Use a highly available, hardened service running Microsoft® Active\n                        Directory (AD).",
+    "url": "https://cloud.google.com/managed-microsoft-ad/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Actual Microsoft ADVirtually maintenance-freeHybrid identityAn actual AD domainFamiliar features and toolsHighly availableAutomatic patchingHardenedFlexible deployment\n        Managed Service for Microsoft® AD"
+  },
+  {
+    "service_name": "Policy Intelligence (alpha)",
+    "service_short_name": "policyIntelligence",
+    "description": "Smart access control for your GCP resources.",
+    "url": "https://cloud.google.com/policy-intelligence/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Recommender: discover and remediate excessive permissionsTroubleshooter: quickly resolve access control issuesValidator: put tight controls around cloud resources\n        Policy Intelligence"
+  },
+  {
+    "service_name": "Resource Manager",
+    "service_short_name": "resourceManager",
+    "description": "Hierarchically manage resources on GCP.",
+    "url": "https://cloud.google.com/resource-manager/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Manage IAM across your orgOrganize resourcesTrack and manage projectsOrganizationOrganization policiesCloud IAM policiesAsset inventoryCreate, update, delete projectsProject detailsCloud foldersCloud console and API access\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Titan Security Key",
+    "service_short_name": "titanSecurityKey",
+    "description": "Defend against account takeovers from phishing attacks.",
+    "url": "https://cloud.google.com/titan-security-key/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Enhanced account protectionTrusted hardwareOpen ecosystemBuilt-in on Pixel 3 and Pixel 3aPhishing-resistant 2FATamper-resistant hardwareGrowing app ecosystemBroad browser supportSecurity key enforcementAdvanced Protection Program"
+  },
+  {
+    "service_name": "VPC Service Controls",
+    "service_short_name": "vpcServiceControls",
+    "description": "Protect sensitive data in Google Cloud Platform\n                        services using security perimeters.",
+    "url": "https://cloud.google.com/vpc-service-controls/",
+    "category": "Security, Identity & Compliance",
+    "benefits": "Keep sensitive data private in a hybrid environmentMitigate data exfiltration risksEnable context-aware access to GCP servicesCentrally manage your security posture at scaleAudit loggingSupport for hybrid environmentsContext-aware accessPerimeter security for managed GCP servicesSecure communicationVPC Flow Logs\n        VPC Service Controls"
+  }
+]

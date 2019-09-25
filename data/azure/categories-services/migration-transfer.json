@@ -1,0 +1,54 @@
+[
+  {
+    "service_name": "Azure Database Migration Service",
+    "service_path": "/en-gb/services/database-migration/",
+    "url": "https://azure.microsoft.com/en-gb/services/database-migration/",
+    "description": "Simplify on-premises database migration to the cloud",
+    "category": "Migration & Transfer",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Azure Site Recovery",
+    "service_path": "/en-gb/services/site-recovery/",
+    "url": "https://azure.microsoft.com/en-gb/services/site-recovery/",
+    "description": "Keep your business running with built-in disaster recovery service",
+    "category": "Migration & Transfer",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Azure Migrate",
+    "service_path": "/en-gb/services/azure-migrate/",
+    "url": "https://azure.microsoft.com/en-gb/services/azure-migrate/",
+    "description": "Easily discover, assess, right-size and migrate your on-premises VMs to Azure",
+    "category": "Migration & Transfer",
+    "keywords": [
+      "Streamline",
+      "your",
+      "migration",
+      "journey.",
+      "Extensible",
+      "and",
+      "flexible",
+      "approach.",
+      "Integrated",
+      "application,",
+      "server",
+      "and",
+      "database",
+      "migration.",
+      "Rich",
+      "migration",
+      "planning.",
+      "Simplified",
+      "server",
+      "migration"
+    ],
+    "benefits": "Streamline your migration journey. Extensible and flexible approach. Integrated application, server and database migration. Rich migration planning. Simplified server migration."
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "Config Rules next 40": {
+    "rateCode": "DC99NZ3TNC2VDGBS.JRTCKXETXF.4WUN9CNZK5",
+    "price": "1.5000000000"
+  },
+  "Config Rules first 10": {
+    "rateCode": "DC99NZ3TNC2VDGBS.JRTCKXETXF.DGNP37V5JW",
+    "price": "2.0000000000"
+  },
+  "Config Rules 51 and more": {
+    "rateCode": "DC99NZ3TNC2VDGBS.JRTCKXETXF.HVPRRUAXWE",
+    "price": "1.0000000000"
+  },
+  "Config": {
+    "rateCode": "NUMRPZVJYJXCEV8F.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0030000000"
+  }
+}

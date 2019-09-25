@@ -1,0 +1,18 @@
+{
+  "Lambda Requests": {
+    "rateCode": "6GFK8TZW8U8G9MUB.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000002000"
+  },
+  "Lambda Edge-Requests": {
+    "rateCode": "ARE6Q3TG5H82ZTXB.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000006000"
+  },
+  "Lambda Edge-Duration": {
+    "rateCode": "JW5BSXHSA4A4KJK4.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000500100"
+  },
+  "Lambda Duration": {
+    "rateCode": "7V27U9PFRJGUDWJ8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000166667"
+  }
+}

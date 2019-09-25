@@ -1,0 +1,62 @@
+{
+  "1yr Read Capacity Unit Hrs Provisioned": {
+    "rateCode": "7AWWGBPDAG6XPXDF.YTVHEVGPBZ.6YS6EN2CT7",
+    "price": "0.0000310000"
+  },
+  "1yr Write Capacity Unit Hrs Provisioned": {
+    "rateCode": "9MYVKZR2PYQ9FE5Z.YTVHEVGPBZ.6YS6EN2CT7",
+    "price": "0.0001220000"
+  },
+  "3yr Read Capacity Unit Hrs Provisioned": {
+    "rateCode": "7AWWGBPDAG6XPXDF.VG8YD49WWM.6YS6EN2CT7",
+    "price": "0.0000190000"
+  },
+  "3yr Write Capacity Unit Hrs Provisioned": {
+    "rateCode": "9MYVKZR2PYQ9FE5Z.VG8YD49WWM.6YS6EN2CT7",
+    "price": "0.0000970000"
+  },
+  "Data Storage Indexed GB-Mo": {
+    "rateCode": "FW6FTDP345BYZY6H.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3000000000"
+  },
+  "On-Demand Backup Storage GB-Month": {
+    "rateCode": "GMU463E7NYYV5NTD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1200000000"
+  },
+  "PITR Backup Storage GB-Mo": {
+    "rateCode": "Q65SMP57N5EXMPDC.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2400000000"
+  },
+  "Provisioned 1yr DDB-ReadUnits Upfront Fee": {
+    "rateCode": "7AWWGBPDAG6XPXDF.YTVHEVGPBZ.2TG2D8R56U",
+    "price": "0.36"
+  },
+  "Provisioned 1yr DDB-WriteUnits Upfront Fee": {
+    "rateCode": "9MYVKZR2PYQ9FE5Z.YTVHEVGPBZ.2TG2D8R56U",
+    "price": "1.8"
+  },
+  "Provisioned 3yr DDB-ReadUnits Upfront Fee": {
+    "rateCode": "7AWWGBPDAG6XPXDF.VG8YD49WWM.2TG2D8R56U",
+    "price": "0.43"
+  },
+  "Provisioned 3yr DDB-WriteUnits Upfront Fee": {
+    "rateCode": "9MYVKZR2PYQ9FE5Z.VG8YD49WWM.2TG2D8R56U",
+    "price": "2.16"
+  },
+  "Provisioned Read Units": {
+    "rateCode": "7AWWGBPDAG6XPXDF.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0001560000"
+  },
+  "Provisioned Write Units": {
+    "rateCode": "9MYVKZR2PYQ9FE5Z.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0007800000"
+  },
+  "Restore Data Size": {
+    "rateCode": "BPXSNU2RD4YQNH5M.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1800000000"
+  },
+  "Streams Read Requests": {
+    "rateCode": "X5G8ESE973X9G7E2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000002400"
+  }
+}

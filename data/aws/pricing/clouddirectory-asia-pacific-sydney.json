@@ -1,0 +1,14 @@
+{
+  "Write Request and Strongly Consistent Read Request": {
+    "rateCode": "6MQTWHTDEX7D3Q76.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000090000"
+  },
+  "Storage per GB Mo": {
+    "rateCode": "9R9XSP9DY8NQNU5H.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2850000000"
+  },
+  "Eventually Consistent Read Request": {
+    "rateCode": "WR9DV68URMKBSTGY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000008400"
+  }
+}

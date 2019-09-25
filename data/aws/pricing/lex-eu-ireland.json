@@ -1,0 +1,22 @@
+{
+  "Speech to-Speech Supported Mode Speech and Text": {
+    "rateCode": "P6GZC7SPAK29SDUZ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0040000000"
+  },
+  "Speech to-Text Supported Mode Speech and Text": {
+    "rateCode": "AKVYTT4MT35GPGCV.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0040000000"
+  },
+  "Text to-Speech Supported Mode Speech and Text": {
+    "rateCode": "QUCYT7HZ8QGATTBG.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0007500000"
+  },
+  "Text to-Text Supported Mode Speech and Text": {
+    "rateCode": "MW32QDGEVJM5VWAA.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0007500000"
+  },
+  "Text to-Text Supported Mode Text Only": {
+    "rateCode": "ENRCA382HSAH8TQD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0007500000"
+  }
+}

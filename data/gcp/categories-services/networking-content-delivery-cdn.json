@@ -1,0 +1,70 @@
+[
+  {
+    "service_name": "Virtual Private Cloud (VPC)",
+    "service_short_name": "virtualPrivateCloud",
+    "description": "VPC networking for GCP resources.",
+    "url": "https://cloud.google.com/vpc/",
+    "category": "Networking & Content Delivery (CDN)"
+  },
+  {
+    "service_name": "Cloud Load Balancing",
+    "service_short_name": "cloudLoadBalancing",
+    "description": "High-performance, scalable load balancing.",
+    "url": "https://cloud.google.com/load-balancing/",
+    "category": "Networking & Content Delivery (CDN)",
+    "benefits": "Global load balancing with single anycast IPSoftware-defined load balancingOver one million queries per secondSeamless autoscalingInternal load balancingSupport for cutting-edge protocolsHTTP(S) load balancingStackdriver LoggingTCP/SSL load balancingSeamless autoscalingSSL offloadHigh fidelity health checksAdvanced feature supportAffinityCloud CDN integrationUDP load balancing\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Armor",
+    "service_short_name": "cloudArmor",
+    "description": "Protect your services against DoS and web attacks.",
+    "url": "https://cloud.google.com/armor/",
+    "category": "Networking & Content Delivery (CDN)"
+  },
+  {
+    "service_name": "Cloud CDN",
+    "service_short_name": "cloudCdn",
+    "description": "Content delivery on Google's global network.",
+    "url": "https://cloud.google.com/cdn/",
+    "category": "Networking & Content Delivery (CDN)"
+  },
+  {
+    "service_name": "Cloud NAT",
+    "service_short_name": "cloudNat",
+    "description": "GCP-managed high-performance Network Address Translation.",
+    "url": "https://cloud.google.com/nat/",
+    "category": "Networking & Content Delivery (CDN)",
+    "benefits": "High performance NATWorks with all your workloadsScalable by designRegional high availabilityFlexible IP address allocationManaged NAT serviceFlexibleMultiple NAT IPs per gatewayTimeout timersNAT for allHigh availability\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Hybrid Connectivity",
+    "service_short_name": "hybridConnectivity",
+    "description": "Connect your infrastructure to GCP on your terms, from anywhere.",
+    "url": "https://cloud.google.com/hybrid-connectivity/",
+    "category": "Networking & Content Delivery (CDN)",
+    "benefits": "Connections for every workloadPrivate options for everyoneAlways on, always upAccess Google cloud services “on-net”Hybrid made easyDo business on a global scaleUptime, guaranteedFewer disruptions and dropsConnect from anywhereScale effortlesslyFlexible, low-cost VPNUltimate bandwidthAccess internal IPs directlyLearn and buildTalk to us"
+  },
+  {
+    "service_name": "Cloud DNS",
+    "service_short_name": "cloudDns",
+    "description": "Reliable, resilient, low-latency DNS serving.",
+    "url": "https://cloud.google.com/dns/",
+    "category": "Networking & Content Delivery (CDN)",
+    "benefits": "100% Availability and Low LatencyAutomatic ScalingCost Effective Pricing Tiers"
+  },
+  {
+    "service_name": "Network Service Tiers",
+    "service_short_name": "networkServiceTiers",
+    "description": "Optimize your network for performance or cost.",
+    "url": "https://cloud.google.com/network-tiers/",
+    "category": "Networking & Content Delivery (CDN)"
+  },
+  {
+    "service_name": "Network Telemetry",
+    "service_short_name": "networkTelemetry",
+    "description": "In-depth network telemetry to keep your services secure.",
+    "url": "https://cloud.google.com/network-telemetry/",
+    "category": "Networking & Content Delivery (CDN)",
+    "benefits": "Firewall LoggingMonitoring at peak performanceRich annotation supportExporting logsTraffic coverageNo performance impactAnnotationsProtocolsMetricsFlow definition parametersFiltersPartnersLearn and buildNeed more help?"
+  }
+]

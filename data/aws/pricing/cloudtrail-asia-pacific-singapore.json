@@ -1,0 +1,14 @@
+{
+  "Management Paid Events Recorded": {
+    "rateCode": "DPD68W9KN3SD78W6.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000200000"
+  },
+  "Free Events Recorded": {
+    "rateCode": "CDF49ARRQWTH2GM9.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "Data Events Recorded": {
+    "rateCode": "BST27YMX8ASNNU5D.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000010000"
+  }
+}

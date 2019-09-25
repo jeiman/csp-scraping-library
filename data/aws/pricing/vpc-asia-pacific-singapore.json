@@ -1,0 +1,42 @@
+{
+  "Charge for per GB data processed by AWS Transit Gateways for Site to-Site VPN attachments per GigaBytes": {
+    "rateCode": "XDX2W5TR4RJFANZ3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0200000000"
+  },
+  "Charge for per GB data processed by AWS Transit Gateways for AWS Direct Connect Gateway attachments per GigaBytes": {
+    "rateCode": "3EBTF7RPTH7EKV6R.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0200000000"
+  },
+  "Charge for per GB data processed by AWS Transit Gateways for VPC attachments per GigaBytes": {
+    "rateCode": "6PJFJFDGSTZBJW2G.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0200000000"
+  },
+  "Hourly charge for Traffic Mirroring Source per hour": {
+    "rateCode": "XY5JBS9THHBRKA99.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0180000000"
+  },
+  "Hourly charge for Transit Gateway AWS Direct Connect Gateway attachments per hour": {
+    "rateCode": "49WTYPUFRX5Q8YVJ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0700000000"
+  },
+  "Hourly charge for Transit Gateway Site to-Site VPN attachments per hour": {
+    "rateCode": "3ZA9FWYRR2TQW5KH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0700000000"
+  },
+  "Hourly charge for Transit Gateway VPC Attachments per hour": {
+    "rateCode": "VU4JUFNDJD3K8MGX.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0700000000"
+  },
+  "Charge for per GB data processed by VPC Endpoints per GB": {
+    "rateCode": "5APZT8JXA5B8ZYFH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0100000000"
+  },
+  "Hourly charge for VPC Endpoints per Hrs": {
+    "rateCode": "ZW3HVQKP8FYZ6Y6K.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0130000000"
+  },
+  "CreateVpnConnection per Hrs": {
+    "rateCode": "YHGJQMH9CN6TUX3Z.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0500000000"
+  }
+}

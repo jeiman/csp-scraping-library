@@ -1,0 +1,30 @@
+[
+  {
+    "service_name": "Cloud Storage",
+    "service_short_name": "cloudStorage",
+    "description": "Object storage with global edge-caching.",
+    "url": "https://cloud.google.com/storage/",
+    "category": "Storage"
+  },
+  {
+    "service_name": "Persistent Disk",
+    "service_short_name": "persistentDisk",
+    "description": "Block storage for VM instances.",
+    "url": "https://cloud.google.com/persistent-disk/",
+    "category": "Storage"
+  },
+  {
+    "service_name": "Cloud Storage for Firebase",
+    "service_short_name": "cloudStorageForFirebase",
+    "description": "Store and serve content with ease.",
+    "url": "https://firebase.google.com/products/storage/",
+    "category": "Storage"
+  },
+  {
+    "service_name": "Cloud Filestore",
+    "service_short_name": "cloudFilestore",
+    "description": "High-performance file storage.",
+    "url": "https://cloud.google.com/filestore/",
+    "category": "Storage"
+  }
+]

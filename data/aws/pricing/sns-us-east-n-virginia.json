@@ -1,0 +1,78 @@
+{
+  "AWS Lambda Notifications": {
+    "rateCode": "CT2KS3UK2VVZNU7J.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "Amazon Device Messaging Mobile Push Notifications": {
+    "rateCode": "UT4GBPVG592AUZEM.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Amazon SQS Notifications": {
+    "rateCode": "RN6V7ZMAAKU36Y77.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "Apple Passbook Notifications": {
+    "rateCode": "9XWXSU28J97DCHXS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Passbook Sandbox Notifications": {
+    "rateCode": "NE8PTK9XSRPVKD2Q.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Push Notification Service APNS Mac OS Notifications": {
+    "rateCode": "5WMX2578TWABWVDP.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Push Notification Service APNS iOS Notifications": {
+    "rateCode": "CPC8KYP9QDG68MUP.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Push Notification Service APNS Sandbox Mac OS Notifications": {
+    "rateCode": "PZKWMK7N3J96FDVN.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Push Notification Service APNS Sandbox iOS Notifications": {
+    "rateCode": "G6C9JM3PZ27SVPEV.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Push Notification Service APNS VOIP Notifications": {
+    "rateCode": "72Y4BTQ4WU6YZZEF.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Push Notification Service APNS VOIP Sandbox Notifications": {
+    "rateCode": "E3EKE9PTQWY22R5R.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Baidu Cloud Push Baidu Notifications": {
+    "rateCode": "KXMN9QG243P7DWRR.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Google Cloud Messaging for Android GCM Notifications": {
+    "rateCode": "Q23C5K562MP58KRF.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "HTTP Notifications": {
+    "rateCode": "5N4XS8YGXD4JGDTN.JRTCKXETXF.FF8BMSDA2R",
+    "price": "0.0000006000"
+  },
+  "Microsoft Push Notification Service for Windows Phone MPNS Notifications": {
+    "rateCode": "756548AEU5ZG7RPQ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "SMS Notifications": {
+    "rateCode": "69N3UW89UBTBWXSF.JRTCKXETXF.JBQRCS5NHT",
+    "price": "0.0075000000"
+  },
+  "SNS Email and Email JSON Notifications": {
+    "rateCode": "BZ4UZ2ERDQACBPJ4.JRTCKXETXF.MUBTP6UPGZ",
+    "price": "0.0000200000"
+  },
+  "Windows Push Notification Services WNS Notifications": {
+    "rateCode": "6WGD9R7TPDEWDUHM.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Amazon SNS API Requests": {
+    "rateCode": "QDX8G2WMY9NPXXPG.JRTCKXETXF.VNJQCFJPS4",
+    "price": "0.0000005000"
+  }
+}

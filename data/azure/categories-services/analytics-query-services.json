@@ -1,0 +1,223 @@
+[
+  {
+    "service_name": "Azure Databricks",
+    "service_path": "/en-gb/services/databricks/",
+    "url": "https://azure.microsoft.com/en-gb/services/databricks/",
+    "description": "Fast, easy and collaborative Apache Spark-based analytics platform",
+    "category": "Analytics & Query Services",
+    "keywords": [
+      "The",
+      "best",
+      "destination",
+      "for",
+      "big",
+      "data",
+      "analytics",
+      "and",
+      "AI",
+      "with",
+      "Apache",
+      "Spark"
+    ],
+    "benefits": "The best destination for big data analytics and AI with Apache Spark."
+  },
+  {
+    "service_name": "SQL Data Warehouse",
+    "service_path": "/en-gb/services/sql-data-warehouse/",
+    "url": "https://azure.microsoft.com/en-gb/services/sql-data-warehouse/",
+    "description": "Elastic data warehouse as a service with enterprise-class features",
+    "category": "Analytics & Query Services",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "HDInsight",
+    "service_path": "/en-gb/services/hdinsight/",
+    "url": "https://azure.microsoft.com/en-gb/services/hdinsight/",
+    "description": "Provision cloud Hadoop, Spark, R Server, HBase and Storm clusters",
+    "category": "Analytics & Query Services",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Data Factory",
+    "service_path": "/en-gb/services/data-factory/",
+    "url": "https://azure.microsoft.com/en-gb/services/data-factory/",
+    "description": "Hybrid data integration at enterprise scale, made easy",
+    "category": "Analytics & Query Services",
+    "keywords": [
+      "Accelerate",
+      "data",
+      "integration"
+    ],
+    "benefits": "Accelerate data integration."
+  },
+  {
+    "service_name": "Data Lake Analytics",
+    "service_path": "/en-gb/services/data-lake-analytics/",
+    "url": "https://azure.microsoft.com/en-gb/services/data-lake-analytics/",
+    "description": "Distributed analytics service that makes big data easy",
+    "category": "Analytics & Query Services",
+    "keywords": [
+      "Start",
+      "in",
+      "seconds,",
+      "scale",
+      "instantly",
+      "and",
+      "pay",
+      "per",
+      "job.",
+      "Develop",
+      "massively",
+      "parallel",
+      "programs",
+      "with",
+      "simplicity.",
+      "Virtualise",
+      "your",
+      "analytics.",
+      "Enterprise-grade",
+      "security,",
+      "auditing",
+      "and",
+      "support"
+    ],
+    "benefits": "Start in seconds, scale instantly and pay per job. Develop massively parallel programs with simplicity. Virtualise your analytics. Enterprise-grade security, auditing and support."
+  },
+  {
+    "service_name": "Event Hubs",
+    "service_path": "/en-gb/services/event-hubs/",
+    "url": "https://azure.microsoft.com/en-gb/services/event-hubs/",
+    "description": "Receive telemetry from millions of devices",
+    "category": "Analytics & Query Services",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Power BI Embedded",
+    "service_path": "/en-gb/services/power-bi-embedded/",
+    "url": "https://azure.microsoft.com/en-gb/services/power-bi-embedded/",
+    "description": "Embed fully interactive, stunning data visualisations in your applications",
+    "category": "Analytics & Query Services",
+    "keywords": [
+      "Offer",
+      "world-class",
+      "analytics",
+      "without",
+      "building",
+      "them",
+      "yourself.",
+      "Grow",
+      "your",
+      "business.",
+      "Control",
+      "the",
+      "user",
+      "experience.",
+      "Easy",
+      "to",
+      "deploy",
+      "and",
+      "manage"
+    ],
+    "benefits": "Offer world-class analytics without building them yourself. Grow your business. Control the user experience. Easy to deploy and manage."
+  },
+  {
+    "service_name": "Azure Analysis Services",
+    "service_path": "/en-gb/services/analysis-services/",
+    "url": "https://azure.microsoft.com/en-gb/services/analysis-services/",
+    "description": "Enterprise-grade analytics engine as a service",
+    "category": "Analytics & Query Services",
+    "keywords": [
+      "Get",
+      "started",
+      "quickly",
+      "and",
+      "scale",
+      "with",
+      "efficiency.",
+      "Transform",
+      "complex",
+      "data",
+      "into",
+      "one",
+      "version",
+      "of",
+      "the",
+      "truth.",
+      "Match",
+      "performance",
+      "to",
+      "the",
+      "speed",
+      "of",
+      "business.",
+      "Provide",
+      "secured",
+      "access,",
+      "whenever",
+      "and",
+      "wherever",
+      "you",
+      "need",
+      "it.",
+      "Accelerate",
+      "time",
+      "to",
+      "delivery.",
+      "Develop",
+      "in",
+      "a",
+      "familiar",
+      "environment"
+    ],
+    "benefits": "Get started quickly and scale with efficiency. Transform complex data into one version of the truth. Match performance to the speed of business. Provide secured access, whenever and wherever you need it. Accelerate time to delivery. Develop in a familiar environment."
+  },
+  {
+    "service_name": "R Server for HDInsight",
+    "service_path": "/en-gb/services/hdinsight/r-server/",
+    "url": "https://azure.microsoft.com/en-gb/services/hdinsight/r-server/",
+    "description": "Predictive analytics, machine learning and statistical modelling for big data",
+    "category": "Analytics & Query Services",
+    "keywords": [
+      "Working",
+      "with",
+      "the",
+      "power",
+      "and",
+      "familiarity",
+      "of",
+      "R"
+    ],
+    "benefits": "Working with the power and familiarity of R."
+  },
+  {
+    "service_name": "Data Catalog",
+    "service_path": "/en-gb/services/data-catalog/",
+    "url": "https://azure.microsoft.com/en-gb/services/data-catalog/",
+    "description": "Get more value from your enterprise data assets",
+    "category": "Analytics & Query Services",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Azure Data Explorer",
+    "service_path": "/en-gb/services/data-explorer/",
+    "url": "https://azure.microsoft.com/en-gb/services/data-explorer/",
+    "description": "Fast and highly scalable data exploration service",
+    "category": "Analytics & Query Services",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  }
+]

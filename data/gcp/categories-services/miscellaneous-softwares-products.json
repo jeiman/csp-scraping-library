@@ -1,0 +1,18 @@
+[
+  {
+    "service_name": "Chrome Browser",
+    "service_short_name": "chromeBrowser",
+    "description": "Install and deploy Chrome Browser for your business across any operating\n                    system. Manage access centrally with enterprise-wide controls and hundreds of\n                    policies.",
+    "url": "https://cloud.google.com/chrome-enterprise/browser/",
+    "category": "Miscellaneous Softwares & Products",
+    "benefits": "<6 Mo$504K97%"
+  },
+  {
+    "service_name": "Chrome OS and Chromebooks",
+    "service_short_name": "chromeOsAndChromebooks",
+    "description": "Secure at heart, cloud-native, flexible and manageable. Equip your workforce\n                    with Chromebooks and easily manage access to data, apps and extensions with the\n                    Chrome Enterprise license.",
+    "url": "https://cloud.google.com/chrome-enterprise/os/",
+    "category": "Miscellaneous Softwares & Products",
+    "benefits": "See the benefits of shared Chrome devices%HRS>KSee the benefits of Chrome OS for your workforce%MOMFrontline workforceGrab and Go ChromebooksHealthcare\n            Trusted by enterprises, start-ups, and everyone in between. Chrome Enterprise works\n            better with the G Suite set of cloud-native collaboration and productivity apps like\n            Gmail, Drive, Docs, Calendar, and more."
+  }
+]

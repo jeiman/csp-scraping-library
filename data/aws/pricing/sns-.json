@@ -1,0 +1,114 @@
+{
+  "SMS Outbound Asia Pacific Mumbai to External": {
+    "rateCode": "SHWVRHUMXS9MWKDH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound Asia Pacific Seoul to External": {
+    "rateCode": "PT27J5X69MQGXFNY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound Asia Pacific Singapore to External": {
+    "rateCode": "PQ4JE434R5RJ2RBW.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound Asia Pacific Sydney to External": {
+    "rateCode": "HZ489B2HTJ627HKG.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound Asia Pacific Tokyo to External": {
+    "rateCode": "G2UQNVWKFHJ5X5HE.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound Canada Central to External": {
+    "rateCode": "6CCVYJ2BN6XQ7V37.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound EU Frankfurt to External": {
+    "rateCode": "KVW4KD8QNKHJTQZR.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound EU Ireland to External": {
+    "rateCode": "JJY6ZC35PUZXWUCN.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound EU London to External": {
+    "rateCode": "7H6B4E32KEDTX6J4.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to Asia Pacific Mumbai": {
+    "rateCode": "V8E8E826NHNPGT6Y.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to Asia Pacific Seoul": {
+    "rateCode": "9EVM8Z2HFZB84G3D.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to Asia Pacific Singapore": {
+    "rateCode": "NDG2B9FZEG6Y6C3E.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to Asia Pacific Sydney": {
+    "rateCode": "HEHUWQA3K5D2GT3C.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to Asia Pacific Tokyo": {
+    "rateCode": "QGCGWR3HYKCSR8EU.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to Canada Central": {
+    "rateCode": "N8CNBEWKX8VB3GJY.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to EU Frankfurt": {
+    "rateCode": "WYTERDSJEG4N6RBM.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to EU Ireland": {
+    "rateCode": "3JBWJ6NW676DJQQZ.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to EU London": {
+    "rateCode": "MGZWZ8KPEVGNXG9U.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to South America Sao Paulo": {
+    "rateCode": "RRUU6UGKNB8URDJQ.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to US East N Virginia": {
+    "rateCode": "WYSRAJ44FGPK3ASR.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to US East Ohio": {
+    "rateCode": "EC52D5DR3P3YMW59.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to US West N California": {
+    "rateCode": "3WKKHER784UPXGWS.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Inbound External to US West Oregon": {
+    "rateCode": "ATB4EYNPRGRX6GHX.JRTCKXETXF.D2NYB75FVQ",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound South America Sao Paulo to External": {
+    "rateCode": "74VDKXPE63U8VB69.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound US East N Virginia to External": {
+    "rateCode": "SBA7QDAB4BXFYWJW.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound US East Ohio to External": {
+    "rateCode": "QM3KWGPNG72EGNQR.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound US West N California to External": {
+    "rateCode": "R2UMMJC69XAEYTKT.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "SMS Outbound US West Oregon to External": {
+    "rateCode": "VWBYPGSYUFKCACEY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  }
+}

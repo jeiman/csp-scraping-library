@@ -1,0 +1,22 @@
+{
+  "Data catalog crawler run": {
+    "rateCode": "Z5XA26S9KSG89SXX.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.4400000000"
+  },
+  "Data catalog requests": {
+    "rateCode": "4JSDAGJUPQFRUMAN.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000010000"
+  },
+  "Data catalog storage": {
+    "rateCode": "NDA4DXYR7JSFPHW7.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000100000"
+  },
+  "ETL Development endpoint": {
+    "rateCode": "SM8WGA7VHVGBHY95.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.4400000000"
+  },
+  "ETL Job run": {
+    "rateCode": "W473RR23BZMGR2H4.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.4400000000"
+  }
+}

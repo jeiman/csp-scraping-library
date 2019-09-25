@@ -1,0 +1,70 @@
+{
+  "Amazon Device Messaging Mobile Push Notifications": {
+    "rateCode": "MHRZFWGNGA2FKYVF.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Amazon SQS Notifications": {
+    "rateCode": "WSV8AQ43WAHY79ZT.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "Apple Passbook Notifications": {
+    "rateCode": "CD86ZBK6Z3GYD5NS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Passbook Sandbox Notifications": {
+    "rateCode": "UH2FNYNGEF96P3JW.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Push Notification Service APNS Mac OS Notifications": {
+    "rateCode": "MUMHH4NKJC4HAUGM.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Push Notification Service APNS iOS Notifications": {
+    "rateCode": "RW37MVG45SUQ45CZ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Push Notification Service APNS Sandbox Mac OS Notifications": {
+    "rateCode": "A866MEC78N59SFKP.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Push Notification Service APNS Sandbox iOS Notifications": {
+    "rateCode": "PKETJRKCDCHFTEKF.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Push Notification Service APNS VOIP Notifications": {
+    "rateCode": "FNTVA3YNX7JQN5VV.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Apple Push Notification Service APNS VOIP Sandbox Notifications": {
+    "rateCode": "82K49T5J9AZBE3BC.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Baidu Cloud Push Baidu Notifications": {
+    "rateCode": "B5WAF2GRYPNK549F.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Google Cloud Messaging for Android GCM Notifications": {
+    "rateCode": "UYJ6WFC566YJ7FAH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "HTTP Notifications": {
+    "rateCode": "M6Z48NYYHGX7S26K.JRTCKXETXF.FF8BMSDA2R",
+    "price": "0.0000006000"
+  },
+  "Microsoft Push Notification Service for Windows Phone MPNS Notifications": {
+    "rateCode": "EP5SR9SHFC5YCWJM.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "SNS Email and Email JSON Notifications": {
+    "rateCode": "7GF4HRQ4P47YX952.JRTCKXETXF.MUBTP6UPGZ",
+    "price": "0.0000200000"
+  },
+  "Windows Push Notification Services WNS Notifications": {
+    "rateCode": "YX3HRVHMPBUBZB7T.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000005000"
+  },
+  "Amazon SNS API Requests": {
+    "rateCode": "NAKA9J748CPJQZ6S.JRTCKXETXF.VNJQCFJPS4",
+    "price": "0.0000005000"
+  }
+}

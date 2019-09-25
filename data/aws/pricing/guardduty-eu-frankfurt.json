@@ -1,0 +1,26 @@
+{
+  "Free CloudTrail Events Processed per Events": {
+    "rateCode": "FFCMNPSD2PFV8T9W.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "Free VPC Flow Log and DNS Processed per GB": {
+    "rateCode": "495UYSDJ658FKE69.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "CloudTrail Events Processed per Events": {
+    "rateCode": "NGKEBCD2R7E9SF7T.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000046000"
+  },
+  "VPC Flow Log and DNS Processed per Next 2000 GB": {
+    "rateCode": "CNGA5XBP3C98TJZ2.JRTCKXETXF.FNVAXVYQW3",
+    "price": "0.5800000000"
+  },
+  "VPC Flow Log and DNS Processed per First 500 GB": {
+    "rateCode": "CNGA5XBP3C98TJZ2.JRTCKXETXF.C2QCTD4VXQ",
+    "price": "1.1500000000"
+  },
+  "VPC Flow Log and DNS Processed per Over 2500 GB": {
+    "rateCode": "CNGA5XBP3C98TJZ2.JRTCKXETXF.A4S8GPRG2S",
+    "price": "0.2900000000"
+  }
+}

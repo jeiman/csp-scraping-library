@@ -1,0 +1,116 @@
+[
+  {
+    "service_name": "Cloud SDK",
+    "service_short_name": "cloudSdk",
+    "description": "CLI for GCP products and services.",
+    "url": "https://cloud.google.com/sdk/",
+    "category": "Developer Tools",
+    "benefits": "Manage virtual machine instancesNetworks, firewalls, disk storage, and moreUse your favorite languagesRun local service emulatorsgcloud command-line toolgsutil toolPowerShell cmdlets (Windows)kubectl toolbq tool\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Container Registry",
+    "service_short_name": "containerRegistry",
+    "description": "Store, manage, and secure your Docker container images.",
+    "url": "https://cloud.google.com/container-registry/",
+    "category": "Developer Tools",
+    "benefits": "Secure, private Docker registryBuild and deploy automaticallyIn-depth vulnerability scanningLock down risky imagesNative Docker supportFast, high-availability accessVulnerability scanningContainer tagsAutomated build triggers\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Code",
+    "service_short_name": "cloudCode",
+    "description": "Everything you need to write, debug, and deploy your Kubernetes applications.",
+    "url": "https://cloud.google.com/cloud-code/",
+    "category": "Developer Tools",
+    "benefits": "Cloud Code for VS Code (beta)Cloud Code for IntelliJ (alpha)Speed up Kubernetes developmentSimplify Kubernetes local deploymentEasily extend to production deploymentDebug deployed applicationsAccess powerful IDE featuresLearn and buildNeed more help?"
+  },
+  {
+    "service_name": "Cloud Source Repositories",
+    "service_short_name": "cloudSourceRepositories",
+    "description": "A single place for your team to store, manage, and track code.",
+    "url": "https://cloud.google.com/source-repositories/",
+    "category": "Developer Tools",
+    "benefits": "Learn and buildNeed more help?"
+  },
+  {
+    "service_name": "Cloud Scheduler",
+    "service_short_name": "cloudScheduler",
+    "description": "Fully managed cron job service.",
+    "url": "https://cloud.google.com/scheduler/",
+    "category": "Developer Tools",
+    "benefits": "Minimize manual toilAutomate your cloud infrastructure operationsSchedule virtually anythingManage everything in one placeFully managedReliable deliveryDelightful management experienceMany supported targetsConfigurable retry policyPowerful loggingSupport for Unix cron format\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Tasks",
+    "service_short_name": "cloudTasks",
+    "description": "Asynchronous task execution.",
+    "url": "https://cloud.google.com/tasks/",
+    "category": "Developer Tools"
+  },
+  {
+    "service_name": "Cloud Code for IntelliJ",
+    "service_short_name": "cloudCodeForIntellij",
+    "description": "Debug production cloud apps inside IntelliJ.",
+    "url": "https://cloud.google.com/intellij/",
+    "category": "Developer Tools",
+    "benefits": "Store source and debugSpeed up Kubernetes developmentBe more productiveRun locally and deploy to productionSource pluginStackdriver DebuggerMulti-cloud deploymentsIndividuals and enterprises\n        Cloud Code for IntelliJ\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Tools for PowerShell",
+    "service_short_name": "cloudToolsForPowerShell",
+    "description": "Full cloud control from Windows PowerShell.",
+    "url": "https://cloud.google.com/powershell/",
+    "category": "Developer Tools"
+  },
+  {
+    "service_name": "Cloud Tools for Visual Studio",
+    "service_short_name": "cloudToolsForVisualStudio",
+    "description": "Deploy Visual Studio applications to GCP.",
+    "url": "https://cloud.google.com/visual-studio/",
+    "category": "Developer Tools",
+    "benefits": "Integrated resource managementOpen source .NET librariesDeploy ASP.NETGet started quicklyDeploy to Compute EngineCloud ExplorerWindows nativeCloud API libraries in NuGetVisual Studio 2015 and Visual Studio 2017 support\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Tools for Eclipse",
+    "service_short_name": "cloudToolsForEclipse",
+    "description": "Deploy Eclipse projects to GCP.",
+    "url": "https://cloud.google.com/eclipse/docs/",
+    "category": "Developer Tools"
+  },
+  {
+    "service_name": "Gradle App Engine Plugin",
+    "service_short_name": "gradleAppEnginePlugin",
+    "description": "Use Gradle for your App Engine projects.",
+    "url": "https://github.com/GoogleCloudPlatform/app-gradle-plugin",
+    "category": "Developer Tools"
+  },
+  {
+    "service_name": "Maven App Engine Plugin",
+    "service_short_name": "mavenAppEnginePlugin",
+    "description": "Use Maven for your App Engine projects.",
+    "url": "https://github.com/GoogleCloudPlatform/app-maven-plugin",
+    "category": "Developer Tools"
+  },
+  {
+    "service_name": "Cloud Test Lab",
+    "service_short_name": "cloudTestLab",
+    "description": "On-demand testing infrastructure for Android apps.",
+    "url": "https://firebase.google.com/docs/test-lab/",
+    "category": "Developer Tools"
+  },
+  {
+    "service_name": "Stackdriver Incident Response and Management (alpha)",
+    "service_short_name": "stackdriverIncidentResponseAndManagement",
+    "description": "Improve your incident median time to mitigation.",
+    "url": "https://cloud.google.com/incident-response/",
+    "category": "Developer Tools",
+    "benefits": "Zero-config to launch your SRE journeyInsights to accelerate your investigationContinuous learningSituational awarenessSRE rolesContext transferSlack integrationEscalated incidents and presetsFlexible API\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Tekton",
+    "service_short_name": "tekton",
+    "description": "Kubernetes-native CI/CD building blocks.",
+    "url": "https://cloud.google.com/tekton/",
+    "category": "Developer Tools",
+    "benefits": "Artifact managementDeployment pipelinesResultsTekton"
+  }
+]

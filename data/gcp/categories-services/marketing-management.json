@@ -1,0 +1,16 @@
+[
+  {
+    "service_name": "Google Marketing Platform*",
+    "service_short_name": "googleMarketingPlatform",
+    "description": "Enterprise analytics for better customer experiences.",
+    "url": "https://marketingplatform.google.com/about/enterprise/#?modal_active=none",
+    "category": "Marketing Management"
+  },
+  {
+    "service_name": "Google Data Studio*",
+    "service_short_name": "googleDataStudio",
+    "description": "Tell great data stories to support better business decisions.",
+    "url": "https://marketingplatform.google.com/about/data-studio/",
+    "category": "Marketing Management"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "ASF MAU Next 50000 per Requests": {
+    "rateCode": "25RFWNRVG33NWPQW.JRTCKXETXF.MY3WCTDBMM",
+    "price": "0.0350000000"
+  },
+  "ASF MAU Next 900000 per Requests": {
+    "rateCode": "25RFWNRVG33NWPQW.JRTCKXETXF.9H3PSG253F",
+    "price": "0.0200000000"
+  },
+  "ASF MAU Next 9000000 per Requests": {
+    "rateCode": "25RFWNRVG33NWPQW.JRTCKXETXF.H9V8AVEXGG",
+    "price": "0.0150000000"
+  },
+  "ASF MAU Frist 50000 per Requests": {
+    "rateCode": "25RFWNRVG33NWPQW.JRTCKXETXF.ZM2XF3EGYR",
+    "price": "0.0500000000"
+  },
+  "ASF MAU Greater than 10000000 per Requests": {
+    "rateCode": "25RFWNRVG33NWPQW.JRTCKXETXF.EFRCQPS26J",
+    "price": "0.0100000000"
+  },
+  "Enterprise MAU per Requests": {
+    "rateCode": "R9U9TGJ7JRJ6FPB9.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0150000000"
+  },
+  "MAU Frist 50000 per Requests": {
+    "rateCode": "2DHUBGW799QWJ7K2.JRTCKXETXF.ZM2XF3EGYR",
+    "price": "0.0055000000"
+  },
+  "MAU Next 900000 per Requests": {
+    "rateCode": "2DHUBGW799QWJ7K2.JRTCKXETXF.25RY46V5GS",
+    "price": "0.0046000000"
+  },
+  "MAU Next 9000000 per Requests": {
+    "rateCode": "2DHUBGW799QWJ7K2.JRTCKXETXF.HQHRVXU2H3",
+    "price": "0.0032500000"
+  },
+  "MAU Greater than 10000000 per Requests": {
+    "rateCode": "2DHUBGW799QWJ7K2.JRTCKXETXF.JVCK9G2KFH",
+    "price": "0.0025000000"
+  }
+}

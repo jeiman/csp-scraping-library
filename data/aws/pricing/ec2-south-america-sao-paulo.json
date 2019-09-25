@@ -1,0 +1,302 @@
+{
+  "OnDemand Linux-instancetype-c5.18xlarge": {
+    "rateCode": "ZS3N9NNQK7TJB9D7.JRTCKXETXF.6YS6EN2CT7",
+    "price": "4.7160000000"
+  },
+  "OnDemand Linux-instancetype-c5.2xlarge": {
+    "rateCode": "UP3NUBJT76RUD53J.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.5240000000"
+  },
+  "OnDemand Linux-instancetype-c5.4xlarge": {
+    "rateCode": "S8SHPWRKY2EMQG6C.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0480000000"
+  },
+  "OnDemand Linux-instancetype-c5.9xlarge": {
+    "rateCode": "5HXV6Z3WNRN5C694.JRTCKXETXF.6YS6EN2CT7",
+    "price": "2.3580000000"
+  },
+  "OnDemand Linux-instancetype-c5.large": {
+    "rateCode": "4K6KRGSBWUXMTM73.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1310000000"
+  },
+  "OnDemand Linux-instancetype-c5.xlarge": {
+    "rateCode": "QAMH5U6WYKDZZPH8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2620000000"
+  },
+  "OnDemand Linux-instancetype-i3.16xlarge": {
+    "rateCode": "PWMKDJAWK7S65AXS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "9.1520000000"
+  },
+  "OnDemand Linux-instancetype-i3.2xlarge": {
+    "rateCode": "QBPF6VCNHZCVW9FP.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.1440000000"
+  },
+  "OnDemand Linux-instancetype-i3.4xlarge": {
+    "rateCode": "3KRHXWUDH2BDV4Y8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "2.2880000000"
+  },
+  "OnDemand Linux-instancetype-i3.8xlarge": {
+    "rateCode": "FM6RT86RTAN9G67D.JRTCKXETXF.6YS6EN2CT7",
+    "price": "4.5760000000"
+  },
+  "OnDemand Linux-instancetype-i3.large": {
+    "rateCode": "JRRFY2C2V3KB63CJ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2860000000"
+  },
+  "OnDemand Linux-instancetype-i3.xlarge": {
+    "rateCode": "G3C2SRSGZ6EC7B2G.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.5720000000"
+  },
+  "OnDemand Linux-instancetype-m5.12xlarge": {
+    "rateCode": "GQ84YTKA8GK2HSWH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "3.6720000000"
+  },
+  "OnDemand Linux-instancetype-m5.24xlarge": {
+    "rateCode": "3R483THWA8HXM8WP.JRTCKXETXF.6YS6EN2CT7",
+    "price": "7.3440000000"
+  },
+  "OnDemand Linux-instancetype-m5.2xlarge": {
+    "rateCode": "UFS4KMTBWWWQ43VK.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.6120000000"
+  },
+  "OnDemand Linux-instancetype-m5.4xlarge": {
+    "rateCode": "YFYS3RGFGR7H4YBP.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.2240000000"
+  },
+  "OnDemand Linux-instancetype-m5.large": {
+    "rateCode": "EFW3QVTF33JCUCBP.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1530000000"
+  },
+  "OnDemand Linux-instancetype-m5.xlarge": {
+    "rateCode": "GFJESH549VTK9EBY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3060000000"
+  },
+  "OnDemand Linux-instancetype-t3.2xlarge": {
+    "rateCode": "CV9YGAP64YA5VP2R.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.5376000000"
+  },
+  "OnDemand Linux-instancetype-t3.large": {
+    "rateCode": "E87H92C56AN7QPDZ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1344000000"
+  },
+  "OnDemand Linux-instancetype-t3.medium": {
+    "rateCode": "P8TYCUD23CFMB728.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0672000000"
+  },
+  "OnDemand Linux-instancetype-t3.micro": {
+    "rateCode": "GXN99J4XZAB2A9UN.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0168000000"
+  },
+  "OnDemand Linux-instancetype-t3.nano": {
+    "rateCode": "ZP9UZFWN4HYJUA9P.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0084000000"
+  },
+  "OnDemand Linux-instancetype-t3.small": {
+    "rateCode": "NVUUK68HKWKTGHGY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0336000000"
+  },
+  "OnDemand Linux-instancetype-t3.xlarge": {
+    "rateCode": "R9CEGK66VUD8J9MT.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2688000000"
+  },
+  "OnDemand Linux-instancetype-r4.16xlarge": {
+    "rateCode": "BKHCG6HXJST7HSX4.JRTCKXETXF.6YS6EN2CT7",
+    "price": "8.9600000000"
+  },
+  "OnDemand Linux-instancetype-r4.2xlarge": {
+    "rateCode": "4H6D39WMQKHE7G7X.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.1200000000"
+  },
+  "OnDemand Linux-instancetype-r4.4xlarge": {
+    "rateCode": "MR3NCU2GHXNVGXBE.JRTCKXETXF.6YS6EN2CT7",
+    "price": "2.2400000000"
+  },
+  "OnDemand Linux-instancetype-r4.8xlarge": {
+    "rateCode": "Q6HTSWNMCVFJPW2N.JRTCKXETXF.6YS6EN2CT7",
+    "price": "4.4800000000"
+  },
+  "OnDemand Linux-instancetype-r4.large": {
+    "rateCode": "TGMMNAS3EPHPM7FD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2800000000"
+  },
+  "OnDemand Linux-instancetype-r4.xlarge": {
+    "rateCode": "F2TBQS4VX9RHU5VZ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.5600000000"
+  },
+  "OnDemand Linux-instancetype-t2.2xlarge": {
+    "rateCode": "YXVD4WXRCSQ2W2JA.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.5952000000"
+  },
+  "OnDemand Linux-instancetype-t2.large": {
+    "rateCode": "3AW2EEGJZNBGCQTC.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1488000000"
+  },
+  "OnDemand Linux-instancetype-t2.medium": {
+    "rateCode": "TRBTF7WUCDPWNYFM.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0744000000"
+  },
+  "OnDemand Linux-instancetype-t2.micro": {
+    "rateCode": "HR6CM3GFVDT3BAMU.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0186000000"
+  },
+  "OnDemand Linux-instancetype-t2.nano": {
+    "rateCode": "7DYQRTNH9TX2QQCF.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0093000000"
+  },
+  "OnDemand Linux-instancetype-t2.small": {
+    "rateCode": "84JB45JJDJXM67K4.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0372000000"
+  },
+  "OnDemand Linux-instancetype-t2.xlarge": {
+    "rateCode": "ZGFYE9BANAUE5GK2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2976000000"
+  },
+  "OnDemand Linux-instancetype-x1.16xlarge": {
+    "rateCode": "F3B7MENDPCX44NH3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "13.0050000000"
+  },
+  "OnDemand Linux-instancetype-x1.32xlarge": {
+    "rateCode": "2DQW6R4PKSZDG2T6.JRTCKXETXF.6YS6EN2CT7",
+    "price": "26.0100000000"
+  },
+  "OnDemand Linux-instancetype-c4.2xlarge": {
+    "rateCode": "W8DSYP8X87Q34DGY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.6180000000"
+  },
+  "OnDemand Linux-instancetype-c4.4xlarge": {
+    "rateCode": "W6ARQS59M94CBPW2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.2350000000"
+  },
+  "OnDemand Linux-instancetype-c4.8xlarge": {
+    "rateCode": "4KCYN288G4U4BEAG.JRTCKXETXF.6YS6EN2CT7",
+    "price": "2.4700000000"
+  },
+  "OnDemand Linux-instancetype-c4.large": {
+    "rateCode": "5GTG8UXYNCRDW5C4.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1550000000"
+  },
+  "OnDemand Linux-instancetype-c4.xlarge": {
+    "rateCode": "5YDAVRN5B6TSD9NF.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3090000000"
+  },
+  "OnDemand Linux-instancetype-m4.10xlarge": {
+    "rateCode": "VZ7SHPDE4QVD6EJ6.JRTCKXETXF.6YS6EN2CT7",
+    "price": "3.1800000000"
+  },
+  "OnDemand Linux-instancetype-m4.16xlarge": {
+    "rateCode": "DYHZ6YTHR4RRH3TS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "5.0880000000"
+  },
+  "OnDemand Linux-instancetype-m4.2xlarge": {
+    "rateCode": "38R4NKAE2QECWRDD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.6360000000"
+  },
+  "OnDemand Linux-instancetype-m4.4xlarge": {
+    "rateCode": "EKJ89WCZYTF4ZNY8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.2720000000"
+  },
+  "OnDemand Linux-instancetype-m4.large": {
+    "rateCode": "5V3T67JXMGR4TH34.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1590000000"
+  },
+  "OnDemand Linux-instancetype-m4.xlarge": {
+    "rateCode": "9C4Q3RMVKSYS988K.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3180000000"
+  },
+  "OnDemand Linux-instancetype-r3.2xlarge": {
+    "rateCode": "7JK3Y822S2U92G49.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.3990000000"
+  },
+  "OnDemand Linux-instancetype-r3.4xlarge": {
+    "rateCode": "WCYXWR44SF5RDQSK.JRTCKXETXF.6YS6EN2CT7",
+    "price": "2.7990000000"
+  },
+  "OnDemand Linux-instancetype-r3.8xlarge": {
+    "rateCode": "YW6RW65SRZ3Y2FP5.JRTCKXETXF.6YS6EN2CT7",
+    "price": "5.5970000000"
+  },
+  "OnDemand Linux-instancetype-r3.large": {
+    "rateCode": "NXAU2M3KSE5AEQT5.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3500000000"
+  },
+  "OnDemand Linux-instancetype-r3.xlarge": {
+    "rateCode": "ABEXP4ERUWNM6W8J.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.7000000000"
+  },
+  "OnDemand Linux-instancetype-c3.2xlarge": {
+    "rateCode": "SUWWGGR72MSFMMCK.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.6500000000"
+  },
+  "OnDemand Linux-instancetype-c3.4xlarge": {
+    "rateCode": "DE4F8GSMG9ZHARG8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.3000000000"
+  },
+  "OnDemand Linux-instancetype-c3.8xlarge": {
+    "rateCode": "SHPTTVUVD5P7R2FX.JRTCKXETXF.6YS6EN2CT7",
+    "price": "2.6000000000"
+  },
+  "OnDemand Linux-instancetype-c3.large": {
+    "rateCode": "H8BY38DSCNH87FAD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1630000000"
+  },
+  "OnDemand Linux-instancetype-c3.xlarge": {
+    "rateCode": "AGV5N34XYJNRXKRG.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3250000000"
+  },
+  "OnDemand Linux-instancetype-m3.2xlarge": {
+    "rateCode": "B6W433SSVKEY68BH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.7610000000"
+  },
+  "OnDemand Linux-instancetype-m3.large": {
+    "rateCode": "CPGF97CV44XU5R37.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1900000000"
+  },
+  "OnDemand Linux-instancetype-m3.medium": {
+    "rateCode": "ADMZJH7G4TK3XW72.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0950000000"
+  },
+  "OnDemand Linux-instancetype-m3.xlarge": {
+    "rateCode": "FDUDDQXMYRBXXPU6.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3810000000"
+  },
+  "OnDemand Linux-instancetype-c1.medium": {
+    "rateCode": "FSDH6G8FD9Z6EUM2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1790000000"
+  },
+  "OnDemand Linux-instancetype-c1.xlarge": {
+    "rateCode": "HKWECXA9X8UKDCGK.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.7180000000"
+  },
+  "OnDemand Linux-instancetype-m1.large": {
+    "rateCode": "72TGAF9QN2XH5C5V.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2330000000"
+  },
+  "OnDemand Linux-instancetype-m1.medium": {
+    "rateCode": "6TN6BMN8S44CMRDW.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1170000000"
+  },
+  "OnDemand Linux-instancetype-m1.small": {
+    "rateCode": "M6GCPQTQDNQK5XUW.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0580000000"
+  },
+  "OnDemand Linux-instancetype-m1.xlarge": {
+    "rateCode": "8VWG8TTVN5G378AH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.4670000000"
+  },
+  "OnDemand Linux-instancetype-m2.2xlarge": {
+    "rateCode": "PDY52X9T9DZY9CT5.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.6450000000"
+  },
+  "OnDemand Linux-instancetype-m2.4xlarge": {
+    "rateCode": "CSJECZGEN7MJ4PNS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.2910000000"
+  },
+  "OnDemand Linux-instancetype-m2.xlarge": {
+    "rateCode": "EY7JV9JX6H66P24B.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3230000000"
+  },
+  "OnDemand Linux-instancetype-t1.micro": {
+    "rateCode": "MD2REDTVEQDNK4XJ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0270000000"
+  }
+}

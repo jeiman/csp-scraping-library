@@ -1,0 +1,38 @@
+{
+  "Additional storage First TB": {
+    "rateCode": "U5DJ5EANWQ9JMMMW.JRTCKXETXF.6YNURZBX9Y",
+    "price": "0.0300000000"
+  },
+  "Additional storage Next 500TB": {
+    "rateCode": "U5DJ5EANWQ9JMMMW.JRTCKXETXF.YJ98HAVVPP",
+    "price": "0.0285000000"
+  },
+  "Additional storage Next 49TB": {
+    "rateCode": "U5DJ5EANWQ9JMMMW.JRTCKXETXF.QUZRP4P8Y4",
+    "price": "0.0295000000"
+  },
+  "Additional storage Next 450TB": {
+    "rateCode": "U5DJ5EANWQ9JMMMW.JRTCKXETXF.D42MF2PVJS",
+    "price": "0.0290000000"
+  },
+  "Additional storage Next 4000TB": {
+    "rateCode": "U5DJ5EANWQ9JMMMW.JRTCKXETXF.J25EHUHHDK",
+    "price": "0.0280000000"
+  },
+  "Additional storage Over 5000 TB": {
+    "rateCode": "U5DJ5EANWQ9JMMMW.JRTCKXETXF.JR3K5QW8G3",
+    "price": "0.0275000000"
+  },
+  "WorkDocs Paid": {
+    "rateCode": "SECPV65JZJA98TP8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "5.0000000000"
+  },
+  "WorkDocs Basic Paid": {
+    "rateCode": "QNT3WPQAWJGURVN2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "2.0000000000"
+  },
+  "WorkDocs and Amazon WorkSpaces": {
+    "rateCode": "43YABVW7PT9Q4DXT.JRTCKXETXF.6YS6EN2CT7",
+    "price": "2.0000000000"
+  }
+}

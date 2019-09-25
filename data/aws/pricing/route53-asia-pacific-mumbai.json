@@ -1,0 +1,14 @@
+{
+  "Query ENI": {
+    "rateCode": "27QVTMP5W59HWU7Z.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1250000000"
+  },
+  "Query first 1B": {
+    "rateCode": "JAX97J53N74TD4T6.JRTCKXETXF.ZN357FEBCK",
+    "price": "0.0000004000"
+  },
+  "Query over 1B": {
+    "rateCode": "JAX97J53N74TD4T6.JRTCKXETXF.AGD8ADSNTG",
+    "price": "0.0000002000"
+  }
+}

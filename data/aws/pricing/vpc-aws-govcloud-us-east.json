@@ -1,0 +1,18 @@
+{
+  "Charge for per GB data processed by AWS Transit Gateways for AWS Direct Connect Gateway attachments per GigaBytes": {
+    "rateCode": "4E8K7XJCBRCURUZW.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0200000000"
+  },
+  "Hourly charge for Transit Gateway AWS Direct Connect Gateway attachments per hour": {
+    "rateCode": "RH65G8AQWV8ZT7A3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0600000000"
+  },
+  "CreateVpnConnection GovCloud Only FIPS140 2 per Hrs": {
+    "rateCode": "RX3WWRE7MW8SXV4E.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0650000000"
+  },
+  "CreateVpnConnection per Hrs": {
+    "rateCode": "XXYAVQZSF9VRNQCB.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0650000000"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Linux-computetype-general1.medium": {
+    "rateCode": "46QW8EKWXHYZ68G2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0100000000"
+  },
+  "Linux-computetype-general1.large": {
+    "rateCode": "TA8NF6G7H7Y5W5UX.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0200000000"
+  },
+  "Linux-computetype-general1.small": {
+    "rateCode": "2FQZXBQT369M266G.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0050000000"
+  }
+}

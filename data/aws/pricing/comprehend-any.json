@@ -1,0 +1,30 @@
+{
+  "Processes Custom Entity text request FREE Tier": {
+    "rateCode": "C8RCMSD3F9JHHKRN.A429C66SYZ.ZM2XF3EGYR",
+    "price": "0.0000000000"
+  },
+  "Processes Entity Analysis text request FREE Tier": {
+    "rateCode": "HQY4SP2MX9UB2SER.A429C66SYZ.ZM2XF3EGYR",
+    "price": "0.0000000000"
+  },
+  "Processes Key Phrase detection text request FREE Tier": {
+    "rateCode": "WXHN9ETYAVCC37ES.A429C66SYZ.ZM2XF3EGYR",
+    "price": "0.0000000000"
+  },
+  "Processes Language Detection text request FREE Tier": {
+    "rateCode": "9EBWHQZBAWWNZFUG.A429C66SYZ.ZM2XF3EGYR",
+    "price": "0.0000000000"
+  },
+  "Processes Sentiment Analysis text request FREE Tier": {
+    "rateCode": "4W93MAQMKBHH53KX.A429C66SYZ.ZM2XF3EGYR",
+    "price": "0.0000000000"
+  },
+  "Processes Syntax Analysis text request FREE Tier": {
+    "rateCode": "TQYD2RA3GQN5BAKE.A429C66SYZ.ZM2XF3EGYR",
+    "price": "0.0000000000"
+  },
+  "Processes Topic Detection text request FREE Tier": {
+    "rateCode": "2GMGK5PZK5ZNNUE9.A429C66SYZ.V7GB4D473V",
+    "price": "0.0000000000"
+  }
+}

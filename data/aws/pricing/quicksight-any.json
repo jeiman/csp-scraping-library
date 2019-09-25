@@ -1,0 +1,42 @@
+{
+  "Enterprise cap reader sessions per Sessions": {
+    "rateCode": "YACAX6NAFSRM66H3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2000000000"
+  },
+  "Enterprise paid reader sessions per Sessions": {
+    "rateCode": "PX9ZJ8NFJN8RS8M4.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3000000000"
+  },
+  "Enterprise Annual user subscriptions per User": {
+    "rateCode": "6PUUASV482EAS582.JRTCKXETXF.6YS6EN2CT7",
+    "price": "18.0000000000"
+  },
+  "Enterprise Monthly user subscriptions per User": {
+    "rateCode": "PG8RJ65RVGUEJ5DS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "24.0000000000"
+  },
+  "Standard Annual user subscriptions per User": {
+    "rateCode": "XQ2A7SUYZX36HHCR.JRTCKXETXF.6YS6EN2CT7",
+    "price": "9.0000000000"
+  },
+  "Standard Monthly user subscriptions per User": {
+    "rateCode": "96CPD4MN7Q6WKPAM.JRTCKXETXF.6YS6EN2CT7",
+    "price": "12.0000000000"
+  },
+  "metrics processed in thousands first 1M kilometric": {
+    "rateCode": "GMZGDPG77HWYPDFH.JRTCKXETXF.JXGPBPHWFF",
+    "price": "0.5000000000"
+  },
+  "metrics processed in thousands next 9M per kilometric": {
+    "rateCode": "GMZGDPG77HWYPDFH.JRTCKXETXF.FA59GSBSCH",
+    "price": "0.2500000000"
+  },
+  "metrics processed in thousands next 90M per kilometric": {
+    "rateCode": "GMZGDPG77HWYPDFH.JRTCKXETXF.9CAT47X48E",
+    "price": "0.1000000000"
+  },
+  "metrics processed in thousands over 100M per kilometric": {
+    "rateCode": "GMZGDPG77HWYPDFH.JRTCKXETXF.FF8BMSDA2R",
+    "price": "0.0500000000"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "WebACL per month": {
+    "rateCode": "U2AQ9KMPXF9DQWBH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "5.0000000000"
+  },
+  "Rules added per WebACL per month": {
+    "rateCode": "PU42GB5M3SUVM6V8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "Web Requests received per Request": {
+    "rateCode": "K7J8MPHCUP7NYZHS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000006000"
+  }
+}

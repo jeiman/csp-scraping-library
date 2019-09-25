@@ -1,0 +1,89 @@
+[
+  {
+    "service_name": "Anthos",
+    "service_short_name": "anthos",
+    "description": "Build and manage modern hybrid applications across environments.",
+    "url": "https://cloud.google.com/anthos/",
+    "category": "Hybrid and multi-cloud",
+    "benefits": "Modernize in placeMigrate and modernizeAutomate policy and security at scaleConsistent experienceCI/CDServerlessMarketplaceAPI managementObservability & diagnosticsPolicy & config managementIdentity managementService discovery & managementSecure software supply chainZero trust network securitySecure multi-tenancyManaged KubernetesCentralized managementNetworkStorage managementMigrationMonitoringCI/CDServerlessMarketplaceAPI managementObservability & diagnosticsPolicy & config managementIdentity managementService discovery & managementSecure software supply chainZero trust network securitySecure multi-tenancyManaged KubernetesCentralized managementNetworkStorage managementMigrationMonitoringTalk to us"
+  },
+  {
+    "service_name": "GKE On-Prem",
+    "service_short_name": "gkeOnPrem",
+    "description": "Make apps \"cloud-ready\" and move them to the cloud at your own pace.",
+    "url": "https://cloud.google.com/gke-on-prem/",
+    "category": "Hybrid and multi-cloud",
+    "benefits": "Consistent Kubernetes experienceSecured Kubernetes clustersCentralized multi-cluster managementIdentity and access managementSecure connectionSecurity and complianceIntegrated logging and monitoringStateful application supportFast, consistent buildsWorkload portability, on-premises and cloudMulti-cluster dashboard\n        GKE On-Prem"
+  },
+  {
+    "service_name": "Cloud Build",
+    "service_short_name": "CloudBuild",
+    "description": "Continuously build, test, and deploy.",
+    "url": "https://cloud.google.com/cloud-build/",
+    "category": "Hybrid and multi-cloud",
+    "benefits": "Commit to deploy in minutesChoose what to buildExtremely fast buildsAutomate your deploymentsDefine your custom workflowUnparalleled privacyNative Docker supportGenerous free tierPowerful insightsIdentify vulnerabilitiesBuild locally or in the cloudCustom Workers (alpha)\n\n      Learn and build\n\n  \n\n      Need more help?"
+  },
+  {
+    "service_name": "GKE On-Prem",
+    "service_short_name": "gkeOnPrem",
+    "description": "Reliable, efficient, and secured way to run Kubernetes clusters, anywhere.",
+    "url": "https://cloud.google.com/gke-on-prem/",
+    "category": "Hybrid and multi-cloud",
+    "benefits": "Consistent Kubernetes experienceSecured Kubernetes clustersCentralized multi-cluster managementIdentity and access managementSecure connectionSecurity and complianceIntegrated logging and monitoringStateful application supportFast, consistent buildsWorkload portability, on-premises and cloudMulti-cluster dashboard\n        GKE On-Prem"
+  },
+  {
+    "service_name": "Istio on GKE (beta)",
+    "service_short_name": "istioOnGke",
+    "description": "Install Istio on Kubernetes Engine with the Istio on GKE add-on.",
+    "url": "https://cloud.google.com/istio/docs/istio-on-gke/overview/",
+    "category": "Hybrid and multi-cloud"
+  },
+  {
+    "service_name": "Anthos Config Management",
+    "service_short_name": "anthosConfigManagement",
+    "description": "Automate policy and security at scale for your hybrid Kubernetes\n                        deployments.",
+    "url": "https://cloud.google.com/anthos-config-management/",
+    "category": "Hybrid and multi-cloud",
+    "benefits": "Define and enforce policies across hybrid Kubernetes deploymentsPut security guardrails in placeMaintain control over cluster sprawlDefine configsEnforce configsValidationCommon configuration formatsBring the power of source control to config managementNamespace awareActive monitoring\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Serverless",
+    "service_short_name": "serverless",
+    "description": "Empower your developers with GKE serverless add-on powered by Knative.",
+    "url": "https://cloud.google.com/knative/",
+    "category": "Hybrid and multi-cloud",
+    "benefits": "BuildServingEventingBuild, deploy, and manage serverless workloads with Knative"
+  },
+  {
+    "service_name": "Kubernetes applications on GCP Marketplace",
+    "service_short_name": "kubernetesApplicationsOnGCPMarketplacestore",
+    "description": "Containerized applications featuring prebuilt deployment templates and\n                        consolidated billing.",
+    "url": "https://cloud.google.com/kubernetes-applications/",
+    "category": "Hybrid and multi-cloud",
+    "benefits": "Run anywhereBe more productiveSimplify billingIntegrated with AnthosVerified deployment templates (beta)Solutions to solve your problemsVulnerability testedFree and paid optionsDevOps readySolution documentationOpen-source standardsFlexible usage parametersMaintenance and supportOne billing relationship\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Apigee API Management",
+    "service_short_name": "apigeeAPIManagement",
+    "description": "Develop, secure, deploy, and monitor your APIs everywhere.",
+    "url": "https://cloud.google.com/apigee/",
+    "category": "Hybrid and multi-cloud",
+    "benefits": "Connected experiencesOperational efficiencyActionable intelligenceEvaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "service_name": "Cloud Build",
+    "service_short_name": "cloudBuild",
+    "description": "Continuously build, test, and deploy.",
+    "url": "https://cloud.google.com/cloud-build/",
+    "category": "Hybrid and multi-cloud",
+    "benefits": "Commit to deploy in minutesChoose what to buildExtremely fast buildsAutomate your deploymentsDefine your custom workflowUnparalleled privacyNative Docker supportGenerous free tierPowerful insightsIdentify vulnerabilitiesBuild locally or in the cloudCustom Workers (alpha)\n\n      Learn and build\n\n  \n\n      Need more help?"
+  },
+  {
+    "service_name": "Traffic Director",
+    "service_short_name": "trafficDirector",
+    "description": "Enterprise-ready traffic management for open service mesh.",
+    "url": "https://cloud.google.com/traffic-director/",
+    "category": "Hybrid and multi-cloud",
+    "benefits": "Fully managed with SLASophisticated traffic management made simpleBuild resilient servicesScale seamlessly with your deploymentModernize at your paceTraffic management for open service proxiesWorks with VMs and containersGlobal load balancingHealth checking at scaleTraffic Control with request routing and rich traffic policies (beta)Intelligent and rapid auto-scaling for your services\n        Learn and build\n        Need more help?"
+  }
+]

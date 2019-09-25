@@ -1,0 +1,14 @@
+{
+  "RealTime Updates per Messages": {
+    "rateCode": "35V5RXFYH4W9EK5Z.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000020000"
+  },
+  "RealTime Connection per Minutes": {
+    "rateCode": "SF4ZQM3J2DCXDNXB.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000800"
+  },
+  "API Query and Data Modifications Operations": {
+    "rateCode": "7NQ6F2U5RZ64F7UB.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000040000"
+  }
+}

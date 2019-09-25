@@ -1,0 +1,322 @@
+{
+  "Regional DT from Asia Pacific to Internet First 10 TB": {
+    "rateCode": "A86N9S7CGUKZHH8P.JRTCKXETXF.Q3Z75P77EN",
+    "price": "0.1400000000"
+  },
+  "Regional DT from Australia to Internet First 10 TB": {
+    "rateCode": "8JNNPNBQD9DSHV5K.JRTCKXETXF.Q3Z75P77EN",
+    "price": "0.1140000000"
+  },
+  "Regional DT from Canada to Internet First 10 TB": {
+    "rateCode": "YNZW9TGPQWEQM4JS.JRTCKXETXF.Q3Z75P77EN",
+    "price": "0.0850000000"
+  },
+  "Regional DT from Europe to Internet First 10 TB": {
+    "rateCode": "VU3485RNDU6HBQF6.JRTCKXETXF.Q3Z75P77EN",
+    "price": "0.0850000000"
+  },
+  "Regional DT from India to Internet First 10 TB": {
+    "rateCode": "XVZYVSAH88373VKR.JRTCKXETXF.Q3Z75P77EN",
+    "price": "0.1700000000"
+  },
+  "Regional DT from Japan to Internet First 10 TB": {
+    "rateCode": "CME9BRJSS2F5PBYE.JRTCKXETXF.Q3Z75P77EN",
+    "price": "0.1140000000"
+  },
+  "Regional DT from Middle East to Internet First 10 TB": {
+    "rateCode": "KJKQCFWRY9KUWY4S.JRTCKXETXF.Q3Z75P77EN",
+    "price": "0.1100000000"
+  },
+  "Regional DT from South Africa to Internet First 10 TB": {
+    "rateCode": "84Z32PF576RHPTMX.JRTCKXETXF.Q3Z75P77EN",
+    "price": "0.1100000000"
+  },
+  "Regional DT from South America to Internet First 10 TB": {
+    "rateCode": "ZT3N6V49SHDM9P3G.JRTCKXETXF.Q3Z75P77EN",
+    "price": "0.2500000000"
+  },
+  "Regional DT from United States to Internet First 10 TB": {
+    "rateCode": "GV2WFGX37Q9PDSHF.JRTCKXETXF.Q3Z75P77EN",
+    "price": "0.0850000000"
+  },
+  "Regional DT from Asia Pacific to Internet next 524 TB": {
+    "rateCode": "A86N9S7CGUKZHH8P.JRTCKXETXF.3B9CK5AZ6J",
+    "price": "0.0800000000"
+  },
+  "Regional DT from Australia to Internet next 524 TB": {
+    "rateCode": "8JNNPNBQD9DSHV5K.JRTCKXETXF.3B9CK5AZ6J",
+    "price": "0.0900000000"
+  },
+  "Regional DT from Canada to Internet next 524 TB": {
+    "rateCode": "YNZW9TGPQWEQM4JS.JRTCKXETXF.3B9CK5AZ6J",
+    "price": "0.0300000000"
+  },
+  "Regional DT from Europe to Internet next 524 TB": {
+    "rateCode": "VU3485RNDU6HBQF6.JRTCKXETXF.3B9CK5AZ6J",
+    "price": "0.0300000000"
+  },
+  "Regional DT from Japan to Internet next 524 TB": {
+    "rateCode": "CME9BRJSS2F5PBYE.JRTCKXETXF.3B9CK5AZ6J",
+    "price": "0.0800000000"
+  },
+  "Regional DT from Middle East to Internet next 524 TB": {
+    "rateCode": "KJKQCFWRY9KUWY4S.JRTCKXETXF.3B9CK5AZ6J",
+    "price": "0.0600000000"
+  },
+  "Regional DT from South Africa to Internet next 524 TB": {
+    "rateCode": "84Z32PF576RHPTMX.JRTCKXETXF.3B9CK5AZ6J",
+    "price": "0.0600000000"
+  },
+  "Regional DT from South America to Internet next 524 TB": {
+    "rateCode": "ZT3N6V49SHDM9P3G.JRTCKXETXF.3B9CK5AZ6J",
+    "price": "0.1400000000"
+  },
+  "Regional DT from United States to Internet next 524 TB": {
+    "rateCode": "GV2WFGX37Q9PDSHF.JRTCKXETXF.3B9CK5AZ6J",
+    "price": "0.0300000000"
+  },
+  "Regional DT from Asia Pacific to Internet next 100 TB": {
+    "rateCode": "A86N9S7CGUKZHH8P.JRTCKXETXF.N9EW5UVVPA",
+    "price": "0.1200000000"
+  },
+  "Regional DT from Australia to Internet next 100 TB": {
+    "rateCode": "8JNNPNBQD9DSHV5K.JRTCKXETXF.N9EW5UVVPA",
+    "price": "0.0940000000"
+  },
+  "Regional DT from Canada to Internet next 100 TB": {
+    "rateCode": "YNZW9TGPQWEQM4JS.JRTCKXETXF.N9EW5UVVPA",
+    "price": "0.0600000000"
+  },
+  "Regional DT from Europe to Internet next 100 TB": {
+    "rateCode": "VU3485RNDU6HBQF6.JRTCKXETXF.N9EW5UVVPA",
+    "price": "0.0600000000"
+  },
+  "Regional DT from India to Internet next 100 TB": {
+    "rateCode": "XVZYVSAH88373VKR.JRTCKXETXF.N9EW5UVVPA",
+    "price": "0.1100000000"
+  },
+  "Regional DT from Japan to Internet next 100 TB": {
+    "rateCode": "CME9BRJSS2F5PBYE.JRTCKXETXF.N9EW5UVVPA",
+    "price": "0.0860000000"
+  },
+  "Regional DT from Middle East to Internet next 100 TB": {
+    "rateCode": "KJKQCFWRY9KUWY4S.JRTCKXETXF.N9EW5UVVPA",
+    "price": "0.0900000000"
+  },
+  "Regional DT from South Africa to Internet next 100 TB": {
+    "rateCode": "84Z32PF576RHPTMX.JRTCKXETXF.N9EW5UVVPA",
+    "price": "0.0900000000"
+  },
+  "Regional DT from South America to Internet next 100 TB": {
+    "rateCode": "ZT3N6V49SHDM9P3G.JRTCKXETXF.N9EW5UVVPA",
+    "price": "0.1800000000"
+  },
+  "Regional DT from United States to Internet next 100 TB": {
+    "rateCode": "GV2WFGX37Q9PDSHF.JRTCKXETXF.N9EW5UVVPA",
+    "price": "0.0600000000"
+  },
+  "Regional DT from Asia Pacific to Internet Next 40 TB": {
+    "rateCode": "A86N9S7CGUKZHH8P.JRTCKXETXF.VF6T3GAUKQ",
+    "price": "0.1350000000"
+  },
+  "Regional DT from Australia to Internet Next 40 TB": {
+    "rateCode": "8JNNPNBQD9DSHV5K.JRTCKXETXF.VF6T3GAUKQ",
+    "price": "0.0980000000"
+  },
+  "Regional DT from Canada to Internet Next 40 TB": {
+    "rateCode": "YNZW9TGPQWEQM4JS.JRTCKXETXF.VF6T3GAUKQ",
+    "price": "0.0800000000"
+  },
+  "Regional DT from Europe to Internet Next 40 TB": {
+    "rateCode": "VU3485RNDU6HBQF6.JRTCKXETXF.VF6T3GAUKQ",
+    "price": "0.0800000000"
+  },
+  "Regional DT from India to Internet Next 40 TB": {
+    "rateCode": "XVZYVSAH88373VKR.JRTCKXETXF.VF6T3GAUKQ",
+    "price": "0.1300000000"
+  },
+  "Regional DT from Japan to Internet Next 40 TB": {
+    "rateCode": "CME9BRJSS2F5PBYE.JRTCKXETXF.VF6T3GAUKQ",
+    "price": "0.0890000000"
+  },
+  "Regional DT from Middle East to Internet Next 40 TB": {
+    "rateCode": "KJKQCFWRY9KUWY4S.JRTCKXETXF.VF6T3GAUKQ",
+    "price": "0.1050000000"
+  },
+  "Regional DT from South Africa to Internet Next 40 TB": {
+    "rateCode": "84Z32PF576RHPTMX.JRTCKXETXF.VF6T3GAUKQ",
+    "price": "0.1050000000"
+  },
+  "Regional DT from South America to Internet Next 40 TB": {
+    "rateCode": "ZT3N6V49SHDM9P3G.JRTCKXETXF.VF6T3GAUKQ",
+    "price": "0.2000000000"
+  },
+  "Regional DT from United States to Internet Next 40 TB": {
+    "rateCode": "GV2WFGX37Q9PDSHF.JRTCKXETXF.VF6T3GAUKQ",
+    "price": "0.0800000000"
+  },
+  "Regional DT from Asia Pacific to Internet Next 350 TB": {
+    "rateCode": "A86N9S7CGUKZHH8P.JRTCKXETXF.AZ7GJS7NVF",
+    "price": "0.1000000000"
+  },
+  "Regional DT from Australia to Internet Next 350 TB": {
+    "rateCode": "8JNNPNBQD9DSHV5K.JRTCKXETXF.AZ7GJS7NVF",
+    "price": "0.0920000000"
+  },
+  "Regional DT from Canada to Internet Next 350 TB": {
+    "rateCode": "YNZW9TGPQWEQM4JS.JRTCKXETXF.AZ7GJS7NVF",
+    "price": "0.0400000000"
+  },
+  "Regional DT from Europe to Internet Next 350 TB": {
+    "rateCode": "VU3485RNDU6HBQF6.JRTCKXETXF.AZ7GJS7NVF",
+    "price": "0.0400000000"
+  },
+  "Regional DT from Japan to Internet Next 350 TB": {
+    "rateCode": "CME9BRJSS2F5PBYE.JRTCKXETXF.AZ7GJS7NVF",
+    "price": "0.0840000000"
+  },
+  "Regional DT from Middle East to Internet Next 350 TB": {
+    "rateCode": "KJKQCFWRY9KUWY4S.JRTCKXETXF.AZ7GJS7NVF",
+    "price": "0.0800000000"
+  },
+  "Regional DT from South Africa to Internet Next 350 TB": {
+    "rateCode": "84Z32PF576RHPTMX.JRTCKXETXF.AZ7GJS7NVF",
+    "price": "0.0800000000"
+  },
+  "Regional DT from South America to Internet Next 350 TB": {
+    "rateCode": "ZT3N6V49SHDM9P3G.JRTCKXETXF.AZ7GJS7NVF",
+    "price": "0.1600000000"
+  },
+  "Regional DT from United States to Internet Next 350 TB": {
+    "rateCode": "GV2WFGX37Q9PDSHF.JRTCKXETXF.AZ7GJS7NVF",
+    "price": "0.0400000000"
+  },
+  "Regional DT from Asia Pacific to Internet Next 4 PB": {
+    "rateCode": "A86N9S7CGUKZHH8P.JRTCKXETXF.RBMR72YW69",
+    "price": "0.0700000000"
+  },
+  "Regional DT from Australia to Internet Next 4 PB": {
+    "rateCode": "8JNNPNBQD9DSHV5K.JRTCKXETXF.RBMR72YW69",
+    "price": "0.0850000000"
+  },
+  "Regional DT from Canada to Internet Next 4 PB": {
+    "rateCode": "YNZW9TGPQWEQM4JS.JRTCKXETXF.RBMR72YW69",
+    "price": "0.0250000000"
+  },
+  "Regional DT from Europe to Internet Next 4 PB": {
+    "rateCode": "VU3485RNDU6HBQF6.JRTCKXETXF.RBMR72YW69",
+    "price": "0.0250000000"
+  },
+  "Regional DT from Japan to Internet Next 4 PB": {
+    "rateCode": "CME9BRJSS2F5PBYE.JRTCKXETXF.RBMR72YW69",
+    "price": "0.0700000000"
+  },
+  "Regional DT from Middle East to Internet Next 4 PB": {
+    "rateCode": "KJKQCFWRY9KUWY4S.JRTCKXETXF.RBMR72YW69",
+    "price": "0.0500000000"
+  },
+  "Regional DT from South Africa to Internet Next 4 PB": {
+    "rateCode": "84Z32PF576RHPTMX.JRTCKXETXF.RBMR72YW69",
+    "price": "0.0500000000"
+  },
+  "Regional DT from South America to Internet Next 4 PB": {
+    "rateCode": "ZT3N6V49SHDM9P3G.JRTCKXETXF.RBMR72YW69",
+    "price": "0.1300000000"
+  },
+  "Regional DT from United States to Internet Next 4 PB": {
+    "rateCode": "GV2WFGX37Q9PDSHF.JRTCKXETXF.RBMR72YW69",
+    "price": "0.0250000000"
+  },
+  "Regional DT from Asia Pacific to Internet Over 5 PB": {
+    "rateCode": "A86N9S7CGUKZHH8P.JRTCKXETXF.SW9U2ZKBYX",
+    "price": "0.0600000000"
+  },
+  "Regional DT from Australia to Internet Over 5 PB": {
+    "rateCode": "8JNNPNBQD9DSHV5K.JRTCKXETXF.SW9U2ZKBYX",
+    "price": "0.0800000000"
+  },
+  "Regional DT from Canada to Internet Over 5 PB": {
+    "rateCode": "YNZW9TGPQWEQM4JS.JRTCKXETXF.SW9U2ZKBYX",
+    "price": "0.0200000000"
+  },
+  "Regional DT from Europe to Internet Over 5 PB": {
+    "rateCode": "VU3485RNDU6HBQF6.JRTCKXETXF.SW9U2ZKBYX",
+    "price": "0.0200000000"
+  },
+  "Regional DT from India to Internet 153600 upto Inf": {
+    "rateCode": "XVZYVSAH88373VKR.JRTCKXETXF.GPHXDESFBB",
+    "price": "0.1000000000"
+  },
+  "Regional DT from Japan to Internet Over 5 PB": {
+    "rateCode": "CME9BRJSS2F5PBYE.JRTCKXETXF.SW9U2ZKBYX",
+    "price": "0.0600000000"
+  },
+  "Regional DT from Middle East to Internet Over 5 PB": {
+    "rateCode": "KJKQCFWRY9KUWY4S.JRTCKXETXF.SW9U2ZKBYX",
+    "price": "0.0400000000"
+  },
+  "Regional DT from South Africa to Internet Over 5 PB": {
+    "rateCode": "84Z32PF576RHPTMX.JRTCKXETXF.SW9U2ZKBYX",
+    "price": "0.0400000000"
+  },
+  "Regional DT from South America to Internet Over 5 PB": {
+    "rateCode": "ZT3N6V49SHDM9P3G.JRTCKXETXF.SW9U2ZKBYX",
+    "price": "0.1250000000"
+  },
+  "Regional DT from United States to Internet Over 5 PB": {
+    "rateCode": "GV2WFGX37Q9PDSHF.JRTCKXETXF.SW9U2ZKBYX",
+    "price": "0.0200000000"
+  },
+  "Regional DT to Origin from Asia Pacific": {
+    "rateCode": "U8P37H38743VG7RS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0600000000"
+  },
+  "Regional DT to Origin from Australia": {
+    "rateCode": "78WBDMMUMU9U8T6A.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0800000000"
+  },
+  "Regional DT to Origin from Canada": {
+    "rateCode": "B6F5HP6FXAFTNWPC.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0200000000"
+  },
+  "Regional DT to Origin from Europe": {
+    "rateCode": "C3HHMR3U9CR9AK63.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0200000000"
+  },
+  "Regional DT to Origin from India": {
+    "rateCode": "YR9KNSXHQ8YZU3RU.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1600000000"
+  },
+  "Regional DT to Origin from Japan": {
+    "rateCode": "3R2FUPWJ2VYY9GAN.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0600000000"
+  },
+  "Regional DT to Origin from Middle East": {
+    "rateCode": "2RU96X5GXXQ62U7Q.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0600000000"
+  },
+  "Regional DT to Origin from South Africa": {
+    "rateCode": "272YGRMFJS3Z4CKG.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0600000000"
+  },
+  "Regional DT to Origin from South America": {
+    "rateCode": "FZ8U6AWT2BMH7T8F.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1250000000"
+  },
+  "Regional DT to Origin from United States": {
+    "rateCode": "AGSZEF5XC2MG4FUH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0200000000"
+  },
+  "Charge for invalidating objects removing the objects from CloudFront edge locations First 1000 free": {
+    "rateCode": "U3HVZF9WJEM7TE55.JRTCKXETXF.JXGPBPHWFF",
+    "price": "0.0000000000"
+  },
+  "Charge for invalidating objects removing the objects from CloudFront edge locations": {
+    "rateCode": "U3HVZF9WJEM7TE55.JRTCKXETXF.MUBTP6UPGZ",
+    "price": "0.0050000000"
+  },
+  "Charge for using an SSL certificate with a CloudFront alternate domain name": {
+    "rateCode": "QUEZ7XDZJJXURBU7.JRTCKXETXF.6YS6EN2CT7",
+    "price": "600.0000000000"
+  }
+}

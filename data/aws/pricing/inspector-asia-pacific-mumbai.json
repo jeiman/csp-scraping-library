@@ -1,0 +1,50 @@
+{
+  "Agent assessments for Next 750 AgentAssessments": {
+    "rateCode": "988S9CTJYCGBGU29.JRTCKXETXF.6MJTHCY3AS",
+    "price": "0.2500000000"
+  },
+  "Agent assessments for First 250 AgentAssessments": {
+    "rateCode": "988S9CTJYCGBGU29.JRTCKXETXF.9DMZF6E7MY",
+    "price": "0.3000000000"
+  },
+  "Agent assessments for Next 4000AgentAssessments": {
+    "rateCode": "988S9CTJYCGBGU29.JRTCKXETXF.AXSXEJHBB3",
+    "price": "0.1500000000"
+  },
+  "Agent assessments for Next 45000 AgentAssessments": {
+    "rateCode": "988S9CTJYCGBGU29.JRTCKXETXF.KJSF5Y4MUU",
+    "price": "0.1000000000"
+  },
+  "Agent assessments All Other per AgentAssessments": {
+    "rateCode": "988S9CTJYCGBGU29.JRTCKXETXF.GK6CZWW823",
+    "price": "0.0500000000"
+  },
+  "Network instance assessments for Next 750 InstanceAssessments": {
+    "rateCode": "8XTQYAYUTKJTRDJ4.JRTCKXETXF.6MJTHCY3AS",
+    "price": "0.1300000000"
+  },
+  "Network instance assessments for First 250 InstanceAssessments": {
+    "rateCode": "8XTQYAYUTKJTRDJ4.JRTCKXETXF.9DMZF6E7MY",
+    "price": "0.1500000000"
+  },
+  "Network instance assessments for Next 4000InstanceAssessments": {
+    "rateCode": "8XTQYAYUTKJTRDJ4.JRTCKXETXF.AXSXEJHBB3",
+    "price": "0.1000000000"
+  },
+  "Network instance assessments for Next 45000 InstanceAssessments": {
+    "rateCode": "8XTQYAYUTKJTRDJ4.JRTCKXETXF.KJSF5Y4MUU",
+    "price": "0.0700000000"
+  },
+  "Network instance assessments All Other per InstanceAssessments": {
+    "rateCode": "8XTQYAYUTKJTRDJ4.JRTCKXETXF.GK6CZWW823",
+    "price": "0.0400000000"
+  },
+  "FREE 250 Agent assessments or 90 days": {
+    "rateCode": "SV3SYUVGH5ZTQUQ2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "FREE 250 Network instance assessments or 90 days": {
+    "rateCode": "KEQNK72DTR9PPYQK.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  }
+}

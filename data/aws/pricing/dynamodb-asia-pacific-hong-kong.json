@@ -1,0 +1,70 @@
+{
+  "1yr Read Capacity Unit Hrs Provisioned": {
+    "rateCode": "AZFSQ9924668VM9Y.YTVHEVGPBZ.6YS6EN2CT7",
+    "price": "0.0000320000"
+  },
+  "1yr Write Capacity Unit Hrs Provisioned": {
+    "rateCode": "55W2WTJCTWZXV42E.YTVHEVGPBZ.6YS6EN2CT7",
+    "price": "0.0001610000"
+  },
+  "Data Storage Indexed Free Tier GB-Mo": {
+    "rateCode": "GC62YK3QSU9T4KP8.JRTCKXETXF.G2A93NZ7DT",
+    "price": "0.0000000000"
+  },
+  "Data Storage Indexed GB-Mo": {
+    "rateCode": "GC62YK3QSU9T4KP8.JRTCKXETXF.VYAP54KATQ",
+    "price": "0.3135000000"
+  },
+  "On-Demand Backup Storage GB-Month": {
+    "rateCode": "Y8NX3A9P4KY95Y55.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1254000000"
+  },
+  "PITR Backup Storage GB-Mo": {
+    "rateCode": "XZ2W2Q4A8JVEXARU.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2508000000"
+  },
+  "PayPerRequest Read Request Units": {
+    "rateCode": "X2FXN3G2TX7QB2GN.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000003100"
+  },
+  "PayPerRequest Write Request Units": {
+    "rateCode": "W2KCDRQRMXNRNHTR.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000015700"
+  },
+  "Provisioned 1yr DDB-ReadUnits Upfront Fee": {
+    "rateCode": "AZFSQ9924668VM9Y.YTVHEVGPBZ.2TG2D8R56U",
+    "price": "0.3762"
+  },
+  "Provisioned 1yr DDB-WriteUnits Upfront Fee": {
+    "rateCode": "55W2WTJCTWZXV42E.YTVHEVGPBZ.2TG2D8R56U",
+    "price": "1.881"
+  },
+  "Provisioned Read Units": {
+    "rateCode": "AZFSQ9924668VM9Y.JRTCKXETXF.E63J5HTPNN",
+    "price": "0.0001628000"
+  },
+  "Provisioned Read Units Free Tier": {
+    "rateCode": "AZFSQ9924668VM9Y.JRTCKXETXF.HBHVWY47CM",
+    "price": "0.0000000000"
+  },
+  "Provisioned Write Units": {
+    "rateCode": "55W2WTJCTWZXV42E.JRTCKXETXF.E63J5HTPNN",
+    "price": "0.0008140000"
+  },
+  "Provisioned Write Units Free Tier": {
+    "rateCode": "55W2WTJCTWZXV42E.JRTCKXETXF.HBHVWY47CM",
+    "price": "0.0000000000"
+  },
+  "Restore Data Size": {
+    "rateCode": "YQFC8YNSX8MKDQ3U.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1881000000"
+  },
+  "Streams Read Requests": {
+    "rateCode": "ZG4NWR8P7ACEBJWS.JRTCKXETXF.AUKFMGQW43",
+    "price": "0.0000002500"
+  },
+  "Streams Read Requests Free Tier": {
+    "rateCode": "ZG4NWR8P7ACEBJWS.JRTCKXETXF.M9QGYPQ72M",
+    "price": "0.0000000000"
+  }
+}

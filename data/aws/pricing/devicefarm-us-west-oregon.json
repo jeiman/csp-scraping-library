@@ -1,0 +1,42 @@
+{
+  "Unlimited Slot for remote access tests on iOS per Device Slot-Month": {
+    "rateCode": "BB8V7NZV69JSTRJH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "250.0000000000"
+  },
+  "Unlimited Slot for remote access on Android per Device Slot-Month": {
+    "rateCode": "Z4ZN5CBYUPDQHU84.JRTCKXETXF.6YS6EN2CT7",
+    "price": "250.0000000000"
+  },
+  "Unlimited Slot for automated tests on iOS per Device Slot-Month": {
+    "rateCode": "QUFGQRE6PK5EY5C7.JRTCKXETXF.6YS6EN2CT7",
+    "price": "250.0000000000"
+  },
+  "Unlimited Slot for automated tests on Android per Device Slot-Month": {
+    "rateCode": "N4NZZEWVSV6G55PF.JRTCKXETXF.6YS6EN2CT7",
+    "price": "250.0000000000"
+  },
+  "Pay as you go remote access on iOS per Minutes": {
+    "rateCode": "7JEPW4R9KCYZ4AXF.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1700000000"
+  },
+  "Pay as you go remote access on Android per Minutes": {
+    "rateCode": "M2BUW7HXER6ZHK4Q.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1700000000"
+  },
+  "Pay as you go automated tests on iOS per Minutes": {
+    "rateCode": "E6SRRA43BGDXACUE.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1700000000"
+  },
+  "Pay as you go automated tests on Android per Minutes": {
+    "rateCode": "QVGNFXX4VP499HUT.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1700000000"
+  },
+  "FREE Web Performance Tests on iOS per Device Minute": {
+    "rateCode": "NNQ5ERBSGM22MXZ3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "FREE Web Performance Tests on Android per Device Minute": {
+    "rateCode": "G4ZMM35A2KCG2PWQ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  }
+}

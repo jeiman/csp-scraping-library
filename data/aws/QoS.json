@@ -1,0 +1,10 @@
+{
+  "qualityOfService": [
+    "Performance",
+    "Availability",
+    "Security",
+    "Reliability",
+    "Scalability",
+    "Low Cost"
+  ]
+}

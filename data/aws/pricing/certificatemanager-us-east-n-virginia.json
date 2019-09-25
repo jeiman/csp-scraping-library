@@ -1,0 +1,22 @@
+{
+  "Certificate Issued from 10000 to Inf": {
+    "rateCode": "H864D2YKEEXYV9XU.JRTCKXETXF.B536CJ4M58",
+    "price": "0.0010000000"
+  },
+  "Certificate Issued from 1000 to 10000": {
+    "rateCode": "H864D2YKEEXYV9XU.JRTCKXETXF.FA59GSBSCH",
+    "price": "0.3500000000"
+  },
+  "Certificate Issued from 0 to 1000": {
+    "rateCode": "H864D2YKEEXYV9XU.JRTCKXETXF.JXGPBPHWFF",
+    "price": "0.7500000000"
+  },
+  "Certificate Authority Paid": {
+    "rateCode": "KGCRS6DP6RA8WP9M.JRTCKXETXF.6YS6EN2CT7",
+    "price": "400.0000000000"
+  },
+  "Certificate Authority Free": {
+    "rateCode": "QUYN5D2YPSC8DM6E.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  }
+}

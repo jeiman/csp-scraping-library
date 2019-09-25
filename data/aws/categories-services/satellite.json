@@ -1,0 +1,14 @@
+[
+  {
+    "service_path": "/ground-station/",
+    "service_name": "AWS Ground Station",
+    "mini_description": "Fully managed ground station as a service",
+    "category": "Satellite",
+    "url": "https://aws.amazon.com/ground-station/",
+    "keywords": [
+      "Benefits",
+      "Use cases"
+    ],
+    "benefits": "Use cases"
+  }
+]

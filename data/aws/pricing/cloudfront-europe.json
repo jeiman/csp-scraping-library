@@ -1,0 +1,22 @@
+{
+  "HTTPS Proxy requests with Field Level Encryption": {
+    "rateCode": "4ENKM5T6A6T9QPD2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000020000"
+  },
+  "Request HTTP Methods": {
+    "rateCode": "XD7ZDAECJ2BPHRKJ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000009000"
+  },
+  "Request HTTPS Methods": {
+    "rateCode": "6DSK78RX8E8ZV684.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000012000"
+  },
+  "CloudFront Request-Tier1 HTTP GET and HEAD requests": {
+    "rateCode": "9MS5ZWGYNFR5NURG.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000009000"
+  },
+  "CloudFront Request-Tier2 HTTPS GET and HEAD requests": {
+    "rateCode": "YA5QZD7XG45UGHCH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000012000"
+  }
+}

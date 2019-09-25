@@ -1,0 +1,42 @@
+{
+  "DataTransfer out of LoadBalancing First 100TB": {
+    "rateCode": "485HCTYSUBZ4SWVR.JRTCKXETXF.GY4PVJM369",
+    "price": "0.0500000000"
+  },
+  "DataTransfer out of EIP First 100TB": {
+    "rateCode": "EMFAJFMT3HBR7HTY.JRTCKXETXF.GY4PVJM369",
+    "price": "0.0500000000"
+  },
+  "DataTransfer out of LoadBalancing Next 400TB": {
+    "rateCode": "485HCTYSUBZ4SWVR.JRTCKXETXF.NCC8ZPFJJ4",
+    "price": "0.0400000000"
+  },
+  "DataTransfer out of EIP Next 400TB": {
+    "rateCode": "EMFAJFMT3HBR7HTY.JRTCKXETXF.NCC8ZPFJJ4",
+    "price": "0.0400000000"
+  },
+  "DataTransfer out of LoadBalancing Above 500TB": {
+    "rateCode": "485HCTYSUBZ4SWVR.JRTCKXETXF.PXJDJ3YRG3",
+    "price": "0.0300000000"
+  },
+  "DataTransfer out of EIP Above 500TB": {
+    "rateCode": "EMFAJFMT3HBR7HTY.JRTCKXETXF.PXJDJ3YRG3",
+    "price": "0.0300000000"
+  },
+  "DataTransfer out CloudFront First 100TB": {
+    "rateCode": "EFKDCG27NB8FPQ6W.JRTCKXETXF.GY4PVJM369",
+    "price": "0.0250000000"
+  },
+  "DataTransfer out CloudFront Next 500TB": {
+    "rateCode": "EFKDCG27NB8FPQ6W.JRTCKXETXF.8ZEU47TFDJ",
+    "price": "0.0150000000"
+  },
+  "DataTransfer out CloudFront Next 400TB": {
+    "rateCode": "EFKDCG27NB8FPQ6W.JRTCKXETXF.NCC8ZPFJJ4",
+    "price": "0.0200000000"
+  },
+  "DataTransfer out CloudFront Above 1000TB": {
+    "rateCode": "EFKDCG27NB8FPQ6W.JRTCKXETXF.CE5Y67E3MR",
+    "price": "0.0100000000"
+  }
+}

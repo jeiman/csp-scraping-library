@@ -1,0 +1,22 @@
+{
+  "StorageGateway UploadedBytes Over 12.2TB": {
+    "rateCode": "42KHER9Q2D9U59DU.JRTCKXETXF.GFG7H5FKAU",
+    "price": "0.0000000000"
+  },
+  "StorageGateway UploadedBytes First 12.2 TB": {
+    "rateCode": "42KHER9Q2D9U59DU.JRTCKXETXF.SRERGXVDDH",
+    "price": "0.0100000000"
+  },
+  "StorageGateway UploadedBytes Tier 2": {
+    "rateCode": "42KHER9Q2D9U59DU.JRTCKXETXF.GFG7H5FKAU",
+    "price": "0.0000000000"
+  },
+  "StorageGateway UploadedBytes Tier 1": {
+    "rateCode": "42KHER9Q2D9U59DU.JRTCKXETXF.SRERGXVDDH",
+    "price": "0.0100000000"
+  },
+  "StorageGateway Standard Volume Cached": {
+    "rateCode": "8BFGRNZWTQGHD2XY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0405000000"
+  }
+}

@@ -1,0 +1,374 @@
+[
+  {
+    "service_path": "/cli/",
+    "service_name": "AWS Command Line Interface",
+    "mini_description": "Unified Tool to Manage AWS Services",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/cli/",
+    "keywords": [
+      ""
+    ],
+    "benefits": ""
+  },
+  {
+    "service_path": "/cloudwatch/",
+    "service_name": "Amazon CloudWatch",
+    "mini_description": "Monitor Resources and Applications",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/cloudwatch/",
+    "keywords": [
+      "Benefits",
+      "Access all your data from a single platform",
+      "Easiest way to collect custom and granular metrics for AWS resources",
+      "Visibility across your applications",
+      " infrastructure",
+      " and services",
+      "Improve total cost of ownership",
+      "Optimize applications and operational resources",
+      "Derive actionable insights from logs",
+      "How it works",
+      "Use cases",
+      "Infrastructure monitoring and troubleshooting",
+      "Resource optimization",
+      "Application monitoring",
+      "Log analytics",
+      "Featured customers",
+      "Related content",
+      "Get started with AWS"
+    ],
+    "benefits": "Access all your data from a single platform Easiest way to collect custom and granular metrics for AWS resources Visibility across your applications, infrastructure, and services Improve total cost of ownership Optimize applications and operational resources Derive actionable insights from logs How it works Use cases Infrastructure monitoring and troubleshooting Resource optimization Application monitoring Log analytics Featured customers Related content Get started with AWS"
+  },
+  {
+    "service_path": "/autoscaling/",
+    "service_name": "AWS Auto Scaling",
+    "mini_description": "Scale Multiple Resources to Meet Demand",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/autoscaling/",
+    "keywords": [
+      "Benefits",
+      "Setup scaling quickly",
+      "Make Smart Scaling Decisions",
+      "Automatically Maintain Performance",
+      "Pay Only for What You Need",
+      "How it works",
+      "Blog posts & articles",
+      "Get started with AWS"
+    ],
+    "benefits": "Setup scaling quickly Make Smart Scaling Decisions Automatically Maintain Performance Pay Only for What You Need How it works Blog posts & articles Get started with AWS"
+  },
+  {
+    "service_path": "/cloudformation/",
+    "service_name": "AWS CloudFormation",
+    "mini_description": "Create and Manage Resources with Templates",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/cloudformation/",
+    "keywords": [
+      "Benefits",
+      "Model it all",
+      "Automate and deploy",
+      "It's just code",
+      "How it works",
+      "Customer Videos",
+      "TechnologyOne",
+      "Cloudreach",
+      "Lemongrass",
+      "FileMaker",
+      "Featured Customers",
+      "Blog posts & articles",
+      "Get started with AWS"
+    ],
+    "benefits": "Model it all Automate and deploy It's just code How it works Customer Videos TechnologyOne Cloudreach Lemongrass FileMaker Featured Customers Blog posts & articles Get started with AWS"
+  },
+  {
+    "service_path": "/cloudtrail/",
+    "service_name": "AWS CloudTrail",
+    "mini_description": "Track User Activity and API Usage",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/cloudtrail/",
+    "keywords": [
+      "Benefits",
+      "Simplified compliance",
+      "Visibility into user and resource activity",
+      "Security analysis and troubleshooting",
+      "Security automation",
+      "How it works",
+      "Use cases",
+      "Compliance aid",
+      "Security analysis",
+      "Data exfiltration",
+      "Operational issue troubleshooting",
+      "Case studies",
+      "Blog posts & articles",
+      "Get started with AWS"
+    ],
+    "benefits": "Simplified compliance Visibility into user and resource activity Security analysis and troubleshooting Security automation How it works Use cases Compliance aid Security analysis Data exfiltration Operational issue troubleshooting Case studies Blog posts & articles Get started with AWS"
+  },
+  {
+    "service_path": "/cli/",
+    "service_name": "AWS Command Line Interface",
+    "mini_description": "Unified tool to manage AWS services",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/cli/",
+    "keywords": [
+      ""
+    ],
+    "benefits": ""
+  },
+  {
+    "service_path": "/config/",
+    "service_name": "AWS Config",
+    "mini_description": "Track Resource Inventory and Changes",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/config/",
+    "keywords": [
+      "Benefits",
+      "Continuous monitoring",
+      "Continuous assessment",
+      "Change management",
+      "Operational troubleshooting",
+      "Enterprise-wide compliance monitoring",
+      "How it works",
+      "Use cases",
+      "Discovery",
+      "Change management",
+      "Continuous audit and compliance",
+      "Compliance as code",
+      "Troubleshooting",
+      "Security analysis",
+      "Case studies",
+      "Blog posts & articles",
+      "Get started with AWS"
+    ],
+    "benefits": "Continuous monitoring Continuous assessment Change management Operational troubleshooting Enterprise-wide compliance monitoring How it works Use cases Discovery Change management Continuous audit and compliance Compliance as code Troubleshooting Security analysis Case studies Blog posts & articles Get started with AWS"
+  },
+  {
+    "service_path": "/controltower/",
+    "service_name": "AWS Control Tower",
+    "mini_description": "Set up and govern a secure, compliant, multi-account environment",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/controltower/",
+    "keywords": [
+      "Benefits",
+      "Quickly setup and configure a new AWS environment",
+      "Automate ongoing policy management",
+      "View policy-level summaries of your AWS environment",
+      "How it works",
+      "Customers",
+      "Slalom",
+      "Deutsche Börse Group",
+      "The California State University",
+      "Uber",
+      "XebiaLabs",
+      "Edmunds"
+    ],
+    "benefits": "Quickly setup and configure a new AWS environment Automate ongoing policy management View policy-level summaries of your AWS environment How it works Customers Slalom Deutsche Börse Group The California State University Uber XebiaLabs Edmunds"
+  },
+  {
+    "service_path": "/console/mobile/",
+    "service_name": "AWS Console Mobile Application",
+    "mini_description": "Access resources on the go",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/console/mobile/",
+    "keywords": [
+      "AWS Console Mobile Application",
+      "Access resources on-the-go",
+      "Services",
+      "Regions",
+      "Requirements and Recommendations",
+      "New features on AWS Console Mobile App for iOS",
+      "New design and navigation",
+      "Monitoring",
+      "Role switching",
+      "Authentication"
+    ],
+    "benefits": "AWS Console Mobile Application Access resources on-the-go Services Regions Requirements and Recommendations New features on AWS Console Mobile App for iOS New design and navigation Monitoring Role switching Authentication"
+  },
+  {
+    "service_path": "/license-manager/",
+    "service_name": "AWS License Manager",
+    "mini_description": "Track, manage, and control licenses",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/license-manager/",
+    "keywords": [
+      "Benefits",
+      "Gain control over license usage",
+      "Reduce costs",
+      "Increased transparency",
+      "How it works"
+    ],
+    "benefits": "Gain control over license usage Reduce costs  Increased transparency  How it works"
+  },
+  {
+    "service_path": "/console/",
+    "service_name": "AWS Management Console",
+    "mini_description": "Web-based user interface",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/console/",
+    "keywords": [
+      ""
+    ],
+    "benefits": ""
+  },
+  {
+    "service_path": "/managed-services/",
+    "service_name": "AWS Managed Services",
+    "mini_description": "Infrastructure operations management for AWS",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/managed-services/",
+    "keywords": [
+      "Benefits",
+      "Improve your Security and Compliance",
+      "Accelerate Migration to the Cloud",
+      "Remove Innovation Barriers",
+      "How it works",
+      "Case studies",
+      "AMS Resources"
+    ],
+    "benefits": "Improve your Security and Compliance Accelerate Migration to the Cloud Remove Innovation Barriers  How it works Case studies AMS Resources"
+  },
+  {
+    "service_path": "/opsworks/",
+    "service_name": "AWS OpsWorks",
+    "mini_description": "Automate Operations with Chef and Puppet",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/opsworks/",
+    "keywords": [
+      "AWS OpsWorks",
+      "Automate Operations with Chef and Puppet",
+      "AWS OpsWorks for Chef Automate",
+      "AWS OpsWorks for Puppet Enterprise",
+      "AWS OpsWorks Stacks"
+    ],
+    "benefits": "AWS OpsWorks Automate Operations with Chef and Puppet  AWS OpsWorks for Chef Automate   AWS OpsWorks for Puppet Enterprise   AWS OpsWorks Stacks"
+  },
+  {
+    "service_path": "/organizations/",
+    "service_name": "AWS Organizations",
+    "mini_description": "Central governance and management across AWS accounts",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/organizations/",
+    "keywords": [
+      "Benefits",
+      "Centrally manage policies across multiple AWS accounts",
+      "Govern access to AWS services",
+      " resources",
+      " and regions",
+      "Automate AWS account creation and management",
+      "Configure AWS services across multiple accounts",
+      "Consolidate billing across multiple AWS accounts",
+      "Use cases",
+      "Implement and enforce corporate security",
+      " audit",
+      " and compliance policies",
+      "Share resources across accounts",
+      "Automate the creation of AWS accounts and categorize workloads using groups",
+      "Get started with AWS Organizations"
+    ],
+    "benefits": "Centrally manage policies across multiple AWS accounts Govern access to AWS services, resources, and regions Automate AWS account creation and management Configure AWS services across multiple accounts Consolidate billing across multiple AWS accounts Use cases Implement and enforce corporate security, audit, and compliance policies Share resources across accounts Automate the creation of AWS accounts and categorize workloads using groups Get started with AWS Organizations"
+  },
+  {
+    "service_path": "/premiumsupport/phd/",
+    "service_name": "AWS Personal Health Dashboard",
+    "mini_description": "Personalized View of AWS Service Health",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/premiumsupport/technology/personal-health-dashboard/",
+    "keywords": [
+      "AWS Personal Health Dashboard",
+      "Technology & Tools To Monitor",
+      " Manage",
+      " and Optimize Your AWS Environment",
+      "Personalized View of Service Health",
+      "Proactive Notifications",
+      "Detailed Troubleshooting Guidance",
+      "Integration and Automation",
+      "Fine-grained Access Control Via IAM Policy Conditions"
+    ],
+    "benefits": "AWS Personal Health Dashboard Technology & Tools To Monitor, Manage, and Optimize Your AWS Environment Personalized View of Service Health Proactive Notifications Detailed Troubleshooting Guidance Integration and Automation Fine-grained Access Control Via IAM Policy Conditions"
+  },
+  {
+    "service_path": "/servicecatalog/",
+    "service_name": "AWS Service Catalog",
+    "mini_description": "Create and Use Standardized Products",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/servicecatalog/",
+    "keywords": [
+      "Benefits",
+      "Ensure compliance with corporate standards",
+      "Help employees quickly find and deploy approved IT services",
+      "Centrally manage IT service lifecycle",
+      "Connect with ITSM/ITOM software",
+      "Case studies",
+      "Blog posts & articles",
+      "Get started with AWS"
+    ],
+    "benefits": "Ensure compliance with corporate standards Help employees quickly find and deploy approved IT services Centrally manage IT service lifecycle Connect with ITSM/ITOM software Case studies Blog posts & articles Get started with AWS"
+  },
+  {
+    "service_path": "/systems-manager/",
+    "service_name": "AWS Systems Manager",
+    "mini_description": "Gain Operational Insights and Take Action",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/systems-manager/",
+    "keywords": [
+      "Benefits",
+      "Shorten the Time to Detect Problems",
+      "Easy to Use Automation",
+      "Improve Visibility and Control",
+      "Manage Hybrid Environments",
+      "Maintain Security and Compliance",
+      "How it works"
+    ],
+    "benefits": "Shorten the Time to Detect Problems Easy to Use Automation Improve Visibility and Control Manage Hybrid Environments Maintain Security and Compliance How it works"
+  },
+  {
+    "service_path": "/trustedadvisor/",
+    "service_name": "AWS Trusted Advisor",
+    "mini_description": "Optimize Performance and Security",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/",
+    "keywords": [
+      "Benefits",
+      "AWS Trusted Advisor Features"
+    ],
+    "benefits": "AWS Trusted Advisor Features"
+  },
+  {
+    "service_path": "/well-architected-tool/",
+    "service_name": "AWS Well-Architected Tool",
+    "mini_description": "Review and improve your workloads",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/well-architected-tool/",
+    "keywords": [
+      "Benefits",
+      "Get free architectural guidance",
+      "Review your workloads consistently",
+      "Identify and implement improvements",
+      "How it works",
+      "AWS Well-Architected Partner Program"
+    ],
+    "benefits": "Get free architectural guidance Review your workloads consistently Identify and implement improvements How it works AWS Well-Architected Partner Program"
+  },
+  {
+    "service_path": "/cloud-directory/",
+    "service_name": "Amazon Cloud Directory",
+    "mini_description": "Create Flexible Cloud-native Directories",
+    "category": "Management & Governance",
+    "url": "https://aws.amazon.com/cloud-directory/",
+    "keywords": [
+      "Benefits",
+      "Efficiently organize hierarchies of data across multiple dimensions",
+      "Scale automatically on managed infrastructure",
+      "Search your directory for objects and relationships",
+      "Easily adapt to changing data requirements",
+      "Simplify policy management",
+      "Integrate with AWS CloudTrail and tagging",
+      "Use cases",
+      "Human Resources Applications",
+      "Fleet Management Systems",
+      "Learning Management Systems",
+      "Featured Customers",
+      "Get started with AWS"
+    ],
+    "benefits": "Efficiently organize hierarchies of data across multiple dimensions Scale automatically on managed infrastructure Search your directory for objects and relationships Easily adapt to changing data requirements Simplify policy management Integrate with AWS CloudTrail and tagging Use cases Human Resources Applications Fleet Management Systems Learning Management Systems Featured Customers Get started with AWS"
+  }
+]

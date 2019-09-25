@@ -1,0 +1,39 @@
+[
+  {
+    "service_name": "Cloud SQL",
+    "service_short_name": "cloudSql",
+    "description": "MySQL, PostgreSQL, and SQL Server database services.",
+    "url": "https://cloud.google.com/sql/",
+    "category": "Database",
+    "benefits": "Focus on your applicationSimple and fully managedPerformance and scalabilityReliability and securityDiscounts without lock-inScalabilityHigh performanceIntegratedAvailability protectionFully managedStandard APIsSecurityPartnerships and integrations"
+  },
+  {
+    "service_name": "Cloud Bigtable",
+    "service_short_name": "cloudBigtable",
+    "description": "NoSQL wide-column database service.",
+    "url": "https://cloud.google.com/bigtable/",
+    "category": "Database"
+  },
+  {
+    "service_name": "Cloud Spanner",
+    "service_short_name": "cloudSpanner",
+    "description": "Mission-critical, scalable, relational database service.",
+    "url": "https://cloud.google.com/spanner/",
+    "category": "Database"
+  },
+  {
+    "service_name": "Cloud Memorystore",
+    "service_short_name": "cloudMemorystore",
+    "description": "Fully managed in-memory data store service.",
+    "url": "https://cloud.google.com/memorystore/",
+    "category": "Database"
+  },
+  {
+    "service_name": "Cloud Firestore",
+    "service_short_name": "cloudFirestore",
+    "description": "NoSQL document database for mobile and web app data",
+    "url": "https://cloud.google.com/firestore/",
+    "category": "Database",
+    "benefits": "Accelerate development velocity with serverlessSync data across devices, on or offlineSimple and effortlessEnterprise-grade, scalable NoSQLSecurityDatastore modeAutomatic upgradeACID transactionsMulti-region replicationPowerful query engineBuilt for cloud-native applicationsLearn and buildNeed more help?"
+  }
+]

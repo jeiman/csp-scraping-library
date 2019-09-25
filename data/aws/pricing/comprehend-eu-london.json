@@ -1,0 +1,98 @@
+{
+  "Processes Custom Classification model storage request": {
+    "rateCode": "36KJ6REG4XVF4JQ2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.5000000000"
+  },
+  "Processes Custom Classification model training request": {
+    "rateCode": "TJJVFWFR5XYHKN7A.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0008330000"
+  },
+  "Processes Custom Classification text request": {
+    "rateCode": "C2GJF3MAQG3QWB9E.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0005000000"
+  },
+  "Processes Custom Entity model storage request": {
+    "rateCode": "7H6PWFK6ENPZVNZD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.5000000000"
+  },
+  "Processes Custom Entity model training request": {
+    "rateCode": "JXT2Z2PBEN26WU5N.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0008330000"
+  },
+  "Processes Custom Entity text request": {
+    "rateCode": "8BEJ764N84Y78TXN.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0005000000"
+  },
+  "Processes Entity Analysis text request from 10M to 50M": {
+    "rateCode": "MS6P5UGKJDX8T3PZ.JRTCKXETXF.UH4R86KK5B",
+    "price": "0.0000500000"
+  },
+  "Processes Entity Analysis text request over 50M": {
+    "rateCode": "MS6P5UGKJDX8T3PZ.JRTCKXETXF.ECJTRKSV3C",
+    "price": "0.0000250000"
+  },
+  "Processes Entity Analysis text request upto 10M": {
+    "rateCode": "MS6P5UGKJDX8T3PZ.JRTCKXETXF.HWDSBTNJX9",
+    "price": "0.0001000000"
+  },
+  "Processes Key Phrase detection text request from 10M to 50M": {
+    "rateCode": "GK382D4QAYASKD76.JRTCKXETXF.UH4R86KK5B",
+    "price": "0.0000500000"
+  },
+  "Processes Key Phrase detection text request over 50M": {
+    "rateCode": "GK382D4QAYASKD76.JRTCKXETXF.ECJTRKSV3C",
+    "price": "0.0000250000"
+  },
+  "Processes Key Phrase detection text request upto 10M": {
+    "rateCode": "GK382D4QAYASKD76.JRTCKXETXF.HWDSBTNJX9",
+    "price": "0.0001000000"
+  },
+  "Processes Language Detection text request from 10M to 50M": {
+    "rateCode": "3JVNZEWQCDUUB5XE.JRTCKXETXF.UH4R86KK5B",
+    "price": "0.0000500000"
+  },
+  "Processes Language Detection text request over 50M": {
+    "rateCode": "3JVNZEWQCDUUB5XE.JRTCKXETXF.ECJTRKSV3C",
+    "price": "0.0000250000"
+  },
+  "Processes Language Detection text request upto 10M": {
+    "rateCode": "3JVNZEWQCDUUB5XE.JRTCKXETXF.HWDSBTNJX9",
+    "price": "0.0001000000"
+  },
+  "Processes Sentiment Analysis text request from 10M to 50M": {
+    "rateCode": "W4MG36H98TMUCXKU.JRTCKXETXF.UH4R86KK5B",
+    "price": "0.0000500000"
+  },
+  "Processes Sentiment Analysis text request over 50M": {
+    "rateCode": "W4MG36H98TMUCXKU.JRTCKXETXF.ECJTRKSV3C",
+    "price": "0.0000250000"
+  },
+  "Processes Sentiment Analysis text request upto 10M": {
+    "rateCode": "W4MG36H98TMUCXKU.JRTCKXETXF.HWDSBTNJX9",
+    "price": "0.0001000000"
+  },
+  "Processes Syntax Analysis text request from 10M to 50M": {
+    "rateCode": "VHQTYJEV6U3AR33P.JRTCKXETXF.UH4R86KK5B",
+    "price": "0.0000500000"
+  },
+  "Processes Syntax Analysis text request over 50M": {
+    "rateCode": "VHQTYJEV6U3AR33P.JRTCKXETXF.ECJTRKSV3C",
+    "price": "0.0000250000"
+  },
+  "Processes Syntax Analysis text request upto 10M": {
+    "rateCode": "VHQTYJEV6U3AR33P.JRTCKXETXF.HWDSBTNJX9",
+    "price": "0.0001000000"
+  },
+  "Topic Modeling Comprehend-DetectTopic": {
+    "rateCode": "KSRT4DXF4KUEDC48.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "Topic Modeling Comprehend-DetectTopic-Fixed": {
+    "rateCode": "HVBJ63CM42UQP7QX.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "Topic Modeling Comprehend-DetectTopic-PerMB": {
+    "rateCode": "7FG738R98XH6NGDP.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0040000000"
+  }
+}

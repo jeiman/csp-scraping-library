@@ -1,0 +1,30 @@
+{
+  "Small Simple AD or AD Connector": {
+    "rateCode": "FJCNG2QRJ67E2959.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0800000000"
+  },
+  "Large Simple AD": {
+    "rateCode": "9UMJ8V57YCCSCJEE.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2400000000"
+  },
+  "Standard Shared Account for Microsoft Active Directory": {
+    "rateCode": "G7HUKZWZ2MWNZTWN.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0219000000"
+  },
+  "Enterprise Shared Account for Microsoft Active Directory": {
+    "rateCode": "37GAQ9HRJD6PPXC9.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0667500000"
+  },
+  "Standard Domain Controller for Microsoft Active Directory": {
+    "rateCode": "77GMZ4UGPKPPTTKH.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0730000000"
+  },
+  "Enterprise Domain Controller for Microsoft Active Directory": {
+    "rateCode": "Q2RAGHQDBNFUXMBD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2240000000"
+  },
+  "Large AD Connector": {
+    "rateCode": "CCTPQS7WSJU8HKGD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2400000000"
+  }
+}

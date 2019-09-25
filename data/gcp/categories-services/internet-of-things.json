@@ -1,0 +1,17 @@
+[
+  {
+    "service_name": "Cloud IoT Core",
+    "service_short_name": "cloudIotCore",
+    "description": "Secure device connection and management.",
+    "url": "https://cloud.google.com/iot-core/",
+    "category": "Internet of Things"
+  },
+  {
+    "service_name": "Edge TPU (beta)",
+    "service_short_name": "edgeTpu",
+    "description": "Purpose-built ASIC designed to run inference at the edge.",
+    "url": "https://cloud.google.com/edge-tpu/",
+    "category": "Internet of Things",
+    "benefits": "End-to-end AI infrastructureHigh performance in a small physical and power footprintCo-design of AI hardware, software and algorithmsA broad range of applications"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "SecurityHubConfigRules": {
+    "rateCode": "EFK7RUTZF8BMX6KC.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "Config Rules next 40": {
+    "rateCode": "9FYQT3RQ4T6835CU.JRTCKXETXF.4WUN9CNZK5",
+    "price": "1.5000000000"
+  },
+  "Config Rules first 10": {
+    "rateCode": "9FYQT3RQ4T6835CU.JRTCKXETXF.DGNP37V5JW",
+    "price": "2.0000000000"
+  },
+  "Config Rules 51 and more": {
+    "rateCode": "9FYQT3RQ4T6835CU.JRTCKXETXF.HVPRRUAXWE",
+    "price": "1.0000000000"
+  },
+  "Config": {
+    "rateCode": "WMHV39BSUYQF6Q6K.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0030000000"
+  }
+}

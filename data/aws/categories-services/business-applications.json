@@ -1,0 +1,57 @@
+[
+  {
+    "service_path": "/alexaforbusiness/",
+    "service_name": "Alexa for Business",
+    "mini_description": "Empower your Organization with Alexa",
+    "category": "Business Applications",
+    "url": "https://aws.amazon.com/alexaforbusiness/",
+    "keywords": [
+      "Benefits",
+      "SIMPLIFIED MEETING ROOMS",
+      "More Productive Employees",
+      "Voice enabled applications",
+      "Intuitive management and control",
+      "How it Works",
+      "Customer References",
+      "Blog posts"
+    ],
+    "benefits": "SIMPLIFIED MEETING ROOMS More Productive Employees Voice enabled applications Intuitive management and control How it Works Customer References Blog posts"
+  },
+  {
+    "service_path": "/chime/",
+    "service_name": "Amazon Chime",
+    "mini_description": "Frustration-free Meetings, Video Calls, and Chat",
+    "category": "Business Applications",
+    "url": "https://aws.amazon.com/chime/",
+    "keywords": [
+      "Amazon Chime",
+      "Working together",
+      " simplified",
+      "Why Amazon Chime",
+      "Choose how you communicate",
+      "Use one app for all your communication",
+      "Pay only for what you use",
+      "Amazon Chime Partners",
+      "Blog posts & articles"
+    ],
+    "benefits": "Amazon Chime Working together, simplified Why Amazon Chime Choose how you communicate Use one app for all your communication Pay only for what you use Amazon Chime Partners Blog posts & articles"
+  },
+  {
+    "service_path": "/workmail/",
+    "service_name": "Amazon WorkMail",
+    "mini_description": "Secure and Managed Business Email and Calendaring",
+    "category": "Business Applications",
+    "url": "https://aws.amazon.com/workmail/",
+    "keywords": [
+      "Benefits",
+      "Managed service",
+      "Enterprise-grade security",
+      "Outlook compatible",
+      "Anywhere access",
+      "Active directory integration",
+      "Low cost",
+      "Get started with AWS"
+    ],
+    "benefits": "Managed service Enterprise-grade security Outlook compatible Anywhere access Active directory integration Low cost Get started with AWS"
+  }
+]

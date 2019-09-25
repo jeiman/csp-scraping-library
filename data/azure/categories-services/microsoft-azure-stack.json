@@ -1,0 +1,33 @@
+[
+  {
+    "service_name": "Azure Stack",
+    "service_path": "/en-gb/overview/azure-stack/",
+    "url": "https://azure.microsoft.com/en-gb/overview/azure-stack/",
+    "description": "Unlock innovation with hybrid cloud applications",
+    "category": "Microsoft Azure Stack",
+    "keywords": [
+      "Use",
+      "public",
+      "cloud",
+      "services.",
+      "Use",
+      "cloud",
+      "services",
+      "on",
+      "premises.",
+      "Run",
+      "virtualised",
+      "applications",
+      "on",
+      "premises.",
+      "Azure",
+      "innovation",
+      "anywhere.",
+      "Azure",
+      "Stack",
+      "for",
+      "developers"
+    ],
+    "benefits": "Use public cloud services. Use cloud services on premises. Run virtualised applications on premises. Azure innovation anywhere. Azure Stack for developers."
+  }
+]

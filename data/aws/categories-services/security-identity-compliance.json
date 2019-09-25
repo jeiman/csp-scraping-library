@@ -1,0 +1,334 @@
+[
+  {
+    "service_path": "/iam/",
+    "service_name": "AWS Identity & Access Management",
+    "mini_description": "Manage User Access and Encryption Keys",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/iam/",
+    "keywords": [
+      "AWS Identity and Access Management (IAM)",
+      "Securely manage access to AWS services and resources",
+      "Use cases",
+      "Fine-grained access control to AWS resources",
+      "Multi-factor authentication for highly privileged users",
+      "Manage access control for mobile applications with Web Identity Providers",
+      "Integrate with your corporate directory",
+      "How it works",
+      "Best practices",
+      "Get started with AWS"
+    ],
+    "benefits": "AWS Identity and Access Management (IAM) Securely manage access to AWS services and resources Use cases Fine-grained access control to AWS resources Multi-factor authentication for highly privileged users Manage access control for mobile applications with Web Identity Providers Integrate with your corporate directory How it works Best practices Get started with AWS"
+  },
+  {
+    "service_path": "/cognito/",
+    "service_name": "Amazon Cognito",
+    "mini_description": "Identity Management for your Apps",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/cognito/",
+    "keywords": [
+      "Amazon Cognito",
+      "Simple and Secure User Sign-Up",
+      " Sign-In",
+      " and Access Control",
+      "Spend your time creating great apps.",
+      "Let Amazon Cognito handle authentication.",
+      "It really is this easy",
+      "Trusted by developers",
+      "Pay only for what you use. No minimums.",
+      "Get started with AWS"
+    ],
+    "benefits": "Amazon Cognito Simple and Secure User Sign-Up, Sign-In, and Access Control Spend your time creating great apps. Let Amazon Cognito handle authentication. It really is this easy Trusted by developers Pay only for what you use. No minimums. Get started with AWS"
+  },
+  {
+    "service_path": "/guardduty/",
+    "service_name": "Amazon GuardDuty",
+    "mini_description": "Managed Threat Detection Service",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/guardduty/",
+    "keywords": [
+      "Benefits",
+      "Comprehensive threat identification",
+      "Strengthens security through automation",
+      "Enterprise scale and central management",
+      "Blog posts & articles",
+      "Featured customers",
+      "Partners",
+      "Threat intelligence partners",
+      "Partners"
+    ],
+    "benefits": "Comprehensive threat identification Strengthens security through automation Enterprise scale and central management Blog posts & articles  Featured customers Partners Threat intelligence partners Partners"
+  },
+  {
+    "service_path": "/inspector/",
+    "service_name": "Amazon Inspector",
+    "mini_description": "Analyze Application Security",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/inspector/",
+    "keywords": [
+      "Benefits",
+      "Identify application security issues",
+      "Integrate security into DevOps",
+      "Increase development agility",
+      "Leverage AWS security expertise",
+      "Streamline security compliance",
+      "Enforce security standards",
+      "Featured customers",
+      "Featured partners",
+      "Get started with AWS"
+    ],
+    "benefits": "Identify application security issues Integrate security into DevOps Increase development agility Leverage AWS security expertise Streamline security compliance Enforce security standards Featured customers Featured partners Get started with AWS"
+  },
+  {
+    "service_path": "/macie/",
+    "service_name": "Amazon Macie",
+    "mini_description": "Discover, Classify, and Protect your Data",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/macie/",
+    "keywords": [
+      "BENEFITS",
+      "SUPERIOR VISIBILITY OF YOUR DATA",
+      "SIMPLE TO SET UP",
+      " EASY TO MANAGE",
+      "DATA SECURITY AUTOMATION THROUGH MACHINE LEARNING",
+      "CUSTOM ALERT MONITORING WITH CLOUDWATCH",
+      "HOW MACIE WORKS",
+      "CUSTOMERS",
+      "RESOURCES"
+    ],
+    "benefits": "BENEFITS SUPERIOR VISIBILITY OF YOUR DATA SIMPLE TO SET UP, EASY TO MANAGE DATA SECURITY AUTOMATION THROUGH MACHINE LEARNING CUSTOM ALERT MONITORING WITH CLOUDWATCH HOW MACIE WORKS CUSTOMERS RESOURCES"
+  },
+  {
+    "service_path": "/artifact/",
+    "service_name": "AWS Artifact",
+    "mini_description": "On-demand access to AWS compliance reports",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/artifact/",
+    "keywords": [
+      "Benefits",
+      "Comprehensive resource",
+      "Agreement governance",
+      "Deep insights",
+      "AWS Artifact Reports",
+      "AWS Artifact Agreements"
+    ],
+    "benefits": "Comprehensive resource Agreement governance Deep insights  AWS Artifact Reports AWS Artifact Agreements"
+  },
+  {
+    "service_path": "/certificate-manager/",
+    "service_name": "AWS Certificate Manager",
+    "mini_description": "Provision, Manage, and Deploy SSL/TLS Certificates",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/certificate-manager/",
+    "keywords": [
+      "Benefits",
+      "Free public certificates for ACM-integrated services",
+      "Managed certificate renewal",
+      "Get certificates easily",
+      "Use cases",
+      "Protect and secure your website",
+      "Protect and secure your internal resources",
+      "Help meet compliance requirements",
+      "Improved uptime",
+      "Get started with AWS"
+    ],
+    "benefits": "Free public certificates for ACM-integrated services Managed certificate renewal Get certificates easily Use cases Protect and secure your website Protect and secure your internal resources Help meet compliance requirements Improved uptime Get started with AWS"
+  },
+  {
+    "service_path": "/cloudhsm/",
+    "service_name": "AWS CloudHSM",
+    "mini_description": "Hardware-based Key Storage for Regulatory Compliance",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/cloudhsm/",
+    "keywords": [
+      "Benefits",
+      "Generate and use encryption keys on FIPS 140-2 level 3 validated HSMs",
+      "Deploy secure",
+      " compliant workloads",
+      "Use an open HSM built on industry standards",
+      "Keep control of your encryption keys",
+      "Easy to manage and scale",
+      "Control AWS KMS keys",
+      "How it works",
+      "Use cases",
+      "Offload the SSL processing for web servers",
+      "Protect private keys for an issuing certificate authority (CA)",
+      "Enable Transparent Data Encryption (TDE) for Oracle databases",
+      "Blog posts & articles",
+      "Get started with AWS"
+    ],
+    "benefits": "Generate and use encryption keys on FIPS 140-2 level 3 validated HSMs Deploy secure, compliant workloads Use an open HSM built on industry standards Keep control of your encryption keys Easy to manage and scale Control AWS KMS keys How it works Use cases Offload the SSL processing for web servers  Protect private keys for an issuing certificate authority (CA)  Enable Transparent Data Encryption (TDE) for Oracle databases Blog posts & articles  Get started with AWS"
+  },
+  {
+    "service_path": "/directoryservice/",
+    "service_name": "AWS Directory Service",
+    "mini_description": "Host and Manage Active Directory",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/directoryservice/",
+    "keywords": [
+      "Benefits",
+      "Easily migrate directory-aware",
+      " on-premises workloads",
+      "Use actual Microsoft Active Directory",
+      "Share a single directory for cloud workloads",
+      "Easily extend existing domains",
+      "Centrally manage application access and devices in the AWS Cloud",
+      "Simplify administration with a managed service",
+      "How it works",
+      "Use cases",
+      "Use Active Directory Group Policy objects (GPOs)",
+      "Single sign-on (SSO) with Active Directory credentials",
+      "Highly available Active Directory in the AWS Cloud",
+      "Seamlessly Domain Join Amazon EC2 Instances from Multiple Accounts & VPCs"
+    ],
+    "benefits": "Easily migrate directory-aware, on-premises workloads Use actual Microsoft Active Directory Share a single directory for cloud workloads Easily extend existing domains Centrally manage application access and devices in the AWS Cloud Simplify administration with a managed service How it works Use cases Use Active Directory Group Policy objects (GPOs) Single sign-on (SSO) with Active Directory credentials Highly available Active Directory in the AWS Cloud Seamlessly Domain Join Amazon EC2 Instances from Multiple Accounts & VPCs"
+  },
+  {
+    "service_path": "/firewall-manager/",
+    "service_name": "AWS Firewall Manager",
+    "mini_description": "Central Management of Firewall Rules",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/firewall-manager/",
+    "keywords": [
+      "Benefits",
+      "Ensure compliance of existing and new applications",
+      "Simplify management of rules across your organization",
+      "Easily deploy Managed Rules for AWS WAF",
+      "Enable rapid response to internet attacks",
+      "Blog posts & articles",
+      "Get started with AWS"
+    ],
+    "benefits": "Ensure compliance of existing and new applications Simplify management of rules across your organization Easily deploy Managed Rules for AWS WAF Enable rapid response to internet attacks Blog posts & articles Get started with AWS"
+  },
+  {
+    "service_path": "/kms/",
+    "service_name": "AWS Key Management Service",
+    "mini_description": "Managed Creation and Control of Encryption Keys",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/kms/",
+    "keywords": [
+      "Benefits",
+      "Fully managed",
+      "Centralized key management",
+      "Manage encryption for AWS services",
+      "Encrypt data in your applications",
+      "Built-in auditing",
+      "Low cost",
+      "Secure",
+      "Compliance",
+      "Blog posts & articles"
+    ],
+    "benefits": "Fully managed Centralized key management Manage encryption for AWS services Encrypt data in your applications Built-in auditing Low cost Secure Compliance Blog posts & articles"
+  },
+  {
+    "service_path": "/ram/",
+    "service_name": "AWS Resource Access Manager",
+    "mini_description": "Simple, secure service to share AWS resources",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/ram/",
+    "keywords": [
+      "Benefits",
+      "Reduce Operational Overhead",
+      "Improve Security and Visibility",
+      "Optimize Costs",
+      "How it works"
+    ],
+    "benefits": "Reduce Operational Overhead Improve Security and Visibility Optimize Costs How it works"
+  },
+  {
+    "service_path": "/secrets-manager/",
+    "service_name": "AWS Secrets Manager",
+    "mini_description": "Rotate, Manage, and Retrieve Secrets",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/secrets-manager/",
+    "keywords": [
+      "Benefits",
+      "Rotate secrets safely",
+      "Manage access with fine-grained policies",
+      "Secure and audit secrets centrally",
+      "Pay as you go",
+      "Featured customers",
+      "Blog posts & articles",
+      "Get started with AWS"
+    ],
+    "benefits": "Rotate secrets safely Manage access with fine-grained policies Secure and audit secrets centrally Pay as you go Featured customers Blog posts & articles Get started with AWS"
+  },
+  {
+    "service_path": "/security-hub/",
+    "service_name": "AWS Security Hub",
+    "mini_description": "Unified security and compliance center",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/security-hub/",
+    "keywords": [
+      "Benefits",
+      "Save time with aggregated findings",
+      "Improve compliance with automated checks",
+      "Quickly take actions on findings",
+      "How it works",
+      "Blog posts and news",
+      "Featured customers",
+      "Partners"
+    ],
+    "benefits": "Save time with aggregated findings Improve compliance with automated checks Quickly take actions on findings How it works Blog posts and news Featured customers Partners"
+  },
+  {
+    "service_path": "/shield/",
+    "service_name": "AWS Shield",
+    "mini_description": "DDoS Protection",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/shield/",
+    "keywords": [
+      "Benefits",
+      "Seamless integration and deployment",
+      "Customizable protection",
+      "Managed Protection and Attack Visibility",
+      "Cost Efficient",
+      "Featured Customers",
+      "What's new",
+      "Protection use cases",
+      "Web applications and APIs",
+      "DNS",
+      "Other applications (like UDP-based applications)",
+      "Get started with AWS"
+    ],
+    "benefits": "Seamless integration and deployment Customizable protection Managed Protection and Attack Visibility Cost Efficient Featured Customers What's new Protection use cases Web applications and APIs DNS Other applications (like UDP-based applications) Get started with AWS"
+  },
+  {
+    "service_path": "/single-sign-on/",
+    "service_name": "AWS Single Sign-On",
+    "mini_description": "Cloud Single Sign-On (SSO) Service",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/single-sign-on/",
+    "keywords": [
+      "Benefits",
+      "Centrally manage access to AWS accounts",
+      "Create users in AWS SSO or connect to existing directory",
+      "Easy to use",
+      "Access accounts and applications from one place",
+      "How it works",
+      "Featured customers",
+      "Built-in support for AWS accounts and business applications",
+      "Blog posts & articles"
+    ],
+    "benefits": "Centrally manage access to AWS accounts Create users in AWS SSO or connect to existing directory Easy to use Access accounts and applications from one place How it works Featured customers Built-in support for AWS accounts and business applications Blog posts & articles"
+  },
+  {
+    "service_path": "/waf/",
+    "service_name": "AWS WAF",
+    "mini_description": "Filter Malicious Web Traffic",
+    "category": "Security, Identity & Compliance",
+    "url": "https://aws.amazon.com/waf/",
+    "keywords": [
+      "Benefits",
+      "Increased Protection Against Web Attacks",
+      "Security Integrated with How You Develop Applications",
+      "Ease of Deployment & Maintenance",
+      "Improved Web Traffic Visibility",
+      "Cost Effective Web Application Protection",
+      "Enhanced Security With Managed Rules",
+      "What's new",
+      "Blog posts & articles",
+      "Get started with AWS"
+    ],
+    "benefits": "Increased Protection Against Web Attacks Security Integrated with How You Develop Applications Ease of Deployment & Maintenance Improved Web Traffic Visibility Cost Effective Web Application Protection Enhanced Security With Managed Rules What's new Blog posts & articles Get started with AWS"
+  }
+]

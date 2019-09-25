@@ -1,0 +1,19 @@
+[
+  {
+    "service_path": "/robomaker/",
+    "service_name": "AWS RoboMaker",
+    "mini_description": "Develop, test, and deploy robotics applications",
+    "category": "Robotics",
+    "url": "https://aws.amazon.com/robomaker/",
+    "keywords": [
+      "Benefits",
+      "Get started quickly",
+      "Build intelligent robots",
+      "Lifecycle management",
+      "Customers",
+      "Partners",
+      "Research and education partners"
+    ],
+    "benefits": "Get started quickly Build intelligent robots Lifecycle management Customers Partners Research and education partners"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "Dedicated IPs": {
+    "rateCode": "Y38YHMPFWMCRYG22.JRTCKXETXF.6YS6EN2CT7",
+    "price": "24.9500000000"
+  },
+  "Email sent to an external recipient": {
+    "rateCode": "NFPBUCR79VXFBPC3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0001000000"
+  },
+  "Email sent to SES Mailbox Simulator": {
+    "rateCode": "T6YZPAHAEP7Y964A.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0001000000"
+  },
+  "Email sent from AmazonEC2 to an external recipient": {
+    "rateCode": "UZ7FV2X9TEDY6Z82.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0001000000"
+  },
+  "Email sent from AmazonEC2 to SES Mailbox Simulator": {
+    "rateCode": "D55E2SDM8PK6VKWT.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0001000000"
+  },
+  "Charged for attachments sent": {
+    "rateCode": "JHWZ338PHT3RBFJN.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1200000000"
+  },
+  "Charged for chunks of 256 KB applicable to incoming mail": {
+    "rateCode": "8AWP8KKQWDB52PSS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000900000"
+  },
+  "Received e mail communication": {
+    "rateCode": "WW23TBA4RZJ87A5W.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0001000000"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "WebSocket Messages Messages over 1 billion": {
+    "rateCode": "W5CFX7DTWDXQKY63.JRTCKXETXF.AGD8ADSNTG",
+    "price": "0.0000009500"
+  },
+  "WebSocket Messages Messages first 1 billion": {
+    "rateCode": "W5CFX7DTWDXQKY63.JRTCKXETXF.ZN357FEBCK",
+    "price": "0.0000011500"
+  },
+  "WebSocket Connection Minutes": {
+    "rateCode": "7KUXYHEQKAD79DEW.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000002880"
+  },
+  "Caching Memory Size 6 1": {
+    "rateCode": "R2JG4MPQHTZSFP5T.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2450000000"
+  },
+  "Caching Memory Size 58 2": {
+    "rateCode": "ZS4R5DTABEP43UQV.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.1000000000"
+  },
+  "Caching Memory Size 28 4": {
+    "rateCode": "YUAPGUMZYEZE4FK3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.5600000000"
+  },
+  "Caching Memory Size 237": {
+    "rateCode": "RTEXRH4RZHBBTX9E.JRTCKXETXF.6YS6EN2CT7",
+    "price": "4.4000000000"
+  },
+  "Caching Memory Size 13 5": {
+    "rateCode": "XKFM6R3VGPNAV77J.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2900000000"
+  },
+  "Caching Memory Size 118": {
+    "rateCode": "2F9MBTX6X3TTK82Z.JRTCKXETXF.6YS6EN2CT7",
+    "price": "2.2000000000"
+  },
+  "Caching Memory Size 1 6": {
+    "rateCode": "AKBK8N4QD2HR4H4X.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0540000000"
+  },
+  "Caching Memory Size 0 5": {
+    "rateCode": "APBPQWG3UF58FCFE.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0280000000"
+  },
+  "API Calls Number of up to 333 million": {
+    "rateCode": "GVUAQ6EVG8QNVVZQ.JRTCKXETXF.QS4VQ8N7FD",
+    "price": "0.0000042500"
+  },
+  "API Calls Number of Request Over 20 billion": {
+    "rateCode": "GVUAQ6EVG8QNVVZQ.JRTCKXETXF.KVC36CKCEW",
+    "price": "0.0000019100"
+  },
+  "API Calls Number of Request Next 667 million": {
+    "rateCode": "GVUAQ6EVG8QNVVZQ.JRTCKXETXF.DRE2JBTXBV",
+    "price": "0.0000035300"
+  },
+  "API Calls Number of Request Next 19 billion": {
+    "rateCode": "GVUAQ6EVG8QNVVZQ.JRTCKXETXF.J4SY3H5SUC",
+    "price": "0.0000030000"
+  }
+}

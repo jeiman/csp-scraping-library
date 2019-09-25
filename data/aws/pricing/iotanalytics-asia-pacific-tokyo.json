@@ -1,0 +1,30 @@
+{
+  "Scanning per TB": {
+    "rateCode": "5WB4Z6XYNR3Y3AQZ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "8.4500000000"
+  },
+  "Raw Storage over 500TB per GB-Mo": {
+    "rateCode": "7ZZ8BEV788EFVDG4.JRTCKXETXF.PXJDJ3YRG3",
+    "price": "0.0230000000"
+  },
+  "Raw Storage first 50TB per GB-Mo": {
+    "rateCode": "7ZZ8BEV788EFVDG4.JRTCKXETXF.D42MF2PVJS",
+    "price": "0.0240000000"
+  },
+  "Processed Data per GB": {
+    "rateCode": "MD82WTEW8ZJ5EVC4.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2600000000"
+  },
+  "Processed Storage per GB-Mo": {
+    "rateCode": "J2EQ4YMUV6XYSVDB.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0400000000"
+  },
+  "Custom Analysis Execution - 2-ACU per ACU-Hour": {
+    "rateCode": "S2KJQSNSANPFN64Q.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.9400000000"
+  },
+  "Custom Analysis Execution - 1-ACU per ACU-Hour": {
+    "rateCode": "Z9XM664BE2TXT8R2.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.4700000000"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "CloudHSM Hourly": {
+    "rateCode": "JGCKMZQ6Z59DU7GD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.4500000000"
+  },
+  "CloudHSM v Classic Hourly": {
+    "rateCode": "NZR6ZVTZRF5D3PMY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.8800000000"
+  },
+  "Fee for Commitment upfront": {
+    "rateCode": "4CK7SH5MJCHYQ2N3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "5000.0000000000"
+  },
+  "Trial Hourly": {
+    "rateCode": "9ZY6FAAHE7E4QQ56.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "Trial upfront": {
+    "rateCode": "K9NRVBK69QMUKG6B.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  }
+}

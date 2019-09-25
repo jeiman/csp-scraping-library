@@ -1,0 +1,62 @@
+[
+  {
+    "service_name": "Migrate for Compute Engine",
+    "service_short_name": "velostrata",
+    "description": "Purpose-built, enterprise-grade migration to Google Cloud.",
+    "url": "https://cloud.google.com/velostrata/",
+    "category": "Migration & Transfer",
+    "benefits": "Step 1: In-cloud testing and validationStep 2: Build your migration wavesStep 3: Deploy workloads to Google CloudStep 4: Background data migrationStep 5: Stateful rollback to on-premises (if needed)Accelerate your migration journeyMigrate any application landscapeUnlock the cloud's agile capacitySafeguard your migration end-to-endAutomatic and seamless adaptationsProvisioning and rightsizingOn-premises stateful rollbackCustomizablePre-migration validation and testingAutomated migration wavesProgrammable migrationsBoot over WANIntelligent streamingMulti-tier caching and optimizationResiliencyLearn and buildNeed more help?"
+  },
+  {
+    "service_name": "Migrate for Anthos",
+    "service_short_name": "anthosMigrate",
+    "description": "Migrate VMs from on-prem or other clouds directly into containers in GKE.",
+    "url": "https://cloud.google.com/velostrata/#choose-how-you-migrate",
+    "category": "Migration & Transfer",
+    "benefits": "Step 1: In-cloud testing and validationStep 2: Build your migration wavesStep 3: Deploy workloads to Google CloudStep 4: Background data migrationStep 5: Stateful rollback to on-premises (if needed)Accelerate your migration journeyMigrate any application landscapeUnlock the cloud's agile capacitySafeguard your migration end-to-endAutomatic and seamless adaptationsProvisioning and rightsizingOn-premises stateful rollbackCustomizablePre-migration validation and testingAutomated migration wavesProgrammable migrationsBoot over WANIntelligent streamingMulti-tier caching and optimizationResiliencyLearn and buildNeed more help?"
+  },
+  {
+    "service_name": "Cloud Data Transfer",
+    "service_short_name": "cloudDataTransfer",
+    "description": "Command-line tools for developers to transfer data over the network.",
+    "url": "https://cloud.google.com/data-transfer/",
+    "category": "Migration & Transfer"
+  },
+  {
+    "service_name": "Cloud Foundation Toolkit",
+    "service_short_name": "cloudFoundationToolkit",
+    "description": "Best-practice templates to quickly get started in Google Cloud.",
+    "url": "https://cloud.google.com/foundation-toolkit/",
+    "category": "Migration & Transfer",
+    "benefits": "Treat your infrastructure like softwareBuilt for enterpriseSave time and resources with pre-built templatesChoose your adoption strategyMaintain consistency easilyWork with GoogleWork with a partner"
+  },
+  {
+    "service_name": "Transfer Appliance",
+    "service_short_name": "transferAppliance",
+    "description": "Rackable storage server for shipping large volumes of data to Google Cloud.",
+    "url": "https://cloud.google.com/transfer-appliance/",
+    "category": "Migration & Transfer"
+  },
+  {
+    "service_name": "Cloud Storage Transfer Service",
+    "service_short_name": "cloudStorageTransferService",
+    "description": "Transfer data between cloud storage services such as AWS S3 and Google\n                        Cloud Storage.",
+    "url": "https://cloud.google.com/storage/transfer/",
+    "category": "Migration & Transfer"
+  },
+  {
+    "service_name": "BigQuery Data Transfer Service",
+    "service_short_name": "bigqueryDataTransferService",
+    "description": "Fully managed data import service for BigQuery.",
+    "url": "https://cloud.google.com/bigquery/transfer/",
+    "category": "Migration & Transfer"
+  },
+  {
+    "service_name": "VM Migration",
+    "service_short_name": "vmMigration",
+    "description": "Migrating VMs is a fast, effective way to get started in Google Cloud.",
+    "url": "https://cloud.google.com/vm-migrate/",
+    "category": "Migration & Transfer",
+    "benefits": "More customers using Google Cloud VMs"
+  }
+]

@@ -1,0 +1,1747 @@
+[
+  {
+    "id": "9a917d10-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Vision AI",
+    "service_short_name": "visionAi",
+    "description": "Derive insights from images in the cloud or at the edge with AutoML Vision,\n                        or use pre-trained Vision API models to detect emotion, text, and more.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/vision/",
+    "benefits": "AutoML VisionVision APIDetect objects automaticallyGain intelligence at the edgeReduce purchase frictionUnderstand text and act on itDetect explicit contentUse our data labeling service\n                Industrial inspection\n              \n                Vision product search\n              \n                Document classification\n              \n                Image search\n              Integrate computer vision into your applications"
+  },
+  {
+    "id": "9a917d11-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "AI Hub (beta)",
+    "service_short_name": "AiHub",
+    "description": "Discover, share, and deploy AI on Google Cloud.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/ai-hub/",
+    "benefits": "DiscoverShareDeployAccess both public and private content Easily share your AI content with AI users"
+  },
+  {
+    "id": "9a917d12-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud AI building blocks",
+    "service_short_name": "cloudAiBuildingBlocks",
+    "description": "Easily infuse AI into applications with custom or pre-trained models.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/products/ai/building-blocks/",
+    "benefits": "Related content"
+  },
+  {
+    "id": "9a917d13-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud AutoML (beta)",
+    "service_short_name": "cloudAutoMlL ",
+    "description": "Easily train high-quality, custom ML models.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/automl/",
+    "benefits": "State-of-the-art performanceGet up and running fastGenerate high-quality training dataAutoML VisionAutoML Video IntelligenceAutoML Natural LanguageAutoML TranslationAutoML TablesCustom modelsPowered by Google’s AutoML and transfer learningFully integratedIntegration with data labeling service.Cloud AutoMLStart learning"
+  },
+  {
+    "id": "9a917d14-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Video Intelligence",
+    "service_short_name": "videoIntelligence",
+    "description": "Enable powerful content discovery and engaging video experiences with\n                        AutoML Video Intelligence and Video Intelligence API.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/video-intelligence/",
+    "benefits": "AutoML Video IntelligenceVideo Intelligence APIPrecise video analysisSimplify media managementEasily create intelligent video appsAutomate expensive workflowsProcess and store on Google Cloud PlatformContent moderationRecommended contentMedia archivesContextual advertisementsAutoML Video IntelligenceVideo Intelligence API"
+  },
+  {
+    "id": "9a917d15-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Natural Language",
+    "service_short_name": "cloudNaturalLanguage",
+    "description": "Derive insights from unstructured text.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/natural-language/",
+    "benefits": "AutoML Natural LanguageNatural Language APIInsights from customersMultimedia and multilingual supportExtract key document entities that matterReceipt and invoice understandingContent classification relationship graphsBest of Google deep-learning modelsAutoML Natural LanguageNatural Language API"
+  },
+  {
+    "id": "9a917d16-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Translation",
+    "service_short_name": "cloudTranslation",
+    "description": "Dynamically translate between languages.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/translate/",
+    "benefits": "AutoML TranslationTranslation API Translate many languagesLanguage detectionGlossary supportHighly scalableEasy integrationSimple, affordable pricingAutoML TranslationTranslation API"
+  },
+  {
+    "id": "9a917d17-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Text-to-Speech",
+    "service_short_name": "cloudTextToSpeech",
+    "description": "Text-to-speech conversion powered by ML.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/text-to-speech/"
+  },
+  {
+    "id": "9a91a420-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Speech-to-Text",
+    "service_short_name": "cloudSpeechToText",
+    "description": "Speech-to-text conversion powered by ML.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/speech-to-text/"
+  },
+  {
+    "id": "9a91a421-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Healthcare Model Explorer",
+    "service_short_name": "cloudHealthcareModelExplorer",
+    "description": "Evaluate healthcare AI models on GCP.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/healthcare-model-explorer/",
+    "benefits": "Evaluate AI models for medical imagingAssess performance against public datasetsCloud Healthcare Model Explorer"
+  },
+  {
+    "id": "9a91a422-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Dialogflow",
+    "service_short_name": "dialogflow",
+    "description": "Create conversational experiences across devices and platforms.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/dialogflow/",
+    "benefits": "Powered by Google machine learningMake building serverless apps easyBring your enterprise knowledgeDeliver automated phone serviceDeploy across platforms and languagesDesigned for a voice-first worldImprove experiences with built-in analyticsUnderstand user sentimentRely on automatic spelling correction"
+  },
+  {
+    "id": "9a91a423-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "AutoML Tables (beta)",
+    "service_short_name": "autoMlTables",
+    "description": "Automatically build and deploy state-of-the-art machine learning models\n                        on structured data.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/automl-tables/",
+    "benefits": "Increases model qualityHandles data as found in the wildEasy-to-build modelsEasy-to-deploy and scale modelsSaves timeSaves moneySee how you can use AutoML Tables to turn your structured data into predictive insightsMaximize your revenueOptimize your portfolio Understand your customerMaintain your equipmentReady to try AutoML Tables?"
+  },
+  {
+    "id": "9a91a424-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Inference API (alpha)",
+    "service_short_name": "cloudInferenceApi",
+    "description": "Quickly run large-scale correlations over typed time-series datasets.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/inference/",
+    "benefits": "Easy to useReal-time analysisSecureIntegratedAnomaly and trend detectionLarge scaleLow latency for queriesServerless and fully managed\n        Cloud Inference API Alpha\n        Learn and build"
+  },
+  {
+    "id": "9a91a425-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Recommendations AI (beta)",
+    "service_short_name": "recommendationsAi",
+    "description": "Deliver highly personalized product recommendations at scale.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/recommendations/",
+    "benefits": "Dramatic improvements to meaningful metricsFully managed serviceGet up and running fastMaximize your data’s valueChoose your strategyDeliver at any touchpointYour data. Your models.Simple pricingAutomatic global scaleGDPR compliantProduct catalog dataCustomer dataMultiple ways to integrate your dataSelect your recommendation typeSelect your objectiveSet business rulesShow recommendations anywhere in the customer journeyProduct catalog dataCustomer dataMultiple ways to integrate your dataSelect your recommendation typeSelect your objectiveSet business rulesShow recommendations anywhere in the customer journey"
+  },
+  {
+    "id": "9a91a426-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "AI Platform",
+    "service_short_name": "cloudAiPlatform",
+    "description": "Build AI applications that run on GCP or on-premises without significant\n                        code changes.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/ai-platform/",
+    "benefits": "PrepareBuild and runManageShareLearn and buildNeed more help?"
+  },
+  {
+    "id": "9a91a427-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud TPU",
+    "service_short_name": "cloudTpu",
+    "description": "Train and run ML models faster than ever.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/tpu/",
+    "benefits": "Built for AI on Google CloudIterate faster on your ML solutionsProven, state-of-the-art modelsCloud TPU v2Cloud TPU v3Cloud TPU v2 Pod (beta)Cloud TPU v3 Pod (beta)Model libraryConnect Cloud TPUs to custom machine typesFully integrated with Google Cloud PlatformPreemptible Cloud TPU"
+  },
+  {
+    "id": "9a91a428-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "AI Platform Deep Learning VM Image",
+    "service_short_name": "cloudDeepLearningVmImage",
+    "description": "Preconfigured VMs for deep learning applications.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/deep-learning-vm-image/",
+    "benefits": "Broad supportOptimized for performanceFast prototypingIntegrated notebook experience\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a91a429-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "AI Platform Notebooks (beta)",
+    "service_short_name": "AiPlatformNotebooks",
+    "description": "An enterprise notebook service to get your projects up and running\n                        in minutes.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/ai-platform-notebooks/",
+    "benefits": "Get up and running fastUse popular open source frameworksScale on demandEnd-to-end supportManaged JupyterLab experienceAI Hub supportSupport for data science frameworksOptimized for machine learningIntegrated experienceGit supportAdvanced networkingSingle user mode and service account accessBring your own container\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a91a42a-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Deep Learning Containers",
+    "service_short_name": "deepLearningContainers",
+    "description": "Preconfigured and optimized containers for deep learning environments.",
+    "category": "AI & Machine Learning",
+    "url": "https://cloud.google.com/ai-platform/deep-learning-containers/",
+    "benefits": "Consistent environmentFast prototypingPerformance optimized"
+  },
+  {
+    "id": "9a91cb30-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "BigQuery",
+    "service_short_name": "bigQuery",
+    "description": "A fully managed, highly scalable data warehouse with built-in ML.",
+    "category": "Analytics & Query Services",
+    "url": "https://cloud.google.com/bigquery/",
+    "benefits": "Get up and running fastScale seamlesslyAccelerate your insights with powerful analysisProtect your business data and investmentsControl costs and reduce TCOBigQuery ML (beta)BigQuery BI Engine (beta)BigQuery GISLearn and buildNeed more help?"
+  },
+  {
+    "id": "9a91cb31-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Dataflow",
+    "service_short_name": "cloudDataflow",
+    "description": "Real-time batch and stream data processing.",
+    "category": "Analytics & Query Services",
+    "url": "https://cloud.google.com/dataflow/"
+  },
+  {
+    "id": "9a91cb32-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Dataproc",
+    "service_short_name": "cloudDataproc",
+    "description": "Managed Spark and Hadoop service.",
+    "category": "Analytics & Query Services",
+    "url": "https://cloud.google.com/dataproc/",
+    "benefits": "Learn and buildNeed more help?"
+  },
+  {
+    "id": "9a91cb33-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Datalab",
+    "service_short_name": "cloudDatalab",
+    "description": "Explore, analyze, and visualize large datasets.",
+    "category": "Analytics & Query Services",
+    "url": "https://cloud.google.com/datalab/",
+    "benefits": "Integrated and open sourceScalableData management and visualizationMachine learning with lifecycle supportIntegratedMulti-language supportNotebook formatPay-per-use pricingInteractive data visualizationMachine learningIPython supportOpen source\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a91cb34-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Dataprep",
+    "service_short_name": "cloudDataprep",
+    "description": "Cloud data service to explore, clean, and prepare data for analysis.",
+    "category": "Analytics & Query Services",
+    "url": "https://cloud.google.com/dataprep/",
+    "benefits": "Serverless simplicityFast exploration and anomaly detectionEasy and powerful data preparationPredictive transformationParameterizationCollaborationPattern matchingVisual profilingSamplingSchedulingTarget matchingCommon data typesIntegrated with Google Cloud Platform\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a91cb35-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Pub/Sub",
+    "service_short_name": "cloudPubSub",
+    "description": "Ingest event streams from anywhere, at any scale.",
+    "category": "Analytics & Query Services",
+    "url": "https://cloud.google.com/pubsub/",
+    "benefits": "At-least-once deliveryOpenExactly-once processingGlobal by defaultNo provisioning, auto-everythingCompliance and securityIntegratedSeek and replayLearn and buildNeed more help?"
+  },
+  {
+    "id": "9a91cb36-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Composer",
+    "service_short_name": "cloudComposer",
+    "description": "A fully managed workflow orchestration service built on Apache Airflow.",
+    "category": "Analytics & Query Services",
+    "url": "https://cloud.google.com/composer/"
+  },
+  {
+    "id": "9a91cb37-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Data Fusion",
+    "service_short_name": "cloudDataFusion",
+    "description": "Fully managed, code-free data integration.",
+    "category": "Analytics & Query Services",
+    "url": "https://cloud.google.com/data-fusion/",
+    "benefits": "Code-free deployment of data pipelinesAn open core, delivering hybrid and multi-cloud integrationGet more from Google’s industry-leading big data toolsRobust data engineering through collaboration and standardizationCode-free self-serviceCollaborative data engineeringGCP-nativeEnterprise-grade securityIntegration metadata and lineageSeamless operationsComprehensive integration toolkitHybrid enablement\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a91cb38-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Data Catalog",
+    "service_short_name": "dataCatalog",
+    "description": "A fully managed and highly scalable data discovery and metadata\n                        management service.",
+    "category": "Analytics & Query Services",
+    "url": "https://cloud.google.com/data-catalog/",
+    "benefits": "Simplifies data discovery at any scale\n            Offers a unified view of all datasetsProvides a foundation for data governanceServerlessMetadata-as-a-serviceCentral catalogSearch and discoverySchematized metadataCloud DLP integrationCloud IAM integrationGovernanceLearn and buildNeed more help?"
+  },
+  {
+    "id": "9a91cb39-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Genomics",
+    "service_short_name": "genomics",
+    "description": "Power your science with Google Genomics.",
+    "category": "Analytics & Query Services",
+    "url": "https://cloud.google.com/genomics/"
+  },
+  {
+    "id": "9a921950-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Apigee API Platform",
+    "service_short_name": "apigeeApiPlatform",
+    "description": "Develop, secure, deploy, and monitor your APIs everywhere.",
+    "category": "API Management",
+    "url": "https://cloud.google.com/apigee/api-management/",
+    "benefits": "Evaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "id": "9a921951-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "API Analytics",
+    "service_short_name": "apiAnalytics",
+    "description": "Insight into operational and business metrics for APIs.",
+    "category": "API Management",
+    "url": "https://cloud.google.com/apigee/api-management/analyze-apis/",
+    "benefits": "Improve the developer experience\n        \n          Proactive risk management\n        \n          Informed business decisions\n        Generate custom reports\n            Apigee dashboard\n          \n            Anomaly investigation\n          \n            Custom reports\n          Business transactions dashboardEvaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "id": "9a921952-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "API Monetization",
+    "service_short_name": "apiMonetization",
+    "description": "Flexible, easy-to-use solution to realize value from APIs.",
+    "category": "API Management",
+    "url": "https://cloud.google.com/apigee/api-management/monetize-apis/",
+    "benefits": "Powerful monetization engine\n        \n          End-to-end capabilities\n        \n          Flexible and customizable\n        Rich, out-of-the-box reporting\n            Transaction policies\n          \n            Detailed reporting\n          \n            Management UI and API\n          Revenue models and rate plansEvaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "id": "9a921953-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Apigee Hybrid",
+    "service_short_name": "apigeeHybrid",
+    "description": "Unified API management across all your APIs.",
+    "category": "API Management",
+    "url": "https://cloud.google.com/apigee/api-management/hybrid/",
+    "benefits": "Manage all APIs in one place\n        \n          Address security and compliance\n        \n          Support your multi-cloud strategy\n        \n            Customer-managed runtime plane\n          \n            Apigee-run management plane\n          \n            Containerization support\n          MicrogatewayEvaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "id": "9a921954-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Apigee Sense",
+    "service_short_name": "apigeeSense",
+    "description": "Intelligent behavior detection to protect APIs from attacks.",
+    "category": "API Management",
+    "url": "https://cloud.google.com/apigee/api-management/apigee-sense/",
+    "benefits": "Intelligent API security\n        \n          Behavior detection\n        \n          API protection\n        \n            Advanced risk analytics\n          \n            Automated risk mitigation\n          \n            Complete API security solution\n          Data-driven risk modelsEvaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "id": "9a921955-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Endpoints",
+    "service_short_name": "cloudEndpoints",
+    "description": "Develop, deploy, and manage APIs on GCP.",
+    "category": "API Management",
+    "url": "https://cloud.google.com/endpoints/",
+    "benefits": "Protect your APILightning fastWorld class monitoringChoose your own frameworkUser authenticationAPI keysAutomated deploymentEasy integrationLogging and monitoring\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a921956-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Developer Portal",
+    "service_short_name": "developerPortal",
+    "description": "Enable developers and API teams with a turnkey self-service platform.",
+    "category": "API Management",
+    "url": "https://cloud.google.com/apigee/api-management/developer-portal/",
+    "benefits": "Unleash API products to market\n        \n          Deliver a branded portal experience\n        \n          API program oversight and management\n        Increase adoption and consumption of your APIs\n            Interactive documentation\n          \n            API key validation\n          \n            Analytics"
+  },
+  {
+    "id": "9a921957-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Apigee healthcare APIx",
+    "service_short_name": "apigeeHealthcareApix",
+    "description": "Accelerate building new FHIR API-based digital services.",
+    "category": "API Management",
+    "url": "https://cloud.google.com/apigee/solutions/healthcare-apix/",
+    "benefits": "Evaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "id": "9a921958-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Apigee Open Banking APIx",
+    "service_short_name": "apigeeOpenBankingApix",
+    "description": "Accelerate open banking and PSD2 compliance.",
+    "category": "API Management",
+    "url": "https://cloud.google.com/apigee/solutions/open-banking-apix/",
+    "benefits": "Advance your digital strategy"
+  },
+  {
+    "id": "9a921959-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Healthcare API",
+    "service_short_name": "cloudHealthcareApi",
+    "description": "Secure APIs powering actionable healthcare insights.",
+    "category": "API Management",
+    "url": "https://cloud.google.com/healthcare-api/",
+    "benefits": "FHIRHL7v2DICOMDe-identificationData is private, secure, and in your controlAnalytics and machine learningCommitted to complianceUnlock the value of your dataManaged scalabilityEcosystem-readyDeveloper-friendlyEnhanced data liquidity\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a926770-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Compute Engine",
+    "service_short_name": "computeEngine",
+    "description": "Scalable, high-performance VMs.",
+    "category": "Compute",
+    "url": "https://cloud.google.com/compute/"
+  },
+  {
+    "id": "9a928e80-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Run (beta)",
+    "service_short_name": "cloudRun",
+    "description": "Serverless agility for containerized apps.",
+    "category": "Compute",
+    "url": "https://cloud.google.com/run/",
+    "benefits": "Container to production in secondsNatively serverlessOne experience, where you want itAny language, any library, any binaryLeverage container workflows and standardsSimple developer experienceManagedFast autoscalingRedundancyIntegrated logging and monitoringProcess web traffic or asynchronous eventsBuilt on KnativeHTTPS URLsCustom domainsCloud Run (fully managed)Cloud Run on GKELearn and buildNeed more help?"
+  },
+  {
+    "id": "9a928e81-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Shielded VMs",
+    "service_short_name": "shieldedVm",
+    "description": "Hardened virtual machines on GCP.",
+    "category": "Compute",
+    "url": "https://cloud.google.com/shielded-vm/",
+    "benefits": "Quickly protect VMs against advanced threatsEnsure workloads are trusted and verifiableHelp protect secrets against exfiltration and replayVerifiable integrity with secure and measured bootvTPM exfiltration resistanceTrusted UEFI firmwareTamper-evident attestationsLive migration and patchingDefine IAM policies and permissionsShield existing VM images\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a928e82-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Google Kubernetes Engine (GKE)",
+    "service_short_name": "googleKubernetesEngine",
+    "description": "Run containerized applications.",
+    "category": "Compute",
+    "url": "https://cloud.google.com/kubernetes-engine/",
+    "benefits": ""
+  },
+  {
+    "id": "9a928e83-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Container security",
+    "service_short_name": "containerSecurity",
+    "description": "Secure your container environment on GCP.",
+    "category": "Compute",
+    "url": "https://cloud.google.com/containers/security/",
+    "benefits": "Learn and buildNeed more help?"
+  },
+  {
+    "id": "9a928e84-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "App Engine",
+    "service_short_name": "appEngine",
+    "description": "Serverless application platform for apps and backends.",
+    "category": "Compute",
+    "url": "https://cloud.google.com/appengine/"
+  },
+  {
+    "id": "9a928e85-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Functions",
+    "service_short_name": "cloudFunctions",
+    "description": "Event-driven serverless compute platform.",
+    "category": "Compute",
+    "url": "https://cloud.google.com/functions/",
+    "benefits": ""
+  },
+  {
+    "id": "9a928e86-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Knative",
+    "service_short_name": "knative",
+    "description": "Components to create modern, Kubernetes-native cloud-based software.",
+    "category": "Compute",
+    "url": "https://cloud.google.com/knative/",
+    "benefits": "BuildServingEventingBuild, deploy, and manage serverless workloads with Knative"
+  },
+  {
+    "id": "9a928e87-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Graphics Processing Unit (GPU)",
+    "service_short_name": "graphicsProcessingUnit",
+    "description": "Leverage GPUs on Google Cloud for machine learning, scientific computing,\n                        and 3D visualization.",
+    "category": "Compute",
+    "url": "https://cloud.google.com/gpu/",
+    "benefits": "Speed up complex compute jobsGPUs in the cloudOptimize time and costBuilt on Google’s infrastructureSeveral GPU types availableBare metal performanceAll the benefits of Google CloudVirtual workstations in the cloudAttach GPUs to any machine typeFlexible GPU counts per instanceGPU application frameworksPer-second billingPreemptible GPUs\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a92b590-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud SQL",
+    "service_short_name": "cloudSql",
+    "description": "MySQL, PostgreSQL, and SQL Server database services.",
+    "category": "Database",
+    "url": "https://cloud.google.com/sql/",
+    "benefits": "Focus on your applicationSimple and fully managedPerformance and scalabilityReliability and securityDiscounts without lock-inScalabilityHigh performanceIntegratedAvailability protectionFully managedStandard APIsSecurityPartnerships and integrations"
+  },
+  {
+    "id": "9a92b591-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Bigtable",
+    "service_short_name": "cloudBigtable",
+    "description": "NoSQL wide-column database service.",
+    "category": "Database",
+    "url": "https://cloud.google.com/bigtable/"
+  },
+  {
+    "id": "9a92b592-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Spanner",
+    "service_short_name": "cloudSpanner",
+    "description": "Mission-critical, scalable, relational database service.",
+    "category": "Database",
+    "url": "https://cloud.google.com/spanner/"
+  },
+  {
+    "id": "9a92b593-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Memorystore",
+    "service_short_name": "cloudMemorystore",
+    "description": "Fully managed in-memory data store service.",
+    "category": "Database",
+    "url": "https://cloud.google.com/memorystore/"
+  },
+  {
+    "id": "9a92b594-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Firestore",
+    "service_short_name": "cloudFirestore",
+    "description": "NoSQL document database for mobile and web app data",
+    "category": "Database",
+    "url": "https://cloud.google.com/firestore/",
+    "benefits": "Accelerate development velocity with serverlessSync data across devices, on or offlineSimple and effortlessEnterprise-grade, scalable NoSQLSecurityDatastore modeAutomatic upgradeACID transactionsMulti-region replicationPowerful query engineBuilt for cloud-native applicationsLearn and buildNeed more help?"
+  },
+  {
+    "id": "9a9351d0-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud SDK",
+    "service_short_name": "cloudSdk",
+    "description": "CLI for GCP products and services.",
+    "category": "Developer Tools",
+    "url": "https://cloud.google.com/sdk/",
+    "benefits": "Manage virtual machine instancesNetworks, firewalls, disk storage, and moreUse your favorite languagesRun local service emulatorsgcloud command-line toolgsutil toolPowerShell cmdlets (Windows)kubectl toolbq tool\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a9351d1-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Container Registry",
+    "service_short_name": "containerRegistry",
+    "description": "Store, manage, and secure your Docker container images.",
+    "category": "Developer Tools",
+    "url": "https://cloud.google.com/container-registry/",
+    "benefits": "Secure, private Docker registryBuild and deploy automaticallyIn-depth vulnerability scanningLock down risky imagesNative Docker supportFast, high-availability accessVulnerability scanningContainer tagsAutomated build triggers\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a9351d2-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Code",
+    "service_short_name": "cloudCode",
+    "description": "Everything you need to write, debug, and deploy your Kubernetes applications.",
+    "category": "Developer Tools",
+    "url": "https://cloud.google.com/cloud-code/",
+    "benefits": "Cloud Code for VS Code (beta)Cloud Code for IntelliJ (alpha)Speed up Kubernetes developmentSimplify Kubernetes local deploymentEasily extend to production deploymentDebug deployed applicationsAccess powerful IDE featuresLearn and buildNeed more help?"
+  },
+  {
+    "id": "9a9351d3-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Source Repositories",
+    "service_short_name": "cloudSourceRepositories",
+    "description": "A single place for your team to store, manage, and track code.",
+    "category": "Developer Tools",
+    "url": "https://cloud.google.com/source-repositories/",
+    "benefits": "Learn and buildNeed more help?"
+  },
+  {
+    "id": "9a9351d4-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Scheduler",
+    "service_short_name": "cloudScheduler",
+    "description": "Fully managed cron job service.",
+    "category": "Developer Tools",
+    "url": "https://cloud.google.com/scheduler/",
+    "benefits": "Minimize manual toilAutomate your cloud infrastructure operationsSchedule virtually anythingManage everything in one placeFully managedReliable deliveryDelightful management experienceMany supported targetsConfigurable retry policyPowerful loggingSupport for Unix cron format\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a9351d5-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Tasks",
+    "service_short_name": "cloudTasks",
+    "description": "Asynchronous task execution.",
+    "category": "Developer Tools",
+    "url": "https://cloud.google.com/tasks/"
+  },
+  {
+    "id": "9a9351d6-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Code for IntelliJ",
+    "service_short_name": "cloudCodeForIntellij",
+    "description": "Debug production cloud apps inside IntelliJ.",
+    "category": "Developer Tools",
+    "url": "https://cloud.google.com/intellij/",
+    "benefits": "Store source and debugSpeed up Kubernetes developmentBe more productiveRun locally and deploy to productionSource pluginStackdriver DebuggerMulti-cloud deploymentsIndividuals and enterprises\n        Cloud Code for IntelliJ\n        Need more help?"
+  },
+  {
+    "id": "9a9351d7-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Tools for PowerShell",
+    "service_short_name": "cloudToolsForPowerShell",
+    "description": "Full cloud control from Windows PowerShell.",
+    "category": "Developer Tools",
+    "url": "https://cloud.google.com/powershell/"
+  },
+  {
+    "id": "9a9351d8-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Tools for Visual Studio",
+    "service_short_name": "cloudToolsForVisualStudio",
+    "description": "Deploy Visual Studio applications to GCP.",
+    "category": "Developer Tools",
+    "url": "https://cloud.google.com/visual-studio/",
+    "benefits": "Integrated resource managementOpen source .NET librariesDeploy ASP.NETGet started quicklyDeploy to Compute EngineCloud ExplorerWindows nativeCloud API libraries in NuGetVisual Studio 2015 and Visual Studio 2017 support\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a9351d9-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Tools for Eclipse",
+    "service_short_name": "cloudToolsForEclipse",
+    "description": "Deploy Eclipse projects to GCP.",
+    "category": "Developer Tools",
+    "url": "https://cloud.google.com/eclipse/docs/"
+  },
+  {
+    "id": "9a9351da-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Gradle App Engine Plugin",
+    "service_short_name": "gradleAppEnginePlugin",
+    "description": "Use Gradle for your App Engine projects.",
+    "category": "Developer Tools",
+    "url": "https://github.com/GoogleCloudPlatform/app-gradle-plugin"
+  },
+  {
+    "id": "9a9351db-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Maven App Engine Plugin",
+    "service_short_name": "mavenAppEnginePlugin",
+    "description": "Use Maven for your App Engine projects.",
+    "category": "Developer Tools",
+    "url": "https://github.com/GoogleCloudPlatform/app-maven-plugin"
+  },
+  {
+    "id": "9a9351dc-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Test Lab",
+    "service_short_name": "cloudTestLab",
+    "description": "On-demand testing infrastructure for Android apps.",
+    "category": "Developer Tools",
+    "url": "https://firebase.google.com/docs/test-lab/"
+  },
+  {
+    "id": "9a9351dd-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Stackdriver Incident Response and Management (alpha)",
+    "service_short_name": "stackdriverIncidentResponseAndManagement",
+    "description": "Improve your incident median time to mitigation.",
+    "category": "Developer Tools",
+    "url": "https://cloud.google.com/incident-response/",
+    "benefits": "Zero-config to launch your SRE journeyInsights to accelerate your investigationContinuous learningSituational awarenessSRE rolesContext transferSlack integrationEscalated incidents and presetsFlexible API\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a9351de-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Tekton",
+    "service_short_name": "tekton",
+    "description": "Kubernetes-native CI/CD building blocks.",
+    "category": "Developer Tools",
+    "url": "https://cloud.google.com/tekton/",
+    "benefits": "Artifact managementDeployment pipelinesResultsTekton"
+  },
+  {
+    "id": "9a939ff0-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Functions for Firebase",
+    "service_short_name": "cloudFunctionsForFirebase",
+    "description": "Run mobile backend code without managing servers.",
+    "category": "Firebase",
+    "url": "https://firebase.google.com/docs/functions/"
+  },
+  {
+    "id": "9a939ff1-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Firebase Performance Monitoring",
+    "service_short_name": "firebasePerformanceMonitoring",
+    "description": "Gain insight into your app's performance.",
+    "category": "Firebase",
+    "url": "https://firebase.google.com/products/performance/"
+  },
+  {
+    "id": "9a939ff2-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Firebase Realtime Database",
+    "service_short_name": "firebaseRealtimeDatabase",
+    "description": "Store and sync data in real time.",
+    "category": "Firebase",
+    "url": "https://firebase.google.com/products/realtime-database/"
+  },
+  {
+    "id": "9a939ff3-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Firebase Crashlytics",
+    "service_short_name": "firebaseCrashlytics",
+    "description": "Prioritize and fix stability issues faster.",
+    "category": "Firebase",
+    "url": "https://firebase.google.com/products/crashlytics/"
+  },
+  {
+    "id": "9a939ff4-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Firebase Authentication",
+    "service_short_name": "firebaseAuthentication",
+    "description": "Simple, free multi-platform sign-in.",
+    "category": "Firebase",
+    "url": "https://firebase.google.com/products/auth/"
+  },
+  {
+    "id": "9a939ff5-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Firebase Predictions",
+    "service_short_name": "firebasePredictions",
+    "description": "Smart user segmentation based on predicted behavior.",
+    "category": "Firebase",
+    "url": "https://firebase.google.com/products/predictions/"
+  },
+  {
+    "id": "9a93ee10-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Google Cloud Game Servers (alpha)",
+    "service_short_name": "googleCloudGameServersAlpha",
+    "description": "Deliver seamless multiplayer gaming experiences to a global player base.",
+    "category": "Gaming",
+    "url": "https://cloud.google.com/game-servers/",
+    "benefits": "Simplified managementFlexibility and choicePlayer proximityGoogle Cloud Game Servers (alpha)"
+  },
+  {
+    "id": "9a941520-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Anthos",
+    "service_short_name": "anthos",
+    "description": "Build and manage modern hybrid applications across environments.",
+    "category": "Hybrid and multi-cloud",
+    "url": "https://cloud.google.com/anthos/",
+    "benefits": "Modernize in placeMigrate and modernizeAutomate policy and security at scaleConsistent experienceCI/CDServerlessMarketplaceAPI managementObservability & diagnosticsPolicy & config managementIdentity managementService discovery & managementSecure software supply chainZero trust network securitySecure multi-tenancyManaged KubernetesCentralized managementNetworkStorage managementMigrationMonitoringCI/CDServerlessMarketplaceAPI managementObservability & diagnosticsPolicy & config managementIdentity managementService discovery & managementSecure software supply chainZero trust network securitySecure multi-tenancyManaged KubernetesCentralized managementNetworkStorage managementMigrationMonitoringTalk to us"
+  },
+  {
+    "id": "9a941521-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "GKE On-Prem",
+    "service_short_name": "gkeOnPrem",
+    "description": "Make apps \"cloud-ready\" and move them to the cloud at your own pace.",
+    "category": "Hybrid and multi-cloud",
+    "url": "https://cloud.google.com/gke-on-prem/",
+    "benefits": "Consistent Kubernetes experienceSecured Kubernetes clustersCentralized multi-cluster managementIdentity and access managementSecure connectionSecurity and complianceIntegrated logging and monitoringStateful application supportFast, consistent buildsWorkload portability, on-premises and cloudMulti-cluster dashboard\n        GKE On-Prem"
+  },
+  {
+    "id": "9a941522-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Build",
+    "service_short_name": "CloudBuild",
+    "description": "Continuously build, test, and deploy.",
+    "category": "Hybrid and multi-cloud",
+    "url": "https://cloud.google.com/cloud-build/",
+    "benefits": "Commit to deploy in minutesChoose what to buildExtremely fast buildsAutomate your deploymentsDefine your custom workflowUnparalleled privacyNative Docker supportGenerous free tierPowerful insightsIdentify vulnerabilitiesBuild locally or in the cloudCustom Workers (alpha)\n\n      Learn and build\n\n  \n\n      Need more help?"
+  },
+  {
+    "id": "9a941523-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "GKE On-Prem",
+    "service_short_name": "gkeOnPrem",
+    "description": "Reliable, efficient, and secured way to run Kubernetes clusters, anywhere.",
+    "category": "Hybrid and multi-cloud",
+    "url": "https://cloud.google.com/gke-on-prem/",
+    "benefits": "Consistent Kubernetes experienceSecured Kubernetes clustersCentralized multi-cluster managementIdentity and access managementSecure connectionSecurity and complianceIntegrated logging and monitoringStateful application supportFast, consistent buildsWorkload portability, on-premises and cloudMulti-cluster dashboard\n        GKE On-Prem"
+  },
+  {
+    "id": "9a941524-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Istio on GKE (beta)",
+    "service_short_name": "istioOnGke",
+    "description": "Install Istio on Kubernetes Engine with the Istio on GKE add-on.",
+    "category": "Hybrid and multi-cloud",
+    "url": "https://cloud.google.com/istio/docs/istio-on-gke/overview/"
+  },
+  {
+    "id": "9a941525-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Anthos Config Management",
+    "service_short_name": "anthosConfigManagement",
+    "description": "Automate policy and security at scale for your hybrid Kubernetes\n                        deployments.",
+    "category": "Hybrid and multi-cloud",
+    "url": "https://cloud.google.com/anthos-config-management/",
+    "benefits": "Define and enforce policies across hybrid Kubernetes deploymentsPut security guardrails in placeMaintain control over cluster sprawlDefine configsEnforce configsValidationCommon configuration formatsBring the power of source control to config managementNamespace awareActive monitoring\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a941526-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Serverless",
+    "service_short_name": "serverless",
+    "description": "Empower your developers with GKE serverless add-on powered by Knative.",
+    "category": "Hybrid and multi-cloud",
+    "url": "https://cloud.google.com/knative/",
+    "benefits": "BuildServingEventingBuild, deploy, and manage serverless workloads with Knative"
+  },
+  {
+    "id": "9a941527-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Kubernetes applications on GCP Marketplace",
+    "service_short_name": "kubernetesApplicationsOnGCPMarketplacestore",
+    "description": "Containerized applications featuring prebuilt deployment templates and\n                        consolidated billing.",
+    "category": "Hybrid and multi-cloud",
+    "url": "https://cloud.google.com/kubernetes-applications/",
+    "benefits": "Run anywhereBe more productiveSimplify billingIntegrated with AnthosVerified deployment templates (beta)Solutions to solve your problemsVulnerability testedFree and paid optionsDevOps readySolution documentationOpen-source standardsFlexible usage parametersMaintenance and supportOne billing relationship\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a941528-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Apigee API Management",
+    "service_short_name": "apigeeAPIManagement",
+    "description": "Develop, secure, deploy, and monitor your APIs everywhere.",
+    "category": "Hybrid and multi-cloud",
+    "url": "https://cloud.google.com/apigee/",
+    "benefits": "Connected experiencesOperational efficiencyActionable intelligenceEvaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "id": "9a941529-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Build",
+    "service_short_name": "cloudBuild",
+    "description": "Continuously build, test, and deploy.",
+    "category": "Hybrid and multi-cloud",
+    "url": "https://cloud.google.com/cloud-build/",
+    "benefits": "Commit to deploy in minutesChoose what to buildExtremely fast buildsAutomate your deploymentsDefine your custom workflowUnparalleled privacyNative Docker supportGenerous free tierPowerful insightsIdentify vulnerabilitiesBuild locally or in the cloudCustom Workers (alpha)\n\n      Learn and build\n\n  \n\n      Need more help?"
+  },
+  {
+    "id": "9a94152a-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Traffic Director",
+    "service_short_name": "trafficDirector",
+    "description": "Enterprise-ready traffic management for open service mesh.",
+    "category": "Hybrid and multi-cloud",
+    "url": "https://cloud.google.com/traffic-director/",
+    "benefits": "Fully managed with SLASophisticated traffic management made simpleBuild resilient servicesScale seamlessly with your deploymentModernize at your paceTraffic management for open service proxiesWorks with VMs and containersGlobal load balancingHealth checking at scaleTraffic Control with request routing and rich traffic policies (beta)Intelligent and rapid auto-scaling for your services\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a946340-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud IoT Core",
+    "service_short_name": "cloudIotCore",
+    "description": "Secure device connection and management.",
+    "category": "Internet of Things",
+    "url": "https://cloud.google.com/iot-core/"
+  },
+  {
+    "id": "9a946341-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Edge TPU (beta)",
+    "service_short_name": "edgeTpu",
+    "description": "Purpose-built ASIC designed to run inference at the edge.",
+    "category": "Internet of Things",
+    "url": "https://cloud.google.com/edge-tpu/",
+    "benefits": "End-to-end AI infrastructureHigh performance in a small physical and power footprintCo-design of AI hardware, software and algorithmsA broad range of applications"
+  },
+  {
+    "id": "9a94b160-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Stackdriver",
+    "service_short_name": "stackdriver",
+    "description": "Monitoring and management for services, containers, applications, and\n                        infrastructure.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/stackdriver/",
+    "benefits": "Works with multiple clouds and on-premises infrastructureFind and fix issues fastFull-stack insightsNative Google integration and moreDebuggerAlertsError reportingTracingRapid discoveryLoggingUptime monitoringDashboardsIntegrationsProfilingSmart defaults\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a94b161-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Monitoring",
+    "service_short_name": "monitoring",
+    "description": "Monitoring for applications on GCP and AWS.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/monitoring/",
+    "benefits": "For Google Cloud Platform, AWS, and hybrid deploymentsIdentify trends, prevent issuesReduce monitoring overheadImprove signal-to-noiseFix problems fasterAWS integrationCustom metricsGCP integrationMonitoring agentLogging integrationDashboardsGroup/cluster supportAlertingUptime monitoring\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a94b162-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Service Monitoring (alpha)",
+    "service_short_name": "serviceMonitoring",
+    "description": "Stackdriver Service monitoring for Istio and Google App Engine services.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/service-monitoring/",
+    "benefits": "Service observabilitySetting service level objectivesObservability ergonomics"
+  },
+  {
+    "id": "9a94b163-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Logging",
+    "service_short_name": "logging",
+    "description": "Logging for applications on GCP and AWS.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/logging/",
+    "benefits": "Seamlessly resolve issuesScalable and fully managedAll your cloud logs in one placeReal-time insightsCustom logs / Ingestion APILogs alertingAWS integration / agentAdvanced analytics with BigQueryLogs retentionArchive with Cloud StorageStream logs with Cloud Pub/SubLogs searchThird-party integrationsLogs-based metricsAudit logging\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a94b164-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Error Reporting",
+    "service_short_name": "errorReporting",
+    "description": "Identifies and helps you understand application errors.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/error-reporting/",
+    "benefits": "Quickly understand errorsAutomatic and real-timeInstant error notificationPopular languagesReal-time processingIntelligent error groupingOverview with filteringError detailsStack trace explorationAlertsIssue tracker integrationMobile applicationEasy setup\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a94b165-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Trace",
+    "service_short_name": "trace",
+    "description": "Find performance bottlenecks in production.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/trace/",
+    "benefits": "Find performance bottlenecksFast, automatic issue detectionBroad platform supportEasy set upPerformance insightsAutomatic analysisExtensibility for custom workloadsLatency shift detection\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a94b166-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Debugger",
+    "service_short_name": "debugger",
+    "description": "Investigate code behavior in production.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/debugger/",
+    "benefits": "Debug in productionMultiple source optionsCollaborate while debuggingUse your workflowsDebug snapshotDebug logpointsConditional debuggingIDE integrationEasy setup\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a94b167-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Profiler",
+    "service_short_name": "profiler",
+    "description": "Low-impact CPU and heap profiling to reduce latency.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/profiler/",
+    "benefits": "Low-impact production profilingBroad platform support\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a94b168-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Private Catalog (beta)",
+    "service_short_name": "privateCatalog",
+    "description": "Control and make internal enterprise solutions easily discoverable.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/private-catalog/",
+    "benefits": "Control distributionIncrease discoverabilityEnsure internal compliance and governanceOne toolAdvanced search and filtersConsolidated viewAPI supportDeployment guardrailsInventory control\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a94b169-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Transparent Service Level Indicators",
+    "service_short_name": "transparentSLI",
+    "description": "Monitor Google Cloud services and their effects on your workloads.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/transparent-sli/",
+    "benefits": "Measure all the things\n      \n        Real transparency"
+  },
+  {
+    "id": "9a94b16a-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Deployment Manager",
+    "service_short_name": "cloudDeploymentManager",
+    "description": "Manage cloud resources with simple templates.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/deployment-manager/",
+    "benefits": "Repeatable deployment processDeclarative languageFocus on the applicationTemplate-drivenParallel deploymentTemplatesUpdatesInput and output parametersSchema filesReferencesPreview modeConsole UI\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a94b16b-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Console",
+    "service_short_name": "cloudConsole",
+    "description": "GCP's integrated management console.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/cloud-console/",
+    "benefits": "Find and manage your resources quicklyDevOps on the goMore secure administrative interfaceGo from data to insightsEmpower developer productivityResource managementPowerful data  managementBillingSSH in browserActivity streamMobile appsCloud ShellDiagnosticsAdminMarketplaceLocalized\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a94b16c-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Shell",
+    "service_short_name": "cloudShell",
+    "description": "Command-line management from any browser.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/shell/"
+  },
+  {
+    "id": "9a94b16d-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Mobile App",
+    "service_short_name": "cloudMobileApp",
+    "description": "Manage GCP services from your mobile device.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/console-app/",
+    "benefits": "Production alertingDiagnose and fix issuesKeep an eye on your environmentIncident managementAlertsError reportingCompute EngineCustomizable dashboardBillingApp EngineCloud StorageCloud SQL\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a94b16e-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cost management",
+    "service_short_name": "costManagement",
+    "description": "Tools for monitoring, controlling, and optimizing your costs.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/cost-management/",
+    "benefits": "Visibility is powerDrive accountability, spend more responsiblyTake control of your costsIntelligent insights for smart spendingLearn and buildNeed more help?"
+  },
+  {
+    "id": "9a94b16f-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud APIs",
+    "service_short_name": "cloudApis",
+    "description": "Programmatic interfaces for all GCP services.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/apis/"
+  },
+  {
+    "id": "9a94b170-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Orbitera White-Label Marketplace",
+    "service_short_name": "orbiteraWhiteLabelMarketplace",
+    "description": "Enable customers to find and purchase your solutions.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/marketplace/orbitera-whitelabel/",
+    "benefits": "Streamline your customers' experienceConfigure offerings flexiblyReach a larger audience with channel salesRetain full control and ownershipSelf-service for customers Fully customizable marketplaceIntegrated dashboardChannel managementConfigurable incentivesWant to schedule a demo or do you have more\n                questions about Orbitera White-Label Marketplace?"
+  },
+  {
+    "id": "9a94b171-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Google Cloud Service Mesh",
+    "service_short_name": "googleCloudServiceMesh",
+    "description": "The fully managed service mesh for your complex microservices architectures.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/service-mesh/",
+    "benefits": "Fully managed, full stopSecurity without complexityDeep insights into your meshTraffic management made simpleZero-effort StackdriverAuthenticate and encrypt seamlesslyFlexible authorizationFine-grained traffic managementFailure recovery out of the boxEasy-to-configure fault injectionLoad balancingSecurity insights\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a94b172-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Orbitera White-Label Marketplace",
+    "service_short_name": "orbiteraWhiteLabelMarketplace",
+    "description": "Create products and test drives and enable customers to find and purchase your\n                    solutions that run on multiple cloud providers, direct or through your channel.",
+    "category": "Management & Governance",
+    "url": "https://cloud.google.com/marketplace/orbitera-whitelabel/",
+    "benefits": "Streamline your customers' experienceConfigure offerings flexiblyReach a larger audience with channel salesRetain full control and ownershipSelf-service for customers Fully customizable marketplaceIntegrated dashboardChannel managementConfigurable incentivesWant to schedule a demo or do you have more\n                questions about Orbitera White-Label Marketplace?"
+  },
+  {
+    "id": "9a94d870-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Google Marketing Platform*",
+    "service_short_name": "googleMarketingPlatform",
+    "description": "Enterprise analytics for better customer experiences.",
+    "category": "Marketing Management",
+    "url": "https://marketingplatform.google.com/about/enterprise/#?modal_active=none"
+  },
+  {
+    "id": "9a94d871-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Google Data Studio*",
+    "service_short_name": "googleDataStudio",
+    "description": "Tell great data stories to support better business decisions.",
+    "category": "Marketing Management",
+    "url": "https://marketingplatform.google.com/about/data-studio/"
+  },
+  {
+    "id": "9a94ff80-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Anvato",
+    "service_short_name": "anvato",
+    "description": "Stream live and on-demand video to any device.",
+    "category": "Media Services",
+    "url": "https://www.anvato.com/"
+  },
+  {
+    "id": "9a94ff81-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Zync Render",
+    "service_short_name": "zyncRender",
+    "description": "Render directly from your 3D modeling tools, quickly and cost efficiently.",
+    "category": "Media Services",
+    "url": "https://www.zyncrender.com/"
+  },
+  {
+    "id": "9a954da0-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Migrate for Compute Engine",
+    "service_short_name": "velostrata",
+    "description": "Purpose-built, enterprise-grade migration to Google Cloud.",
+    "category": "Migration & Transfer",
+    "url": "https://cloud.google.com/velostrata/",
+    "benefits": "Step 1: In-cloud testing and validationStep 2: Build your migration wavesStep 3: Deploy workloads to Google CloudStep 4: Background data migrationStep 5: Stateful rollback to on-premises (if needed)Accelerate your migration journeyMigrate any application landscapeUnlock the cloud's agile capacitySafeguard your migration end-to-endAutomatic and seamless adaptationsProvisioning and rightsizingOn-premises stateful rollbackCustomizablePre-migration validation and testingAutomated migration wavesProgrammable migrationsBoot over WANIntelligent streamingMulti-tier caching and optimizationResiliencyLearn and buildNeed more help?"
+  },
+  {
+    "id": "9a954da1-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Migrate for Anthos",
+    "service_short_name": "anthosMigrate",
+    "description": "Migrate VMs from on-prem or other clouds directly into containers in GKE.",
+    "category": "Migration & Transfer",
+    "url": "https://cloud.google.com/velostrata/#choose-how-you-migrate",
+    "benefits": "Step 1: In-cloud testing and validationStep 2: Build your migration wavesStep 3: Deploy workloads to Google CloudStep 4: Background data migrationStep 5: Stateful rollback to on-premises (if needed)Accelerate your migration journeyMigrate any application landscapeUnlock the cloud's agile capacitySafeguard your migration end-to-endAutomatic and seamless adaptationsProvisioning and rightsizingOn-premises stateful rollbackCustomizablePre-migration validation and testingAutomated migration wavesProgrammable migrationsBoot over WANIntelligent streamingMulti-tier caching and optimizationResiliencyLearn and buildNeed more help?"
+  },
+  {
+    "id": "9a954da2-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Data Transfer",
+    "service_short_name": "cloudDataTransfer",
+    "description": "Command-line tools for developers to transfer data over the network.",
+    "category": "Migration & Transfer",
+    "url": "https://cloud.google.com/data-transfer/"
+  },
+  {
+    "id": "9a954da3-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Foundation Toolkit",
+    "service_short_name": "cloudFoundationToolkit",
+    "description": "Best-practice templates to quickly get started in Google Cloud.",
+    "category": "Migration & Transfer",
+    "url": "https://cloud.google.com/foundation-toolkit/",
+    "benefits": "Treat your infrastructure like softwareBuilt for enterpriseSave time and resources with pre-built templatesChoose your adoption strategyMaintain consistency easilyWork with GoogleWork with a partner"
+  },
+  {
+    "id": "9a954da4-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Transfer Appliance",
+    "service_short_name": "transferAppliance",
+    "description": "Rackable storage server for shipping large volumes of data to Google Cloud.",
+    "category": "Migration & Transfer",
+    "url": "https://cloud.google.com/transfer-appliance/"
+  },
+  {
+    "id": "9a954da5-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Storage Transfer Service",
+    "service_short_name": "cloudStorageTransferService",
+    "description": "Transfer data between cloud storage services such as AWS S3 and Google\n                        Cloud Storage.",
+    "category": "Migration & Transfer",
+    "url": "https://cloud.google.com/storage/transfer/"
+  },
+  {
+    "id": "9a954da6-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "BigQuery Data Transfer Service",
+    "service_short_name": "bigqueryDataTransferService",
+    "description": "Fully managed data import service for BigQuery.",
+    "category": "Migration & Transfer",
+    "url": "https://cloud.google.com/bigquery/transfer/"
+  },
+  {
+    "id": "9a954da7-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "VM Migration",
+    "service_short_name": "vmMigration",
+    "description": "Migrating VMs is a fast, effective way to get started in Google Cloud.",
+    "category": "Migration & Transfer",
+    "url": "https://cloud.google.com/vm-migrate/",
+    "benefits": "More customers using Google Cloud VMs"
+  },
+  {
+    "id": "9a9574b0-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Chrome Browser",
+    "service_short_name": "chromeBrowser",
+    "description": "Install and deploy Chrome Browser for your business across any operating\n                    system. Manage access centrally with enterprise-wide controls and hundreds of\n                    policies.",
+    "category": "Miscellaneous Softwares & Products",
+    "url": "https://cloud.google.com/chrome-enterprise/browser/",
+    "benefits": "<6 Mo$504K97%"
+  },
+  {
+    "id": "9a9574b1-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Chrome OS and Chromebooks",
+    "service_short_name": "chromeOsAndChromebooks",
+    "description": "Secure at heart, cloud-native, flexible and manageable. Equip your workforce\n                    with Chromebooks and easily manage access to data, apps and extensions with the\n                    Chrome Enterprise license.",
+    "category": "Miscellaneous Softwares & Products",
+    "url": "https://cloud.google.com/chrome-enterprise/os/",
+    "benefits": "See the benefits of shared Chrome devices%HRS>KSee the benefits of Chrome OS for your workforce%MOMFrontline workforceGrab and Go ChromebooksHealthcare\n            Trusted by enterprises, start-ups, and everyone in between. Chrome Enterprise works\n            better with the G Suite set of cloud-native collaboration and productivity apps like\n            Gmail, Drive, Docs, Calendar, and more."
+  },
+  {
+    "id": "9a959bc0-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Maps",
+    "service_short_name": "maps",
+    "description": "Bring the real world to your users with customized maps and Street View imagery.",
+    "category": "Navigation",
+    "url": "https://cloud.google.com/maps-platform/maps/"
+  },
+  {
+    "id": "9a959bc1-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Routes",
+    "service_short_name": "routes",
+    "description": "Help your users get from A to Z with comprehensive data and real-time traffic.",
+    "category": "Navigation",
+    "url": "https://cloud.google.com/maps-platform/routes/"
+  },
+  {
+    "id": "9a959bc2-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Places",
+    "service_short_name": "places",
+    "description": "Help users discover the world with rich details for over 100 million points of\n                    interest.",
+    "category": "Navigation",
+    "url": "https://cloud.google.com/maps-platform/places/"
+  },
+  {
+    "id": "9a959bc3-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Ridesharing",
+    "service_short_name": "ridesharing",
+    "description": "Integrate Google Maps into your ridesharing app for reliable, real-time routing.",
+    "category": "Navigation",
+    "url": "https://cloud.google.com/maps-platform/ridesharing/",
+    "benefits": ""
+  },
+  {
+    "id": "9a959bc4-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Gaming",
+    "service_short_name": "gaming",
+    "description": "Create immersive, real-world games with up-to-date global data.",
+    "category": "Navigation",
+    "url": "https://cloud.google.com/maps-platform/gaming/"
+  },
+  {
+    "id": "9a959bc5-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Asset tracking",
+    "service_short_name": "assetTracking",
+    "description": "Accurate, real-time global location data for fleets, assets, and devices.",
+    "category": "Navigation",
+    "url": "https://cloud.google.com/maps-platform/asset-tracking/"
+  },
+  {
+    "id": "9a95c2d0-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Virtual Private Cloud (VPC)",
+    "service_short_name": "virtualPrivateCloud",
+    "description": "VPC networking for GCP resources.",
+    "category": "Networking & Content Delivery (CDN)",
+    "url": "https://cloud.google.com/vpc/"
+  },
+  {
+    "id": "9a95c2d1-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Load Balancing",
+    "service_short_name": "cloudLoadBalancing",
+    "description": "High-performance, scalable load balancing.",
+    "category": "Networking & Content Delivery (CDN)",
+    "url": "https://cloud.google.com/load-balancing/",
+    "benefits": "Global load balancing with single anycast IPSoftware-defined load balancingOver one million queries per secondSeamless autoscalingInternal load balancingSupport for cutting-edge protocolsHTTP(S) load balancingStackdriver LoggingTCP/SSL load balancingSeamless autoscalingSSL offloadHigh fidelity health checksAdvanced feature supportAffinityCloud CDN integrationUDP load balancing\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a95c2d2-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Armor",
+    "service_short_name": "cloudArmor",
+    "description": "Protect your services against DoS and web attacks.",
+    "category": "Networking & Content Delivery (CDN)",
+    "url": "https://cloud.google.com/armor/"
+  },
+  {
+    "id": "9a95c2d3-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud CDN",
+    "service_short_name": "cloudCdn",
+    "description": "Content delivery on Google's global network.",
+    "category": "Networking & Content Delivery (CDN)",
+    "url": "https://cloud.google.com/cdn/"
+  },
+  {
+    "id": "9a95c2d4-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud NAT",
+    "service_short_name": "cloudNat",
+    "description": "GCP-managed high-performance Network Address Translation.",
+    "category": "Networking & Content Delivery (CDN)",
+    "url": "https://cloud.google.com/nat/",
+    "benefits": "High performance NATWorks with all your workloadsScalable by designRegional high availabilityFlexible IP address allocationManaged NAT serviceFlexibleMultiple NAT IPs per gatewayTimeout timersNAT for allHigh availability\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a95c2d5-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Hybrid Connectivity",
+    "service_short_name": "hybridConnectivity",
+    "description": "Connect your infrastructure to GCP on your terms, from anywhere.",
+    "category": "Networking & Content Delivery (CDN)",
+    "url": "https://cloud.google.com/hybrid-connectivity/",
+    "benefits": "Connections for every workloadPrivate options for everyoneAlways on, always upAccess Google cloud services “on-net”Hybrid made easyDo business on a global scaleUptime, guaranteedFewer disruptions and dropsConnect from anywhereScale effortlesslyFlexible, low-cost VPNUltimate bandwidthAccess internal IPs directlyLearn and buildTalk to us"
+  },
+  {
+    "id": "9a95c2d6-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud DNS",
+    "service_short_name": "cloudDns",
+    "description": "Reliable, resilient, low-latency DNS serving.",
+    "category": "Networking & Content Delivery (CDN)",
+    "url": "https://cloud.google.com/dns/",
+    "benefits": "100% Availability and Low LatencyAutomatic ScalingCost Effective Pricing Tiers"
+  },
+  {
+    "id": "9a95c2d7-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Network Service Tiers",
+    "service_short_name": "networkServiceTiers",
+    "description": "Optimize your network for performance or cost.",
+    "category": "Networking & Content Delivery (CDN)",
+    "url": "https://cloud.google.com/network-tiers/"
+  },
+  {
+    "id": "9a95c2d8-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Network Telemetry",
+    "service_short_name": "networkTelemetry",
+    "description": "In-depth network telemetry to keep your services secure.",
+    "category": "Networking & Content Delivery (CDN)",
+    "url": "https://cloud.google.com/network-telemetry/",
+    "benefits": "Firewall LoggingMonitoring at peak performanceRich annotation supportExporting logsTraffic coverageNo performance impactAnnotationsProtocolsMetricsFlow definition parametersFiltersPartnersLearn and buildNeed more help?"
+  },
+  {
+    "id": "9a95e9e0-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Security key enforcement",
+    "service_short_name": "securityKeyEnforcement",
+    "description": "Enforce the use of security keys to help prevent account takeovers.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/security-key/",
+    "benefits": "Simpler to useA must for admins and high-value usersTitan Security KeyBuilt-in on Android phonesAccount takeover protectionChoiceOpen standardsAdmin controls\n        Security key enforcement\n        Need more help?"
+  },
+  {
+    "id": "9a95e9e1-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Access Transparency",
+    "service_short_name": "accessTransparency",
+    "description": "Get visibility over your cloud provider through near real-time logs.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/access-transparency/",
+    "benefits": "Move to the cloud with confidenceApprove access by GCP support engineersExtend your security automation to a deeper layerGet the data you needAccess approvalAccess justificationsResource and method identificationStackdriver Logging integrationAccessor locationData protection controlsNear real-time publication\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a95e9e2-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Binary Authorization",
+    "service_short_name": "binaryAuthorization",
+    "description": "Deploy only trusted containers on Kubernetes Engine.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/binary-authorization/",
+    "benefits": "Enforce standardized container release practicesPut proactive security measures in placeNative GCP integrationPolicy creationPolicy verification and enforcementCloud Security Command Center integrationAudit loggingCloud KMS supportOpen-source support for KubernetesDry-run supportBreakglass supportIntegration with third-party solutions\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a95e9e3-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Audit Logs",
+    "service_short_name": "cloudAuditLogs",
+    "description": "Gain visibility into who did what, when, and where for all user activity\n                        on Google Cloud Platform.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/audit-logs/",
+    "benefits": "Real-time delivery of audit eventImmutable audit trailEnd-to-end transparency in a single pane of glassDefault encryptionAutomated visibilityIncident managementCompliance by defaultIntegration with partners\n        \n          Learn and build\n        \n      Need more help?"
+  },
+  {
+    "id": "9a95e9e4-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud IAM",
+    "service_short_name": "cloudIam",
+    "description": "Fine-grained identity and access management for GCP resources.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/iam/",
+    "benefits": "Enterprise identity made easyThe right rolesGranular resource controlContext-aware accessSimplicity firstBuilt-in audit trailAccess control your waySingle access control interfaceFine-grained controlContext-aware accessFlexible rolesWeb, programmatic, and command-line accessBuilt-in audit trailSupport for Cloud IdentityFree of charge\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a95e9e5-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Identity",
+    "service_short_name": "cloudIdentity",
+    "description": "Easily manage user identities, devices, and applications from one console.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/identity/",
+    "benefits": "Google-grade securityUser and IT simplicityMeeting you where you areGive users one-click access to appsProtect user and company dataEnforce policies for personal and corporate devicesAccount securityDevice securityDigital workspaceUnified management consoleHRMS integrationHybrid identity managementSLA and complianceTechnical supportAccount takeover protection"
+  },
+  {
+    "id": "9a95e9e6-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Identity Platform",
+    "service_short_name": "identityPlatform",
+    "description": "Add Google-grade identity and access management to your apps.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/identity-cp/",
+    "benefits": "Authentication as a serviceBroad protocol supportTwo-factor authentication (coming soon)Intelligent account protectionPlanet-scale infrastructureEnterprise support and SLAMonthly active users (MAU) of social providers, anonymous, email+password, and phone authentication. No additional charge for multiple authentications per month for each MAU.Monthly active users (MAU) of SAML and OpenID Connect Federation providers. No additional charge for multiple authentications per month for each MAU.Successful authentication by phone number/SMSAdd Google-grade identity and access management to your apps."
+  },
+  {
+    "id": "9a95e9e7-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Identity-Aware Proxy",
+    "service_short_name": "cloudIdentityAwareProxy",
+    "description": "Use identity and context to guard access to your applications and VMs.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/iap/",
+    "benefits": "Simpler for cloud adminsSimpler for remote workersContext-aware accessSecure access administrationControls access without VPNSaves admin timeWorks with cloud and on-premises appsSaves end user timeDeploys in minutesProtects your apps and VMs\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a95e9e8-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Data Loss Prevention",
+    "service_short_name": "cloudDataLossPreventionApi",
+    "description": "Discover and redact sensitive data.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/dlp/",
+    "benefits": "Discover and classify sensitive dataAutomatically mask your data to safely unlock more of the cloudBuilt to easily fit into your workloadsEnhance your understanding of data privacy riskFlexible classificationPay-as-you-go pricingSecure data handlingNo hardware or deployments to manageCustom detectorsDetailed findingsEasy workload integrationSimple and powerful redactionLikelihood scoresREST API\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a95e9e9-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud HSM",
+    "service_short_name": "cloudHsm",
+    "description": "Protect cryptographic keys with a fully managed hardware security module\n                        service.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/hsm/",
+    "benefits": "Maintain control over cryptographic keysHelp satisfy compliance requirementsAutomate time-consuming tasksEasily integrate with Cloud KMSPay for what you useSymmetric and asymmetric key supportStatement attestationIntegration with Cloud KMSMulti-region support\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a95e9ea-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Key Management Service",
+    "service_short_name": "cloudKeyManagementService",
+    "description": "Manage encryption keys on GCP.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/kms/"
+  },
+  {
+    "id": "9a95e9eb-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Security Command Center",
+    "service_short_name": "cloudSecurityCommandCenter",
+    "description": "Comprehensive security and data risk platform for GCP.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/security-command-center/",
+    "benefits": "Prevent threats with visibility and control over your cloud data and servicesDetect and respond to threats targeting your Google Cloud Platform assetsAsset discovery and inventorySensitive data discoveryApplication vulnerability detectionREST API and SIEMAccess control monitoringAnomaly detection from GoogleThreat detectionThird-party security tool inputsReal-time notifications and remediationAudit logs\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a95e9ec-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Security Scanner",
+    "service_short_name": "cloudSecurityScanner",
+    "description": "Automatically scan your App Engine apps.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/security-scanner/",
+    "benefits": "Find common security vulnerabilitiesFocus on actionable resultsIntegrates easily with your processesVulnerability detectionSimple controlActionable resultsSelection of agent browsersUser authentication\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a95e9ed-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Context-aware access",
+    "service_short_name": "contextAwareAccess",
+    "description": "Manage access to apps and infrastructure based on a user’s identity and context.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/context-aware-access/",
+    "benefits": "Simpler user accessGoogle-grade securityUnified access managementVPN-less user accessZero Trust securityBuilt-in with GCP and G SuiteCloud or on-premisesSingle platform and policiesPlanet-scale infrastructure\n        Manage access to apps and infrastructure based on a user’s identity and context"
+  },
+  {
+    "id": "9a95e9ee-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Event Threat Detection (beta)",
+    "service_short_name": "eventThreatDetection",
+    "description": "Uncover security threats in Google Cloud Platform environments.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/event-threat-detection/",
+    "benefits": "Quickly detect the most worrisome cloud-based threatsPowered by industry-leading threat intelligenceOptimize your SIEM and cut costsEnable a single pane of glass with Cloud Security Command Center integrationStackdriver Logging integrationDetect high-profile cloud threatsView findings in Cloud Security Command CenterStream findings with Cloud Pub/Sub and Cloud FunctionsFlexible API\n        Event Threat Detection"
+  },
+  {
+    "id": "9a95e9ef-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Managed Service for Microsoft Active Directory (alpha)",
+    "service_short_name": "managedServiceForMicrosoftActiveDirectory",
+    "description": "Use a highly available, hardened service running Microsoft® Active\n                        Directory (AD).",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/managed-microsoft-ad/",
+    "benefits": "Actual Microsoft ADVirtually maintenance-freeHybrid identityAn actual AD domainFamiliar features and toolsHighly availableAutomatic patchingHardenedFlexible deployment\n        Managed Service for Microsoft® AD"
+  },
+  {
+    "id": "9a95e9f0-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Policy Intelligence (alpha)",
+    "service_short_name": "policyIntelligence",
+    "description": "Smart access control for your GCP resources.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/policy-intelligence/",
+    "benefits": "Recommender: discover and remediate excessive permissionsTroubleshooter: quickly resolve access control issuesValidator: put tight controls around cloud resources\n        Policy Intelligence"
+  },
+  {
+    "id": "9a95e9f1-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Resource Manager",
+    "service_short_name": "resourceManager",
+    "description": "Hierarchically manage resources on GCP.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/resource-manager/",
+    "benefits": "Manage IAM across your orgOrganize resourcesTrack and manage projectsOrganizationOrganization policiesCloud IAM policiesAsset inventoryCreate, update, delete projectsProject detailsCloud foldersCloud console and API access\n        Learn and build\n        Need more help?"
+  },
+  {
+    "id": "9a95e9f2-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Titan Security Key",
+    "service_short_name": "titanSecurityKey",
+    "description": "Defend against account takeovers from phishing attacks.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/titan-security-key/",
+    "benefits": "Enhanced account protectionTrusted hardwareOpen ecosystemBuilt-in on Pixel 3 and Pixel 3aPhishing-resistant 2FATamper-resistant hardwareGrowing app ecosystemBroad browser supportSecurity key enforcementAdvanced Protection Program"
+  },
+  {
+    "id": "9a95e9f3-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "VPC Service Controls",
+    "service_short_name": "vpcServiceControls",
+    "description": "Protect sensitive data in Google Cloud Platform\n                        services using security perimeters.",
+    "category": "Security, Identity & Compliance",
+    "url": "https://cloud.google.com/vpc-service-controls/",
+    "benefits": "Keep sensitive data private in a hybrid environmentMitigate data exfiltration risksEnable context-aware access to GCP servicesCentrally manage your security posture at scaleAudit loggingSupport for hybrid environmentsContext-aware accessPerimeter security for managed GCP servicesSecure communicationVPC Flow Logs\n        VPC Service Controls"
+  },
+  {
+    "id": "9a965f10-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Storage",
+    "service_short_name": "cloudStorage",
+    "description": "Object storage with global edge-caching.",
+    "category": "Storage",
+    "url": "https://cloud.google.com/storage/"
+  },
+  {
+    "id": "9a965f11-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Persistent Disk",
+    "service_short_name": "persistentDisk",
+    "description": "Block storage for VM instances.",
+    "category": "Storage",
+    "url": "https://cloud.google.com/persistent-disk/"
+  },
+  {
+    "id": "9a965f12-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Storage for Firebase",
+    "service_short_name": "cloudStorageForFirebase",
+    "description": "Store and serve content with ease.",
+    "category": "Storage",
+    "url": "https://firebase.google.com/products/storage/"
+  },
+  {
+    "id": "9a968620-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Filestore",
+    "service_short_name": "cloudFilestore",
+    "description": "High-performance file storage.",
+    "category": "Storage",
+    "url": "https://cloud.google.com/filestore/"
+  },
+  {
+    "id": "9a96d440-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Drive Enterprise",
+    "service_short_name": "driveEnterprise",
+    "description": "Cloud-based content collaboration and storage.",
+    "category": "Workforce Tools",
+    "url": "https://cloud.google.com/drive-enterprise/",
+    "benefits": "Supercharge teamworkBoost productivity with AIIntegrates with Microsoft Office and other toolsStreamlined workflowsGoogle collaboration — with Office filesFuture-proof file storageAutomated organizationInstant insightsNonstop learningEasy migrationSeamless integrationEnterprise-grade securityDocs, Sheets, and SlidesNo more lost filesSecurity, privacy, and compliance toolsFast access to the right filesData Loss Prevention (DLP)Vault for eDiscovery"
+  },
+  {
+    "id": "9a96d441-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Gmail",
+    "service_short_name": "gmail",
+    "description": "Smart, secure email for modern businesses.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/gmail/"
+  },
+  {
+    "id": "9a96d442-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Calendar",
+    "service_short_name": "calendar",
+    "description": "Online calendars designed for teams.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/calendar/"
+  },
+  {
+    "id": "9a96d443-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Drive",
+    "service_short_name": "drive",
+    "description": "Secure cloud storage and file sharing.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/drive/"
+  },
+  {
+    "id": "9a96d444-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Google+",
+    "service_short_name": "google+",
+    "description": "Secure corporate social network.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/googleplus/"
+  },
+  {
+    "id": "9a96d445-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Hangouts Chat",
+    "service_short_name": "hangoutsChat",
+    "description": "Secure team messaging.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/chat/"
+  },
+  {
+    "id": "9a96d446-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Hangouts Meet",
+    "service_short_name": "hangoutsMeet",
+    "description": "Easy-to-join video meetings.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/meet/"
+  },
+  {
+    "id": "9a96d447-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Search",
+    "service_short_name": "cloudSearch",
+    "description": "Powerful search across G Suite.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/cloud-search/"
+  },
+  {
+    "id": "9a96d448-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Docs",
+    "service_short_name": "docs",
+    "description": "Documents with real-time co-editing.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/docs/"
+  },
+  {
+    "id": "9a96d449-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Sheets",
+    "service_short_name": "sheets",
+    "description": "Smart, fast online spreadsheets.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/sheets/"
+  },
+  {
+    "id": "9a96d44a-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Slides",
+    "service_short_name": "slides",
+    "description": "Beautiful presentations created together.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/slides/"
+  },
+  {
+    "id": "9a96d44b-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Forms",
+    "service_short_name": "forms",
+    "description": "Easy-to-create surveys and forms.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/forms/"
+  },
+  {
+    "id": "9a96d44c-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Sites",
+    "service_short_name": "sites",
+    "description": "Easy-to-build team sites.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/sites/"
+  },
+  {
+    "id": "9a96d44d-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "App Maker",
+    "service_short_name": "appMaker",
+    "description": "Easy-to-create custom apps.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/app-maker/"
+  },
+  {
+    "id": "9a96d44e-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Keep",
+    "service_short_name": "keep",
+    "description": "Capture ideas and keep organized.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/keep/"
+  },
+  {
+    "id": "9a96d44f-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Hangouts Meet Hardware",
+    "service_short_name": "hangoutsMeetHardware",
+    "description": "Fast, effective video meetings for the conference room.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/hangouts-meet-hardware/"
+  },
+  {
+    "id": "9a96d450-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Hire by Google",
+    "service_short_name": "hireByGoogle",
+    "description": "Recruit faster with Google.",
+    "category": "Workforce Tools",
+    "url": "https://hire.google.com"
+  },
+  {
+    "id": "9a96d451-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Jamboard",
+    "service_short_name": "jamboard",
+    "description": "A collaborative digital whiteboard to visualize your ideas.",
+    "category": "Workforce Tools",
+    "url": "https://gsuite.google.com/products/jamboard/"
+  },
+  {
+    "id": "9a96d452-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Cloud Search",
+    "service_short_name": "cloudSearch",
+    "description": "Find information quickly across the business with Google Cloud Search.",
+    "category": "Workforce Tools",
+    "url": "https://cloud.google.com/products/search/",
+    "benefits": "Powered by machine learningAnything and everything at your fingertipsPrivacy and security models that meet your needsBuilt on a trusted, proven platformSign up today"
+  },
+  {
+    "id": "9a96d453-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Drive Enterprise",
+    "service_short_name": "driveEnterprise",
+    "description": "Improve teamwork with Google's cloud-based storage and content\n                            collaboration platform.",
+    "category": "Workforce Tools",
+    "url": "https://cloud.google.com/drive-enterprise/",
+    "benefits": "Supercharge teamworkBoost productivity with AIIntegrates with Microsoft Office and other toolsStreamlined workflowsGoogle collaboration — with Office filesFuture-proof file storageAutomated organizationInstant insightsNonstop learningEasy migrationSeamless integrationEnterprise-grade securityDocs, Sheets, and SlidesNo more lost filesSecurity, privacy, and compliance toolsFast access to the right filesData Loss Prevention (DLP)Vault for eDiscovery"
+  },
+  {
+    "id": "9a96d454-c5d6-11e9-a877-330f22b5bb0a",
+    "provider": "GCP",
+    "service_full_name": "Google Voice",
+    "service_short_name": "googleVoice",
+    "description": "Stay connected, organized, and on task with an easy-to-use phone\n                            solution that fits organizations of any size.",
+    "category": "Workforce Tools",
+    "url": "https://cloud.google.com/voice/",
+    "benefits": "SimpleSmartScalableG Suite appsCompatible hardwareAdd Voice to your G Suite accountWork with a specialist"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "CloudHSM Hourly": {
+    "rateCode": "KP63J34M7ZQ72U55.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.5400000000"
+  },
+  "Trial Hourly": {
+    "rateCode": "2PKU6AT7HMBXGSES.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "Trial upfront": {
+    "rateCode": "YBXVC4E6BKQXJX36.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  }
+}

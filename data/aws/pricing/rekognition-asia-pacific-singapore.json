@@ -1,0 +1,26 @@
+{
+  "Face Metadata Storage per Faces Mo": {
+    "rateCode": "RSDBDJ4QD5958BY5.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000125000"
+  },
+  "Archived Content per Minutes Processed": {
+    "rateCode": "X3KPN34M7K5SUEQW.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1350000000"
+  },
+  "Rekognition Image API upto 1MM per Images Processed": {
+    "rateCode": "FCGA6FTJW54PFW24.JRTCKXETXF.SB2VSFF4TP",
+    "price": "0.0012500000"
+  },
+  "Rekognition Image API upto 10MM per Images Processed": {
+    "rateCode": "FCGA6FTJW54PFW24.JRTCKXETXF.H9V8AVEXGG",
+    "price": "0.0010000000"
+  },
+  "Rekognition Image API upto 100MM per Images Processed": {
+    "rateCode": "FCGA6FTJW54PFW24.JRTCKXETXF.RTKVR6ZK95",
+    "price": "0.0007500000"
+  },
+  "Rekognition Image API over 100MM per Images Processed": {
+    "rateCode": "FCGA6FTJW54PFW24.JRTCKXETXF.F83EQNDM5J",
+    "price": "0.0005000000"
+  }
+}

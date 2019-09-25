@@ -1,0 +1,82 @@
+[
+  {
+    "service_name": "Apigee API Platform",
+    "service_short_name": "apigeeApiPlatform",
+    "description": "Develop, secure, deploy, and monitor your APIs everywhere.",
+    "url": "https://cloud.google.com/apigee/api-management/",
+    "category": "API Management",
+    "benefits": "Evaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "service_name": "API Analytics",
+    "service_short_name": "apiAnalytics",
+    "description": "Insight into operational and business metrics for APIs.",
+    "url": "https://cloud.google.com/apigee/api-management/analyze-apis/",
+    "category": "API Management",
+    "benefits": "Improve the developer experience\n        \n          Proactive risk management\n        \n          Informed business decisions\n        Generate custom reports\n            Apigee dashboard\n          \n            Anomaly investigation\n          \n            Custom reports\n          Business transactions dashboardEvaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "service_name": "API Monetization",
+    "service_short_name": "apiMonetization",
+    "description": "Flexible, easy-to-use solution to realize value from APIs.",
+    "url": "https://cloud.google.com/apigee/api-management/monetize-apis/",
+    "category": "API Management",
+    "benefits": "Powerful monetization engine\n        \n          End-to-end capabilities\n        \n          Flexible and customizable\n        Rich, out-of-the-box reporting\n            Transaction policies\n          \n            Detailed reporting\n          \n            Management UI and API\n          Revenue models and rate plansEvaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "service_name": "Apigee Hybrid",
+    "service_short_name": "apigeeHybrid",
+    "description": "Unified API management across all your APIs.",
+    "url": "https://cloud.google.com/apigee/api-management/hybrid/",
+    "category": "API Management",
+    "benefits": "Manage all APIs in one place\n        \n          Address security and compliance\n        \n          Support your multi-cloud strategy\n        \n            Customer-managed runtime plane\n          \n            Apigee-run management plane\n          \n            Containerization support\n          MicrogatewayEvaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "service_name": "Apigee Sense",
+    "service_short_name": "apigeeSense",
+    "description": "Intelligent behavior detection to protect APIs from attacks.",
+    "url": "https://cloud.google.com/apigee/api-management/apigee-sense/",
+    "category": "API Management",
+    "benefits": "Intelligent API security\n        \n          Behavior detection\n        \n          API protection\n        \n            Advanced risk analytics\n          \n            Automated risk mitigation\n          \n            Complete API security solution\n          Data-driven risk modelsEvaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "service_name": "Cloud Endpoints",
+    "service_short_name": "cloudEndpoints",
+    "description": "Develop, deploy, and manage APIs on GCP.",
+    "url": "https://cloud.google.com/endpoints/",
+    "category": "API Management",
+    "benefits": "Protect your APILightning fastWorld class monitoringChoose your own frameworkUser authenticationAPI keysAutomated deploymentEasy integrationLogging and monitoring\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Developer Portal",
+    "service_short_name": "developerPortal",
+    "description": "Enable developers and API teams with a turnkey self-service platform.",
+    "url": "https://cloud.google.com/apigee/api-management/developer-portal/",
+    "category": "API Management",
+    "benefits": "Unleash API products to market\n        \n          Deliver a branded portal experience\n        \n          API program oversight and management\n        Increase adoption and consumption of your APIs\n            Interactive documentation\n          \n            API key validation\n          \n            Analytics"
+  },
+  {
+    "service_name": "Apigee healthcare APIx",
+    "service_short_name": "apigeeHealthcareApix",
+    "description": "Accelerate building new FHIR API-based digital services.",
+    "url": "https://cloud.google.com/apigee/solutions/healthcare-apix/",
+    "category": "API Management",
+    "benefits": "Evaluate Apigee EdgeGet your evaluation accountContact an API expert"
+  },
+  {
+    "service_name": "Apigee Open Banking APIx",
+    "service_short_name": "apigeeOpenBankingApix",
+    "description": "Accelerate open banking and PSD2 compliance.",
+    "url": "https://cloud.google.com/apigee/solutions/open-banking-apix/",
+    "category": "API Management",
+    "benefits": "Advance your digital strategy"
+  },
+  {
+    "service_name": "Cloud Healthcare API",
+    "service_short_name": "cloudHealthcareApi",
+    "description": "Secure APIs powering actionable healthcare insights.",
+    "url": "https://cloud.google.com/healthcare-api/",
+    "category": "API Management",
+    "benefits": "FHIRHL7v2DICOMDe-identificationData is private, secure, and in your controlAnalytics and machine learningCommitted to complianceUnlock the value of your dataManaged scalabilityEcosystem-readyDeveloper-friendlyEnhanced data liquidity\n        Learn and build\n        Need more help?"
+  }
+]

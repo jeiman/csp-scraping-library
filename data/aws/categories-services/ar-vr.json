@@ -1,0 +1,30 @@
+[
+  {
+    "service_path": "/sumerian/",
+    "service_name": "Amazon Sumerian",
+    "mini_description": "Build and Run VR and AR Applications",
+    "category": "AR & VR",
+    "url": "https://aws.amazon.com/sumerian/",
+    "keywords": [
+      "Benefits",
+      "No VR/AR expertise needed",
+      "Lifelike characters",
+      "Design immersive environments",
+      "Run on multiple platforms",
+      "How it works",
+      "Upload assets",
+      "Create a Host",
+      "Edit",
+      "Publish",
+      "Run on devices",
+      "Use cases",
+      "Employee Education",
+      "Training Simulations",
+      "Field Service Productivity",
+      "Virtual Concierge",
+      "Design and Creative",
+      "Retail and Sales"
+    ],
+    "benefits": "No VR/AR expertise needed Lifelike characters Design immersive environments Run on multiple platforms How it works Upload assets Create a Host Edit Publish Run on devices Use cases Employee Education Training Simulations Field Service Productivity Virtual Concierge Design and Creative Retail and Sales"
+  }
+]

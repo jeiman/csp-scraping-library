@@ -1,0 +1,20 @@
+[
+  {
+    "service_name": "Kinect DK",
+    "service_path": "/en-gb/services/kinect-dk/",
+    "url": "https://azure.microsoft.com/en-gb/services/kinect-dk/",
+    "description": "Build computer vision and speech models using a developer kit with advanced AI sensors",
+    "category": "Mixed Reality",
+    "keywords": [
+      "Build",
+      "your",
+      "way",
+      "with",
+      "a",
+      "versatile",
+      "sensing",
+      "device"
+    ],
+    "benefits": "Build your way with a versatile sensing device."
+  }
+]

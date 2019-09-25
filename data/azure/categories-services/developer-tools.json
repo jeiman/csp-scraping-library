@@ -1,0 +1,143 @@
+[
+  {
+    "service_name": "Container Registry",
+    "service_path": "/en-gb/services/container-registry/",
+    "url": "https://azure.microsoft.com/en-gb/services/container-registry/",
+    "description": "Store and manage container images across all types of Azure deployments",
+    "category": "Developer Tools",
+    "keywords": [
+      "Manage",
+      "images",
+      "for",
+      "all",
+      "types",
+      "of",
+      "containers.",
+      "Manage",
+      "a",
+      "single",
+      "registry",
+      "across",
+      "multiple",
+      "regions.",
+      "Keep",
+      "container",
+      "images",
+      "close.",
+      "Use",
+      "familiar,",
+      "open-source",
+      "Docker",
+      "CLI",
+      "tools.",
+      "Expand",
+      "registry",
+      "functionality"
+    ],
+    "benefits": "Manage images for all types of containers. Manage a single registry across multiple regions. Keep container images close. Use familiar, open-source Docker CLI tools. Expand registry functionality."
+  },
+  {
+    "service_name": "Visual Studio",
+    "service_path": "/en-gb/products/visual-studio/",
+    "url": "https://azure.microsoft.com/en-gb/products/visual-studio/",
+    "description": "The powerful and flexible environment for developing applications in the cloud",
+    "category": "Developer Tools",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Visual Studio Code",
+    "service_path": "/en-gb/products/visual-studio-code/",
+    "url": "https://azure.microsoft.com/en-gb/products/visual-studio-code/",
+    "description": "A powerful, lightweight code editor for cloud development",
+    "category": "Developer Tools",
+    "keywords": [
+      "Powerful",
+      "editing",
+      "and",
+      "debugging.",
+      "Streamline",
+      "your",
+      "work",
+      "with",
+      "JavaScript",
+      "and",
+      "Node.js.",
+      "Develop",
+      "and",
+      "debug",
+      "serverless",
+      "locally.",
+      "Connect",
+      "to",
+      "developer",
+      "services",
+      "and",
+      "resources"
+    ],
+    "benefits": "Powerful editing and debugging. Streamline your work with JavaScript and Node.js. Develop and debug serverless locally. Connect to developer services and resources."
+  },
+  {
+    "service_name": "SDKs",
+    "service_path": "/en-gb/downloads/",
+    "url": "https://azure.microsoft.com/en-gb/downloads/",
+    "description": "Get the SDKs and command-line tools you need",
+    "category": "Developer Tools",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "CLIs",
+    "service_path": "/en-gb/tools/",
+    "url": "https://azure.microsoft.com/en-gb/tools/",
+    "description": "Building, deploying, diagnosing and managing multi-platform, scalable apps and services",
+    "category": "Developer Tools",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Azure Lab Services",
+    "service_path": "/en-gb/services/lab-services/",
+    "url": "https://azure.microsoft.com/en-gb/services/lab-services/",
+    "description": "Set up labs for classrooms, trials, development and testing, and other scenarios",
+    "category": "Developer Tools",
+    "keywords": [
+      "Create",
+      "a",
+      "lab",
+      "of",
+      "preconfigured",
+      "virtual",
+      "machines"
+    ],
+    "benefits": "Create a lab of preconfigured virtual machines."
+  },
+  {
+    "service_name": "Developer tool integrations",
+    "service_path": "/en-gb/products/developer-tool-integrations/",
+    "url": "https://azure.microsoft.com/en-gb/products/developer-tool-integrations/",
+    "description": "Use the development tools you know – including Eclipse, IntelliJ and Maven – with Azure",
+    "category": "Developer Tools",
+    "keywords": [
+      "Azure",
+      "Toolkit",
+      "for",
+      "Eclipse.",
+      "Azure",
+      "Toolkit",
+      "for",
+      "IntelliJ.",
+      "Azure",
+      "tools",
+      "for",
+      "Maven"
+    ],
+    "benefits": "Azure Toolkit for Eclipse. Azure Toolkit for IntelliJ. Azure tools for Maven."
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "service_name": "BigQuery",
+    "service_short_name": "bigQuery",
+    "description": "A fully managed, highly scalable data warehouse with built-in ML.",
+    "url": "https://cloud.google.com/bigquery/",
+    "category": "Analytics & Query Services",
+    "benefits": "Get up and running fastScale seamlesslyAccelerate your insights with powerful analysisProtect your business data and investmentsControl costs and reduce TCOBigQuery ML (beta)BigQuery BI Engine (beta)BigQuery GISLearn and buildNeed more help?"
+  },
+  {
+    "service_name": "Cloud Dataflow",
+    "service_short_name": "cloudDataflow",
+    "description": "Real-time batch and stream data processing.",
+    "url": "https://cloud.google.com/dataflow/",
+    "category": "Analytics & Query Services"
+  },
+  {
+    "service_name": "Cloud Dataproc",
+    "service_short_name": "cloudDataproc",
+    "description": "Managed Spark and Hadoop service.",
+    "url": "https://cloud.google.com/dataproc/",
+    "category": "Analytics & Query Services",
+    "benefits": "Learn and buildNeed more help?"
+  },
+  {
+    "service_name": "Cloud Datalab",
+    "service_short_name": "cloudDatalab",
+    "description": "Explore, analyze, and visualize large datasets.",
+    "url": "https://cloud.google.com/datalab/",
+    "category": "Analytics & Query Services",
+    "benefits": "Integrated and open sourceScalableData management and visualizationMachine learning with lifecycle supportIntegratedMulti-language supportNotebook formatPay-per-use pricingInteractive data visualizationMachine learningIPython supportOpen source\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Dataprep",
+    "service_short_name": "cloudDataprep",
+    "description": "Cloud data service to explore, clean, and prepare data for analysis.",
+    "url": "https://cloud.google.com/dataprep/",
+    "category": "Analytics & Query Services",
+    "benefits": "Serverless simplicityFast exploration and anomaly detectionEasy and powerful data preparationPredictive transformationParameterizationCollaborationPattern matchingVisual profilingSamplingSchedulingTarget matchingCommon data typesIntegrated with Google Cloud Platform\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Cloud Pub/Sub",
+    "service_short_name": "cloudPubSub",
+    "description": "Ingest event streams from anywhere, at any scale.",
+    "url": "https://cloud.google.com/pubsub/",
+    "category": "Analytics & Query Services",
+    "benefits": "At-least-once deliveryOpenExactly-once processingGlobal by defaultNo provisioning, auto-everythingCompliance and securityIntegratedSeek and replayLearn and buildNeed more help?"
+  },
+  {
+    "service_name": "Cloud Composer",
+    "service_short_name": "cloudComposer",
+    "description": "A fully managed workflow orchestration service built on Apache Airflow.",
+    "url": "https://cloud.google.com/composer/",
+    "category": "Analytics & Query Services"
+  },
+  {
+    "service_name": "Cloud Data Fusion",
+    "service_short_name": "cloudDataFusion",
+    "description": "Fully managed, code-free data integration.",
+    "url": "https://cloud.google.com/data-fusion/",
+    "category": "Analytics & Query Services",
+    "benefits": "Code-free deployment of data pipelinesAn open core, delivering hybrid and multi-cloud integrationGet more from Google’s industry-leading big data toolsRobust data engineering through collaboration and standardizationCode-free self-serviceCollaborative data engineeringGCP-nativeEnterprise-grade securityIntegration metadata and lineageSeamless operationsComprehensive integration toolkitHybrid enablement\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Data Catalog",
+    "service_short_name": "dataCatalog",
+    "description": "A fully managed and highly scalable data discovery and metadata\n                        management service.",
+    "url": "https://cloud.google.com/data-catalog/",
+    "category": "Analytics & Query Services",
+    "benefits": "Simplifies data discovery at any scale\n            Offers a unified view of all datasetsProvides a foundation for data governanceServerlessMetadata-as-a-serviceCentral catalogSearch and discoverySchematized metadataCloud DLP integrationCloud IAM integrationGovernanceLearn and buildNeed more help?"
+  },
+  {
+    "service_name": "Genomics",
+    "service_short_name": "genomics",
+    "description": "Power your science with Google Genomics.",
+    "url": "https://cloud.google.com/genomics/",
+    "category": "Analytics & Query Services"
+  }
+]

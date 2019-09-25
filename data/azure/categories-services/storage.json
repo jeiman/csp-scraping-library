@@ -1,0 +1,227 @@
+[
+  {
+    "service_name": "Azure Data Lake Storage",
+    "service_path": "/en-gb/services/storage/data-lake-storage/",
+    "url": "https://azure.microsoft.com/en-gb/services/storage/data-lake-storage/",
+    "description": "Massively scalable, secure data lake functionality built on Azure Blob Storage",
+    "category": "Storage",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Azure Backup",
+    "service_path": "/en-gb/services/backup/",
+    "url": "https://azure.microsoft.com/en-gb/services/backup/",
+    "description": "Simplify data protection and protect against ransomware",
+    "category": "Storage",
+    "keywords": [
+      "Simplify",
+      "data",
+      "protection",
+      "from",
+      "ransomware",
+      "and",
+      "human",
+      "error"
+    ],
+    "benefits": "Simplify data protection from ransomware and human error."
+  },
+  {
+    "service_name": "Data Box",
+    "service_path": "/en-gb/services/databox/",
+    "url": "https://azure.microsoft.com/en-gb/services/databox/",
+    "description": "Appliances and solutions for data transfer to Azure and edge compute",
+    "category": "Storage",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Storage Accounts",
+    "service_path": "/en-gb/services/storage/",
+    "url": "https://azure.microsoft.com/en-gb/services/storage/",
+    "description": "Durable, highly available and massively scalable cloud storage",
+    "category": "Storage",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "StorSimple",
+    "service_path": "/en-gb/services/storsimple/",
+    "url": "https://azure.microsoft.com/en-gb/services/storsimple/",
+    "description": "Lower costs with an enterprise hybrid cloud storage solution",
+    "category": "Storage",
+    "keywords": [
+      "Consolidate",
+      "storage",
+      "infrastructure.",
+      "Automate",
+      "data",
+      "management.",
+      "Accelerate",
+      "disaster",
+      "recovery",
+      "and",
+      "improve",
+      "compliance.",
+      "Enhance",
+      "IT",
+      "agility,",
+      "drive",
+      "your",
+      "business"
+    ],
+    "benefits": "Consolidate storage infrastructure. Automate data management. Accelerate disaster recovery and improve compliance. Enhance IT agility, drive your business."
+  },
+  {
+    "service_name": "Blob Storage",
+    "service_path": "/en-gb/services/storage/blobs/",
+    "url": "https://azure.microsoft.com/en-gb/services/storage/blobs/",
+    "description": "REST-based object storage for unstructured data",
+    "category": "Storage",
+    "keywords": [
+      "Scale",
+      "up",
+      "or",
+      "down",
+      "using",
+      "Hot,",
+      "Cool,",
+      "Archive",
+      "or",
+      "Premium",
+      "storage.",
+      "One",
+      "infrastructure,",
+      "worldwide",
+      "access.",
+      "Any",
+      "data,",
+      "cloud",
+      "scale"
+    ],
+    "benefits": "Scale up or down using Hot, Cool, Archive or Premium storage. One infrastructure, worldwide access. Any data, cloud scale."
+  },
+  {
+    "service_name": "Disk storage",
+    "service_path": "/en-gb/services/storage/disks/",
+    "url": "https://azure.microsoft.com/en-gb/services/storage/disks/",
+    "description": "Persistent, secured disk options supporting virtual machines",
+    "category": "Storage",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Managed Disks",
+    "service_path": "/en-gb/services/managed-disks/",
+    "url": "https://azure.microsoft.com/en-gb/services/managed-disks/",
+    "description": "Persistent, secured disk storage for Azure virtual machines",
+    "category": "Storage",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Queue Storage",
+    "service_path": "/en-gb/services/storage/queues/",
+    "url": "https://azure.microsoft.com/en-gb/services/storage/queues/",
+    "description": "Effectively scale apps according to traffic",
+    "category": "Storage",
+    "keywords": [
+      "Decouple",
+      "components.",
+      "Build",
+      "in",
+      "resilience.",
+      "Scale",
+      "for",
+      "bursts"
+    ],
+    "benefits": "Decouple components. Build in resilience. Scale for bursts."
+  },
+  {
+    "service_name": "File storage",
+    "service_path": "/en-gb/services/storage/files/",
+    "url": "https://azure.microsoft.com/en-gb/services/storage/files/",
+    "description": "File shares that use the standard SMB 3.0 protocol",
+    "category": "Storage",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Avere vFXT for Azure",
+    "service_path": "/en-gb/services/storage/avere-vfxt/",
+    "url": "https://azure.microsoft.com/en-gb/services/storage/avere-vfxt/",
+    "description": "Run high-performance, file-based workloads in the cloud",
+    "category": "Storage",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Azure FXT Edge Filer",
+    "service_path": "/en-gb/services/fxt-edge-filer/",
+    "url": "https://azure.microsoft.com/en-gb/services/fxt-edge-filer/",
+    "description": "Hybrid storage optimisation solution for HPC environments",
+    "category": "Storage",
+    "keywords": [
+      "Build",
+      "hybrid",
+      "storage",
+      "ready",
+      "for",
+      "performance"
+    ],
+    "benefits": "Build hybrid storage ready for performance."
+  },
+  {
+    "service_name": "Archive Storage",
+    "service_path": "/en-gb/services/storage/archive/",
+    "url": "https://azure.microsoft.com/en-gb/services/storage/archive/",
+    "description": "Industry-leading price point for storing rarely accessed data",
+    "category": "Storage",
+    "keywords": [
+      "Get",
+      "started",
+      "with",
+      "Azure",
+      "Archive",
+      "Storage",
+      "today"
+    ],
+    "benefits": "Get started with Azure Archive Storage today."
+  },
+  {
+    "service_name": "Storage Explorer",
+    "service_path": "/en-gb/features/storage-explorer/",
+    "url": "https://azure.microsoft.com/en-gb/features/storage-explorer/",
+    "description": "View and interact with Azure Storage resources",
+    "category": "Storage",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Azure NetApp Files",
+    "service_path": "/en-gb/services/netapp/",
+    "url": "https://azure.microsoft.com/en-gb/services/netapp/",
+    "description": "Enterprise-grade Azure file shares, powered by NetApp",
+    "category": "Storage",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  }
+]

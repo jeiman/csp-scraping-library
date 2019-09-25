@@ -1,0 +1,14 @@
+{
+  "Encryption Key": {
+    "rateCode": "EUZ2ZATHYDUB5GUY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "1.0000000000"
+  },
+  "API request - Non Free Tier": {
+    "rateCode": "GNYCWMXMCTZC5JHT.JRTCKXETXF.UT3GFUU745",
+    "price": "0.0000040000"
+  },
+  "API request - Free Tier": {
+    "rateCode": "GNYCWMXMCTZC5JHT.JRTCKXETXF.7K6Z2V4Y4Q",
+    "price": "0.0000000000"
+  }
+}

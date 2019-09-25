@@ -1,0 +1,166 @@
+[
+  {
+    "service_path": "/codestar/",
+    "service_name": "AWS CodeStar",
+    "mini_description": "Develop and Deploy AWS Applications ",
+    "category": "Developer Tools",
+    "url": "https://aws.amazon.com/codestar/",
+    "keywords": [
+      "Benefits",
+      "Start developing on AWS in minutes",
+      "Manage software delivery in one place",
+      "Work across your team securely",
+      "Choose from a variety of project templates",
+      "Get started with AWS"
+    ],
+    "benefits": "Start developing on AWS in minutes Manage software delivery in one place Work across your team securely Choose from a variety of project templates Get started with AWS"
+  },
+  {
+    "service_path": "/corretto/",
+    "service_name": "Amazon Corretto",
+    "mini_description": "Production-ready distribution of OpenJDK",
+    "category": "Developer Tools",
+    "url": "https://aws.amazon.com/corretto/",
+    "keywords": [
+      "Benefits",
+      "Backed by Amazon",
+      "Production Ready",
+      "Multiplatform Support",
+      "No Cost",
+      "Installation Guides for Corretto 8",
+      "Installation Guides for Corretto 11",
+      "Blog posts",
+      "Videos"
+    ],
+    "benefits": "Backed by Amazon Production Ready Multiplatform Support No Cost Installation Guides for Corretto 8 Installation Guides for Corretto 11 Blog posts Videos"
+  },
+  {
+    "service_path": "/cloud9/",
+    "service_name": "AWS Cloud9",
+    "mini_description": "Write, Run, and Debug Code on a Cloud IDE",
+    "category": "Developer Tools",
+    "url": "https://aws.amazon.com/cloud9/",
+    "keywords": [
+      "Benefits",
+      "Code with Just a Browser",
+      "Code Together in Real Time",
+      "Build Serverless Applications with Ease",
+      "Direct Terminal Access to AWS",
+      "Start New Projects Quickly",
+      "Blog posts",
+      "Videos"
+    ],
+    "benefits": "Code with Just a Browser  Code Together in Real Time Build Serverless Applications with Ease Direct Terminal Access to AWS Start New Projects Quickly  Blog posts Videos"
+  },
+  {
+    "service_path": "/codebuild/",
+    "service_name": "AWS CodeBuild",
+    "mini_description": "Build and Test Code",
+    "category": "Developer Tools",
+    "url": "https://aws.amazon.com/codebuild/",
+    "keywords": [
+      "Benefits",
+      "Fully managed build service",
+      "Continuous scaling",
+      "Pay as you go",
+      "Extensible",
+      "Enables continuous integration and delivery",
+      "Secure",
+      "Get started with AWS"
+    ],
+    "benefits": "Fully managed build service Continuous scaling Pay as you go Extensible Enables continuous integration and delivery Secure Get started with AWS"
+  },
+  {
+    "service_path": "/codecommit/",
+    "service_name": "AWS CodeCommit",
+    "mini_description": "Store Code in Private Git Repositories",
+    "category": "Developer Tools",
+    "url": "https://aws.amazon.com/codecommit/",
+    "keywords": [
+      "Benefits",
+      "Fully managed",
+      "Secure",
+      "High availability",
+      "Collaborate on code",
+      "Faster development lifecycle",
+      "Use your existing tools",
+      "Videos",
+      "Case studies",
+      "Get started with AWS"
+    ],
+    "benefits": "Fully managed Secure High availability Collaborate on code Faster development lifecycle Use your existing tools Videos Case studies Get started with AWS"
+  },
+  {
+    "service_path": "/codedeploy/",
+    "service_name": "AWS CodeDeploy",
+    "mini_description": "Automate Code Deployment",
+    "category": "Developer Tools",
+    "url": "https://aws.amazon.com/codedeploy/",
+    "keywords": [
+      "Benefits",
+      "Automated deployments",
+      "Minimize downtime",
+      "Centralized control",
+      "Easy to adopt",
+      "Case studies",
+      "Get started with AWS"
+    ],
+    "benefits": "Automated deployments Minimize downtime Centralized control Easy to adopt Case studies Get started with AWS"
+  },
+  {
+    "service_path": "/codepipeline/",
+    "service_name": "AWS CodePipeline",
+    "mini_description": "Release Software using Continuous Delivery",
+    "category": "Developer Tools",
+    "url": "https://aws.amazon.com/codepipeline/",
+    "keywords": [
+      "Benefits",
+      "Rapid delivery",
+      "Configurable workflow",
+      "Get started fast",
+      "Easy to integrate",
+      "How it works",
+      "Case studies",
+      "Get started with AWS"
+    ],
+    "benefits": "Rapid delivery Configurable workflow Get started fast Easy to integrate How it works Case studies Get started with AWS"
+  },
+  {
+    "service_path": "/getting-started/tools-sdks/",
+    "service_name": "AWS Tools and SDKs",
+    "mini_description": "Tools and SDKs for AWS",
+    "category": "Developer Tools",
+    "url": "https://aws.amazon.com/getting-started/tools-sdks/",
+    "keywords": [
+      "Start building with SDKs and tools",
+      "Access and manage AWS services with your preferred development language or platform",
+      "SDKs",
+      "Mobile SDKs",
+      "IoT Device SDKs",
+      "IDE and IDE Toolkits",
+      "Command Line Tools",
+      "AWS Developer Tools",
+      "Additional Resources"
+    ],
+    "benefits": "Start building with SDKs and tools Access and manage AWS services with your preferred development language or platform SDKs Mobile SDKs IoT Device SDKs IDE and IDE Toolkits Command Line Tools AWS Developer Tools Additional Resources"
+  },
+  {
+    "service_path": "/xray/",
+    "service_name": "AWS X-Ray",
+    "mini_description": "Analyze and debug your applications",
+    "category": "Developer Tools",
+    "url": "https://aws.amazon.com/xray/",
+    "keywords": [
+      "Benefits",
+      "Review request behavior",
+      "Discover application issues",
+      "Improve application performance",
+      "Ready to use with AWS",
+      "Designed for a variety of applications",
+      "How it works",
+      "Customers",
+      "Get started with AWS"
+    ],
+    "benefits": "Review request behavior Discover application issues Improve application performance Ready to use with AWS Designed for a variety of applications How it works Customers Get started with AWS"
+  }
+]

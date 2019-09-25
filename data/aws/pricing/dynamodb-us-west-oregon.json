@@ -1,0 +1,98 @@
+{
+  "1yr Read Capacity Unit Hrs Provisioned": {
+    "rateCode": "W7QHZRBMSZ94SXJ5.YTVHEVGPBZ.6YS6EN2CT7",
+    "price": "0.0000250000"
+  },
+  "1yr Write Capacity Unit Hrs Provisioned": {
+    "rateCode": "YSHGCBPMUVPMDF79.YTVHEVGPBZ.6YS6EN2CT7",
+    "price": "0.0001280000"
+  },
+  "3yr Read Capacity Unit Hrs Provisioned": {
+    "rateCode": "W7QHZRBMSZ94SXJ5.VG8YD49WWM.6YS6EN2CT7",
+    "price": "0.0000160000"
+  },
+  "3yr Write Capacity Unit Hrs Provisioned": {
+    "rateCode": "YSHGCBPMUVPMDF79.VG8YD49WWM.6YS6EN2CT7",
+    "price": "0.0000810000"
+  },
+  "Data Storage Indexed Free Tier GB-Mo": {
+    "rateCode": "UNCJFSHZ2ZQGDPJV.JRTCKXETXF.G2A93NZ7DT",
+    "price": "0.0000000000"
+  },
+  "Data Storage Indexed GB-Mo": {
+    "rateCode": "UNCJFSHZ2ZQGDPJV.JRTCKXETXF.VYAP54KATQ",
+    "price": "0.2500000000"
+  },
+  "On-Demand Backup Storage GB-Month": {
+    "rateCode": "GTC4K5DV2VGGRJ8K.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1000000000"
+  },
+  "PITR Backup Storage GB-Mo": {
+    "rateCode": "UKQHCFER4QFSMKMD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2000000000"
+  },
+  "PayPerRequest Read Request Units": {
+    "rateCode": "K6UMRY3TVDVCBP56.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000002500"
+  },
+  "PayPerRequest Replicated Write Request Units": {
+    "rateCode": "3VHHM5XHVVVUCGAJ.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000018750"
+  },
+  "PayPerRequest Write Request Units": {
+    "rateCode": "4G4G98VBTENWGY5R.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000012500"
+  },
+  "Provisioned 1yr DDB-ReadUnits Upfront Fee": {
+    "rateCode": "W7QHZRBMSZ94SXJ5.YTVHEVGPBZ.2TG2D8R56U",
+    "price": "0.3"
+  },
+  "Provisioned 1yr DDB-WriteUnits Upfront Fee": {
+    "rateCode": "YSHGCBPMUVPMDF79.YTVHEVGPBZ.2TG2D8R56U",
+    "price": "1.5"
+  },
+  "Provisioned 3yr DDB-ReadUnits Upfront Fee": {
+    "rateCode": "W7QHZRBMSZ94SXJ5.VG8YD49WWM.2TG2D8R56U",
+    "price": "0.36"
+  },
+  "Provisioned 3yr DDB-WriteUnits Upfront Fee": {
+    "rateCode": "YSHGCBPMUVPMDF79.VG8YD49WWM.2TG2D8R56U",
+    "price": "1.8"
+  },
+  "Provisioned Read Units": {
+    "rateCode": "W7QHZRBMSZ94SXJ5.JRTCKXETXF.E63J5HTPNN",
+    "price": "0.0001300000"
+  },
+  "Provisioned Read Units Free Tier": {
+    "rateCode": "W7QHZRBMSZ94SXJ5.JRTCKXETXF.HBHVWY47CM",
+    "price": "0.0000000000"
+  },
+  "Provisioned Replicated Write Units": {
+    "rateCode": "AU9AE8JMKEYP6Q3W.JRTCKXETXF.E63J5HTPNN",
+    "price": "0.0009750000"
+  },
+  "Provisioned Replicated Write UnitsFree Tier": {
+    "rateCode": "AU9AE8JMKEYP6Q3W.JRTCKXETXF.HBHVWY47CM",
+    "price": "0.0000000000"
+  },
+  "Provisioned Write Units": {
+    "rateCode": "YSHGCBPMUVPMDF79.JRTCKXETXF.E63J5HTPNN",
+    "price": "0.0006500000"
+  },
+  "Provisioned Write Units Free Tier": {
+    "rateCode": "YSHGCBPMUVPMDF79.JRTCKXETXF.HBHVWY47CM",
+    "price": "0.0000000000"
+  },
+  "Restore Data Size": {
+    "rateCode": "P93X3G5BVPQ4SDHE.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1500000000"
+  },
+  "Streams Read Requests": {
+    "rateCode": "YMQRM65S8TD2QXME.JRTCKXETXF.AUKFMGQW43",
+    "price": "0.0000002000"
+  },
+  "Streams Read Requests Free Tier": {
+    "rateCode": "YMQRM65S8TD2QXME.JRTCKXETXF.M9QGYPQ72M",
+    "price": "0.0000000000"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "General Purpose Storage GB Mo": {
+    "rateCode": "ZKMCWHF772GJA2M9.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3300000000"
+  },
+  "Infrequent Access Requests Read per GB": {
+    "rateCode": "9PZZPD36BY5NH3UW.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0110000000"
+  },
+  "Infrequent Access Requests Write per GB": {
+    "rateCode": "RD8WBZT8PWEDUJVE.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0110000000"
+  },
+  "Infrequent Access Storage GB Mo": {
+    "rateCode": "BAQ53Q4V98GFMDN3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0495000000"
+  },
+  "Throughput Included": {
+    "rateCode": "RCTWX6QBH6NH5JRD.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "Throughput Provisioned": {
+    "rateCode": "HY3X7BVGGSNEXWB7.JRTCKXETXF.6YS6EN2CT7",
+    "price": "6.6000000000"
+  }
+}

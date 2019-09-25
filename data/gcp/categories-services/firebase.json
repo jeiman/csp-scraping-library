@@ -1,0 +1,44 @@
+[
+  {
+    "service_name": "Cloud Functions for Firebase",
+    "service_short_name": "cloudFunctionsForFirebase",
+    "description": "Run mobile backend code without managing servers.",
+    "url": "https://firebase.google.com/docs/functions/",
+    "category": "Firebase"
+  },
+  {
+    "service_name": "Firebase Performance Monitoring",
+    "service_short_name": "firebasePerformanceMonitoring",
+    "description": "Gain insight into your app's performance.",
+    "url": "https://firebase.google.com/products/performance/",
+    "category": "Firebase"
+  },
+  {
+    "service_name": "Firebase Realtime Database",
+    "service_short_name": "firebaseRealtimeDatabase",
+    "description": "Store and sync data in real time.",
+    "url": "https://firebase.google.com/products/realtime-database/",
+    "category": "Firebase"
+  },
+  {
+    "service_name": "Firebase Crashlytics",
+    "service_short_name": "firebaseCrashlytics",
+    "description": "Prioritize and fix stability issues faster.",
+    "url": "https://firebase.google.com/products/crashlytics/",
+    "category": "Firebase"
+  },
+  {
+    "service_name": "Firebase Authentication",
+    "service_short_name": "firebaseAuthentication",
+    "description": "Simple, free multi-platform sign-in.",
+    "url": "https://firebase.google.com/products/auth/",
+    "category": "Firebase"
+  },
+  {
+    "service_name": "Firebase Predictions",
+    "service_short_name": "firebasePredictions",
+    "description": "Smart user segmentation based on predicted behavior.",
+    "url": "https://firebase.google.com/products/predictions/",
+    "category": "Firebase"
+  }
+]

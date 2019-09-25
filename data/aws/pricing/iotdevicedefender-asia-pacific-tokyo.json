@@ -1,0 +1,10 @@
+{
+  "Detect Over 10B per Metric Datapoints": {
+    "rateCode": "7H3N6X3YVP3R5SKX.JRTCKXETXF.P5T423F3Q5",
+    "price": "0.0000002700"
+  },
+  "Detect Upto 10B per Metric Datapoints": {
+    "rateCode": "7H3N6X3YVP3R5SKX.JRTCKXETXF.BZNXGJP27R",
+    "price": "0.0000003400"
+  }
+}

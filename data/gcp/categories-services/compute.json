@@ -1,0 +1,72 @@
+[
+  {
+    "service_name": "Compute Engine",
+    "service_short_name": "computeEngine",
+    "description": "Scalable, high-performance VMs.",
+    "url": "https://cloud.google.com/compute/",
+    "category": "Compute"
+  },
+  {
+    "service_name": "Cloud Run (beta)",
+    "service_short_name": "cloudRun",
+    "description": "Serverless agility for containerized apps.",
+    "url": "https://cloud.google.com/run/",
+    "category": "Compute",
+    "benefits": "Container to production in secondsNatively serverlessOne experience, where you want itAny language, any library, any binaryLeverage container workflows and standardsSimple developer experienceManagedFast autoscalingRedundancyIntegrated logging and monitoringProcess web traffic or asynchronous eventsBuilt on KnativeHTTPS URLsCustom domainsCloud Run (fully managed)Cloud Run on GKELearn and buildNeed more help?"
+  },
+  {
+    "service_name": "Shielded VMs",
+    "service_short_name": "shieldedVm",
+    "description": "Hardened virtual machines on GCP.",
+    "url": "https://cloud.google.com/shielded-vm/",
+    "category": "Compute",
+    "benefits": "Quickly protect VMs against advanced threatsEnsure workloads are trusted and verifiableHelp protect secrets against exfiltration and replayVerifiable integrity with secure and measured bootvTPM exfiltration resistanceTrusted UEFI firmwareTamper-evident attestationsLive migration and patchingDefine IAM policies and permissionsShield existing VM images\n        Learn and build\n        Need more help?"
+  },
+  {
+    "service_name": "Google Kubernetes Engine (GKE)",
+    "service_short_name": "googleKubernetesEngine",
+    "description": "Run containerized applications.",
+    "url": "https://cloud.google.com/kubernetes-engine/",
+    "category": "Compute",
+    "benefits": ""
+  },
+  {
+    "service_name": "Container security",
+    "service_short_name": "containerSecurity",
+    "description": "Secure your container environment on GCP.",
+    "url": "https://cloud.google.com/containers/security/",
+    "category": "Compute",
+    "benefits": "Learn and buildNeed more help?"
+  },
+  {
+    "service_name": "App Engine",
+    "service_short_name": "appEngine",
+    "description": "Serverless application platform for apps and backends.",
+    "url": "https://cloud.google.com/appengine/",
+    "category": "Compute"
+  },
+  {
+    "service_name": "Cloud Functions",
+    "service_short_name": "cloudFunctions",
+    "description": "Event-driven serverless compute platform.",
+    "url": "https://cloud.google.com/functions/",
+    "category": "Compute",
+    "benefits": ""
+  },
+  {
+    "service_name": "Knative",
+    "service_short_name": "knative",
+    "description": "Components to create modern, Kubernetes-native cloud-based software.",
+    "url": "https://cloud.google.com/knative/",
+    "category": "Compute",
+    "benefits": "BuildServingEventingBuild, deploy, and manage serverless workloads with Knative"
+  },
+  {
+    "service_name": "Graphics Processing Unit (GPU)",
+    "service_short_name": "graphicsProcessingUnit",
+    "description": "Leverage GPUs on Google Cloud for machine learning, scientific computing,\n                        and 3D visualization.",
+    "url": "https://cloud.google.com/gpu/",
+    "category": "Compute",
+    "benefits": "Speed up complex compute jobsGPUs in the cloudOptimize time and costBuilt on Google’s infrastructureSeveral GPU types availableBare metal performanceAll the benefits of Google CloudVirtual workstations in the cloudAttach GPUs to any machine typeFlexible GPU counts per instanceGPU application frameworksPer-second billingPreemptible GPUs\n        Learn and build\n        Need more help?"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "Write Request and Strongly Consistent Read Request up to 10000 Free": {
+    "rateCode": "ZEB2B4UPUJ6T5UGV.A429C66SYZ.A6VD9GXV7W",
+    "price": "0.0000000000"
+  },
+  "Write Request and Strongly Consistent Read Request": {
+    "rateCode": "ZEB2B4UPUJ6T5UGV.A429C66SYZ.A6VD9GXV7W",
+    "price": "0.0000000000"
+  },
+  "Storage per GB Mo": {
+    "rateCode": "R8UHB78MSZ2NTUTR.A429C66SYZ.8EEUB22XNJ",
+    "price": "0.0000000000"
+  },
+  "Storage Free GB Mo": {
+    "rateCode": "R8UHB78MSZ2NTUTR.A429C66SYZ.8EEUB22XNJ",
+    "price": "0.0000000000"
+  },
+  "Eventually Consistent Read Request up to 100000 Free": {
+    "rateCode": "EN4NVH4MTPQ5A82Q.A429C66SYZ.NADQ2ZJX8V",
+    "price": "0.0000000000"
+  },
+  "Eventually Consistent Read Request": {
+    "rateCode": "EN4NVH4MTPQ5A82Q.A429C66SYZ.NADQ2ZJX8V",
+    "price": "0.0000000000"
+  }
+}

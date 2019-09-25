@@ -1,0 +1,163 @@
+[
+  {
+    "service_path": "/dms/",
+    "service_name": "AWS Database Migration Service",
+    "mini_description": "Migrate Databases with Minimal Downtime",
+    "category": "Migration & Transfer",
+    "url": "https://aws.amazon.com/dms/",
+    "keywords": [
+      "Benefits",
+      "Simple to use",
+      "Minimal downtime",
+      "Supports widely used databases",
+      "Low cost",
+      "Fast and easy to set-up",
+      "Reliable",
+      "Use cases",
+      "Homogeneous Database Migrations",
+      "Heterogeneous Database Migrations",
+      "Development and Test",
+      "Database Consolidation",
+      "Continuous Data Replication",
+      "Blog posts & articles"
+    ],
+    "benefits": "Simple to use Minimal downtime Supports widely used databases Low cost Fast and easy to set-up Reliable Use cases Homogeneous Database Migrations Heterogeneous Database Migrations Development and Test Database Consolidation Continuous Data Replication Blog posts & articles"
+  },
+  {
+    "service_path": "/migration-hub/",
+    "service_name": "AWS Migration Hub",
+    "mini_description": "Track Migrations from a Single Place",
+    "category": "Migration & Transfer",
+    "url": "https://aws.amazon.com/migration-hub/",
+    "keywords": [
+      "Benefits",
+      "Centralized tracking",
+      "Migration flexibility",
+      "Improved visibility",
+      "Supported services and tools",
+      "AWS Server Migration Service",
+      "ATADATA ATAmotion",
+      "AWS Database Migration Service",
+      "RiverMeadow Server Migration SaaS",
+      "CloudEndure Migration"
+    ],
+    "benefits": "Centralized tracking Migration flexibility Improved visibility Supported services and tools  AWS Server Migration Service   ATADATA ATAmotion   AWS Database Migration Service   RiverMeadow Server Migration SaaS   CloudEndure Migration"
+  },
+  {
+    "service_path": "/application-discovery/",
+    "service_name": "AWS Application Discovery Service",
+    "mini_description": "Discover On-Premises Applications to Streamline Migration",
+    "category": "Migration & Transfer",
+    "url": "https://aws.amazon.com/application-discovery/",
+    "keywords": [
+      "Benefits",
+      "Reliable Discovery for Migration Planning",
+      "Integrated with Migration Hub",
+      "Protect Data with Encryption",
+      "Engage with Migration Experts",
+      "Get started with AWS"
+    ],
+    "benefits": "Reliable Discovery for Migration Planning Integrated with Migration Hub Protect Data with Encryption Engage with Migration Experts Get started with AWS"
+  },
+  {
+    "service_path": "/dms/",
+    "service_name": "AWS Database Migration Service",
+    "mini_description": "Migrate Databases with Minimal Downtime",
+    "category": "Migration & Transfer",
+    "url": "https://aws.amazon.com/dms/",
+    "keywords": [
+      "Benefits",
+      "Simple to use",
+      "Minimal downtime",
+      "Supports widely used databases",
+      "Low cost",
+      "Fast and easy to set-up",
+      "Reliable",
+      "Use cases",
+      "Homogeneous Database Migrations",
+      "Heterogeneous Database Migrations",
+      "Development and Test",
+      "Database Consolidation",
+      "Continuous Data Replication",
+      "Blog posts & articles"
+    ],
+    "benefits": "Simple to use Minimal downtime Supports widely used databases Low cost Fast and easy to set-up Reliable Use cases Homogeneous Database Migrations Heterogeneous Database Migrations Development and Test Database Consolidation Continuous Data Replication Blog posts & articles"
+  },
+  {
+    "service_path": "/datasync/",
+    "service_name": "AWS DataSync",
+    "mini_description": "Simple, fast, online data transfer",
+    "category": "Migration & Transfer",
+    "url": "https://aws.amazon.com/datasync/",
+    "keywords": [
+      "Benefits",
+      "Simplify and automate transfers",
+      "Move data 10x faster",
+      "Reduce operational costs",
+      "How it works",
+      "Use cases",
+      "Data migration",
+      "Data processing for hybrid workloads",
+      "Data protection",
+      "Blogs",
+      "News"
+    ],
+    "benefits": "Simplify and automate transfers Move data 10x faster Reduce operational costs How it works Use cases Data migration Data processing for hybrid workloads Data protection Blogs News"
+  },
+  {
+    "service_path": "/server-migration-service/",
+    "service_name": "AWS Server Migration Service",
+    "mini_description": "Migrate On-Premises Servers to AWS",
+    "category": "Migration & Transfer",
+    "url": "https://aws.amazon.com/server-migration-service/",
+    "keywords": [
+      "Benefits",
+      "Easy to get started",
+      "Control",
+      "Agility",
+      "Cost-effective",
+      "Minimize downtime",
+      "Blog posts & articles",
+      "Get started with AWS"
+    ],
+    "benefits": "Easy to get started Control Agility Cost-effective Minimize downtime Blog posts & articles Get started with AWS"
+  },
+  {
+    "service_path": "/sftp/",
+    "service_name": "AWS Transfer for SFTP",
+    "mini_description": "Fully managed SFTP service",
+    "category": "Migration & Transfer",
+    "url": "https://aws.amazon.com/sftp/",
+    "keywords": [
+      "Benefits",
+      "No SFTP servers to manage",
+      "Seamless SFTP migrations",
+      "Natively integrated with S3 for API-driven processes",
+      "How it works",
+      "Use cases",
+      "Sharing files with third-parties",
+      "Marketplace data distribution",
+      "Ecosystem data lakes",
+      "Blogs",
+      "News"
+    ],
+    "benefits": "No SFTP servers to manage Seamless SFTP migrations Natively integrated with S3 for API-driven processes How it works Use cases Sharing files with third-parties Marketplace data distribution Ecosystem data lakes Blogs News"
+  },
+  {
+    "service_path": "/cloudendure/",
+    "service_name": "CloudEndure Migration",
+    "mini_description": "Automate your mass migration to AWS",
+    "category": "Migration & Transfer",
+    "url": "https://aws.amazon.com/cloudendure/",
+    "keywords": [
+      "Benefits",
+      "Easy migrations",
+      "Increased uptime",
+      "Reduced costs",
+      "How it works",
+      "Case studies",
+      "Related content"
+    ],
+    "benefits": "Easy migrations Increased uptime Reduced costs How it works Case studies Related content"
+  }
+]

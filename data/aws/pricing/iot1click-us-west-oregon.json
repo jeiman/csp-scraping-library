@@ -1,0 +1,46 @@
+{
+  "SORACOM LTE M Button per 100000 and higher Enabled-Devices": {
+    "rateCode": "W56WNC6S9XRMFA57.JRTCKXETXF.KZ9RWR3KKY",
+    "price": "0.1000000000"
+  },
+  "SORACOM LTE M Button per 75000 to 99999 Enabled-Devices": {
+    "rateCode": "W56WNC6S9XRMFA57.JRTCKXETXF.GZZK59XNTA",
+    "price": "0.1500000000"
+  },
+  "SORACOM LTE M Button per 14999 to 74999 Enabled-Devices": {
+    "rateCode": "W56WNC6S9XRMFA57.JRTCKXETXF.8CXH7VDVQH",
+    "price": "0.2000000000"
+  },
+  "IoT Enterprise Button per 100000 and higher Enabled Devices": {
+    "rateCode": "P3QMR5GX3K5FCSFW.JRTCKXETXF.KZ9RWR3KKY",
+    "price": "0.1000000000"
+  },
+  "IoT Enterprise Button per 75000 to 99999 Enabled Devices": {
+    "rateCode": "W56WNC6S9XRMFA57.JRTCKXETXF.8Y3FEATPJK",
+    "price": "0.2500000000"
+  },
+  "IoT Enterprise Button per 14999 to 74999 Enabled Devices": {
+    "rateCode": "P3QMR5GX3K5FCSFW.JRTCKXETXF.8CXH7VDVQH",
+    "price": "0.2000000000"
+  },
+  "IoT Enterprise Button per 1 to 14999 Enabled Devices": {
+    "rateCode": "P3QMR5GX3K5FCSFW.JRTCKXETXF.8Y3FEATPJK",
+    "price": "0.2500000000"
+  },
+  "AT T LTE-M-Button per 100000 and higher Enabled-Devices": {
+    "rateCode": "ZCMUUZVWTQVHWJHP.JRTCKXETXF.KZ9RWR3KKY",
+    "price": "0.1000000000"
+  },
+  "AT T LTE-M-Button per 75000 to 99999 Enabled-Devices": {
+    "rateCode": "ZCMUUZVWTQVHWJHP.JRTCKXETXF.GZZK59XNTA",
+    "price": "0.1500000000"
+  },
+  "AT T LTE-M-Button per 14999 to 74999 Enabled-Devices": {
+    "rateCode": "ZCMUUZVWTQVHWJHP.JRTCKXETXF.8CXH7VDVQH",
+    "price": "0.2000000000"
+  },
+  "AT T LTE-M-Button per 1 to 14999 Enabled-Devices": {
+    "rateCode": "ZCMUUZVWTQVHWJHP.JRTCKXETXF.8Y3FEATPJK",
+    "price": "0.2500000000"
+  }
+}

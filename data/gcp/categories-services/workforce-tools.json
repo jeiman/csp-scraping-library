@@ -1,0 +1,153 @@
+[
+  {
+    "service_name": "Drive Enterprise",
+    "service_short_name": "driveEnterprise",
+    "description": "Cloud-based content collaboration and storage.",
+    "url": "https://cloud.google.com/drive-enterprise/",
+    "category": "Workforce Tools",
+    "benefits": "Supercharge teamworkBoost productivity with AIIntegrates with Microsoft Office and other toolsStreamlined workflowsGoogle collaboration — with Office filesFuture-proof file storageAutomated organizationInstant insightsNonstop learningEasy migrationSeamless integrationEnterprise-grade securityDocs, Sheets, and SlidesNo more lost filesSecurity, privacy, and compliance toolsFast access to the right filesData Loss Prevention (DLP)Vault for eDiscovery"
+  },
+  {
+    "service_name": "Gmail",
+    "service_short_name": "gmail",
+    "description": "Smart, secure email for modern businesses.",
+    "url": "https://gsuite.google.com/products/gmail/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Calendar",
+    "service_short_name": "calendar",
+    "description": "Online calendars designed for teams.",
+    "url": "https://gsuite.google.com/products/calendar/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Drive",
+    "service_short_name": "drive",
+    "description": "Secure cloud storage and file sharing.",
+    "url": "https://gsuite.google.com/products/drive/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Google+",
+    "service_short_name": "google+",
+    "description": "Secure corporate social network.",
+    "url": "https://gsuite.google.com/products/googleplus/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Hangouts Chat",
+    "service_short_name": "hangoutsChat",
+    "description": "Secure team messaging.",
+    "url": "https://gsuite.google.com/products/chat/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Hangouts Meet",
+    "service_short_name": "hangoutsMeet",
+    "description": "Easy-to-join video meetings.",
+    "url": "https://gsuite.google.com/products/meet/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Cloud Search",
+    "service_short_name": "cloudSearch",
+    "description": "Powerful search across G Suite.",
+    "url": "https://gsuite.google.com/products/cloud-search/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Docs",
+    "service_short_name": "docs",
+    "description": "Documents with real-time co-editing.",
+    "url": "https://gsuite.google.com/products/docs/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Sheets",
+    "service_short_name": "sheets",
+    "description": "Smart, fast online spreadsheets.",
+    "url": "https://gsuite.google.com/products/sheets/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Slides",
+    "service_short_name": "slides",
+    "description": "Beautiful presentations created together.",
+    "url": "https://gsuite.google.com/products/slides/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Forms",
+    "service_short_name": "forms",
+    "description": "Easy-to-create surveys and forms.",
+    "url": "https://gsuite.google.com/products/forms/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Sites",
+    "service_short_name": "sites",
+    "description": "Easy-to-build team sites.",
+    "url": "https://gsuite.google.com/products/sites/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "App Maker",
+    "service_short_name": "appMaker",
+    "description": "Easy-to-create custom apps.",
+    "url": "https://gsuite.google.com/products/app-maker/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Keep",
+    "service_short_name": "keep",
+    "description": "Capture ideas and keep organized.",
+    "url": "https://gsuite.google.com/products/keep/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Hangouts Meet Hardware",
+    "service_short_name": "hangoutsMeetHardware",
+    "description": "Fast, effective video meetings for the conference room.",
+    "url": "https://gsuite.google.com/products/hangouts-meet-hardware/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Hire by Google",
+    "service_short_name": "hireByGoogle",
+    "description": "Recruit faster with Google.",
+    "url": "https://hire.google.com",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Jamboard",
+    "service_short_name": "jamboard",
+    "description": "A collaborative digital whiteboard to visualize your ideas.",
+    "url": "https://gsuite.google.com/products/jamboard/",
+    "category": "Workforce Tools"
+  },
+  {
+    "service_name": "Cloud Search",
+    "service_short_name": "cloudSearch",
+    "description": "Find information quickly across the business with Google Cloud Search.",
+    "url": "https://cloud.google.com/products/search/",
+    "category": "Workforce Tools",
+    "benefits": "Powered by machine learningAnything and everything at your fingertipsPrivacy and security models that meet your needsBuilt on a trusted, proven platformSign up today"
+  },
+  {
+    "service_name": "Drive Enterprise",
+    "service_short_name": "driveEnterprise",
+    "description": "Improve teamwork with Google's cloud-based storage and content\n                            collaboration platform.",
+    "url": "https://cloud.google.com/drive-enterprise/",
+    "category": "Workforce Tools",
+    "benefits": "Supercharge teamworkBoost productivity with AIIntegrates with Microsoft Office and other toolsStreamlined workflowsGoogle collaboration — with Office filesFuture-proof file storageAutomated organizationInstant insightsNonstop learningEasy migrationSeamless integrationEnterprise-grade securityDocs, Sheets, and SlidesNo more lost filesSecurity, privacy, and compliance toolsFast access to the right filesData Loss Prevention (DLP)Vault for eDiscovery"
+  },
+  {
+    "service_name": "Google Voice",
+    "service_short_name": "googleVoice",
+    "description": "Stay connected, organized, and on task with an easy-to-use phone\n                            solution that fits organizations of any size.",
+    "url": "https://cloud.google.com/voice/",
+    "category": "Workforce Tools",
+    "benefits": "SimpleSmartScalableG Suite appsCompatible hardwareAdd Voice to your G Suite accountWork with a specialist"
+  }
+]

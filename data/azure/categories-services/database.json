@@ -1,0 +1,170 @@
+[
+  {
+    "service_name": "Azure Cosmos DB",
+    "service_path": "/en-gb/services/cosmos-db/",
+    "url": "https://azure.microsoft.com/en-gb/services/cosmos-db/",
+    "description": "Globally distributed, multi-model database for any scale",
+    "category": "Database",
+    "keywords": [
+      "Build",
+      "planet-scale",
+      "applications",
+      "more",
+      "easily",
+      "than",
+      "ever"
+    ],
+    "benefits": "Build planet-scale applications more easily than ever."
+  },
+  {
+    "service_name": "SQL Server on virtual machines",
+    "service_path": "/en-gb/services/virtual-machines/sql-server/",
+    "url": "https://azure.microsoft.com/en-gb/services/virtual-machines/sql-server/",
+    "description": "Host enterprise SQL Server apps in the cloud",
+    "category": "Database",
+    "keywords": [
+      "Industry-leading",
+      "performance",
+      "and",
+      "manageability",
+      "for",
+      "your",
+      "cloud",
+      "database2.",
+      "Best",
+      "TCO",
+      "with",
+      "Azure",
+      "Hybrid",
+      "Benefit1.",
+      "High-performance",
+      "VMs",
+      "for",
+      "SQL",
+      "Server",
+      "on",
+      "Linux",
+      "and",
+      "Windows.",
+      "Built-in",
+      "security",
+      "and",
+      "manageability"
+    ],
+    "benefits": "Industry-leading performance and manageability for your cloud database2. Best TCO with Azure Hybrid Benefit1. High-performance VMs for SQL Server on Linux and Windows. Built-in security and manageability."
+  },
+  {
+    "service_name": "Azure SQL Database",
+    "service_path": "/en-gb/services/sql-database/",
+    "url": "https://azure.microsoft.com/en-gb/services/sql-database/",
+    "description": "Managed, intelligent SQL in the cloud",
+    "category": "Database",
+    "keywords": [
+      "Advanced",
+      "data",
+      "security"
+    ],
+    "benefits": "Advanced data security."
+  },
+  {
+    "service_name": "Azure Cache for Redis",
+    "service_path": "/en-gb/services/cache/",
+    "url": "https://azure.microsoft.com/en-gb/services/cache/",
+    "description": "Power applications with high throughput, low latency data access",
+    "category": "Database",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "SQL Server Stretch Database",
+    "service_path": "/en-gb/services/sql-server-stretch-database/",
+    "url": "https://azure.microsoft.com/en-gb/services/sql-server-stretch-database/",
+    "description": "Dynamically stretch on-premises SQL Server databases to Azure",
+    "category": "Database",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Table storage",
+    "service_path": "/en-gb/services/storage/tables/",
+    "url": "https://azure.microsoft.com/en-gb/services/storage/tables/",
+    "description": "NoSQL key-value store using semi-structured datasets",
+    "category": "Database",
+    "keywords": [
+      "Store",
+      "petabytes",
+      "of",
+      "structured",
+      "data.",
+      "Supports",
+      "flexible",
+      "data",
+      "schema.",
+      "Made",
+      "for",
+      "enterprise"
+    ],
+    "benefits": "Store petabytes of structured data. Supports flexible data schema. Made for enterprise."
+  },
+  {
+    "service_name": "Azure Database for PostgreSQL",
+    "service_path": "/en-gb/services/postgresql/",
+    "url": "https://azure.microsoft.com/en-gb/services/postgresql/",
+    "description": "Managed PostgreSQL database service for app developers",
+    "category": "Database",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Azure Database for MariaDB",
+    "service_path": "/en-gb/services/mariadb/",
+    "url": "https://azure.microsoft.com/en-gb/services/mariadb/",
+    "description": "Managed MariaDB database service for app developers",
+    "category": "Database",
+    "keywords": [
+      "Azure",
+      "is",
+      "a",
+      "Platinum",
+      "Sponsor",
+      "of",
+      "the",
+      "MariaDB",
+      "Foundation"
+    ],
+    "benefits": "Azure is a Platinum Sponsor of the MariaDB Foundation."
+  },
+  {
+    "service_name": "Azure Database for MySQL",
+    "service_path": "/en-gb/services/mysql/",
+    "url": "https://azure.microsoft.com/en-gb/services/mysql/",
+    "description": "Managed MySQL database service for app developers",
+    "category": "Database",
+    "keywords": [
+      ""
+    ],
+    "benefits": "."
+  },
+  {
+    "service_name": "Azure SQL Database Edge",
+    "service_path": "/en-gb/services/sql-database-edge/",
+    "url": "https://azure.microsoft.com/en-gb/services/sql-database-edge/",
+    "description": "Small-footprint, edge-optimised data engine with built-in AI",
+    "category": "Database",
+    "keywords": [
+      "Simplify",
+      "edge",
+      "architecture",
+      "and",
+      "application",
+      "development"
+    ],
+    "benefits": "Simplify edge architecture and application development."
+  }
+]

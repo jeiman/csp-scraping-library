@@ -1,0 +1,16 @@
+[
+  {
+    "service_name": "Anvato",
+    "service_short_name": "anvato",
+    "description": "Stream live and on-demand video to any device.",
+    "url": "https://www.anvato.com/",
+    "category": "Media Services"
+  },
+  {
+    "service_name": "Zync Render",
+    "service_short_name": "zyncRender",
+    "description": "Render directly from your 3D modeling tools, quickly and cost efficiently.",
+    "url": "https://www.zyncrender.com/",
+    "category": "Media Services"
+  }
+]

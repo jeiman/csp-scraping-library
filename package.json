@@ -1,0 +1,40 @@
+{
+  "name": "csp-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for Cloud Service Providers of sorts",
+  "main": "index.js",
+  "scripts": {
+    "scraper": "(cd src && node start.js)",
+    "store": "(cd src && cd worker && node store.js)",
+    "stitch": "(cd src && node stitcher.js)",
+    "build": "npm run scraper && npm run stitch",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeiman/csp-scraper.git"
+  },
+  "keywords": [
+    "Cloud"
+  ],
+  "author": "Jeiman Jeya",
+  "bugs": {
+    "url": "https://github.com/jeiman/csp-scraper/issues"
+  },
+  "homepage": "https://github.com/jeiman/csp-scraper",
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "lodash": "^4.17.4",
+    "mocha": "^5.2.0",
+    "request": "^2.79.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chrome-launcher": "^0.10.7",
+    "chrome-remote-interface": "^0.27.1",
+    "mongodb": "^3.2.7",
+    "node-fetch": "^2.6.0",
+    "solr-node": "^1.2.1",
+    "uuid": "^3.3.2"
+  }
+}

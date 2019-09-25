@@ -1,0 +1,168 @@
+[
+  {
+    "service_path": "/elastictranscoder/",
+    "service_name": "Amazon Elastic Transcoder",
+    "mini_description": "Easy-to-use Scalable Media Transcoding",
+    "category": "Media Services",
+    "url": "https://aws.amazon.com/elastictranscoder/",
+    "keywords": [
+      ""
+    ],
+    "benefits": ""
+  },
+  {
+    "service_path": "/kinesis/video-streams/",
+    "service_name": "Amazon Kinesis Video Streams",
+    "mini_description": "Process and Analyze Video Streams",
+    "category": "Media Services",
+    "url": "https://aws.amazon.com/kinesis/video-streams/",
+    "keywords": [
+      "Benefits",
+      "STREAM VIDEO FROM MILLIONS OF EDGE DEVICES",
+      "BUILD REAL-TIME",
+      " VISION AND VIDEO-ENABLED APPS",
+      "PLAYBACK LIVE AND RECORDED VIDEO STREAMS",
+      "SECURE",
+      "DURABLE",
+      " SEARCHABLE STORAGE",
+      "NO INFRASTRUCTURE TO MANAGE",
+      "How It Works",
+      "Use Cases",
+      "SMART HOME",
+      "SMART CITY",
+      "INDUSTRIAL AUTOMATION",
+      "Case Studies",
+      "Blog Posts",
+      "Get started with Amazon Kinesis Video Streams"
+    ],
+    "benefits": "STREAM VIDEO FROM MILLIONS OF EDGE DEVICES BUILD REAL-TIME, VISION AND VIDEO-ENABLED APPS PLAYBACK LIVE AND RECORDED VIDEO STREAMS SECURE DURABLE, SEARCHABLE STORAGE NO INFRASTRUCTURE TO MANAGE How It Works Use Cases SMART HOME SMART CITY INDUSTRIAL AUTOMATION Case Studies Blog Posts Get started with Amazon Kinesis Video Streams"
+  },
+  {
+    "service_path": "/mediaconnect/",
+    "service_name": "AWS Elemental MediaConnect",
+    "mini_description": "Reliable and secure live video transport",
+    "category": "Media Services",
+    "url": "https://aws.amazon.com/mediaconnect/",
+    "keywords": [
+      "Benefits",
+      "Reliably transport video",
+      "Securely share live video streams",
+      "Easily manage high-value live broadcasts",
+      "Lower your costs by 30 percent or more",
+      "How it works"
+    ],
+    "benefits": "Reliably transport video Securely share live video streams Easily manage high-value live broadcasts Lower your costs by 30 percent or more How it works"
+  },
+  {
+    "service_path": "/mediaconvert/",
+    "service_name": "AWS Elemental MediaConvert",
+    "mini_description": "Convert File-based Video Content",
+    "category": "Media Services",
+    "url": "https://aws.amazon.com/mediaconvert/",
+    "keywords": [
+      "Benefits",
+      "Broadcast-grade capabilities",
+      "Reliable and easy to manage",
+      "Simple",
+      " predictable pricing",
+      "Customer stories",
+      "About Arqiva",
+      "About Seven Media West",
+      "About Imagica",
+      "Get started with AWS Elemental MediaConvert in the console"
+    ],
+    "benefits": "Broadcast-grade capabilities Reliable and easy to manage Simple, predictable pricing Customer stories About Arqiva About Seven Media West About Imagica Get started with AWS Elemental MediaConvert in the console"
+  },
+  {
+    "service_path": "/medialive/",
+    "service_name": "AWS Elemental MediaLive",
+    "mini_description": "Convert Live Video Content",
+    "category": "Media Services",
+    "url": "https://aws.amazon.com/medialive/",
+    "keywords": [
+      "Benefits",
+      "Simple deployment and management",
+      "Broadcast-grade capabilities",
+      "Highly available",
+      "Increased efficiency and reduced cost",
+      "Customer stories",
+      "About TVNZ",
+      "About Fox Sports",
+      "Get started with AWS Elemental MediaLive in the console"
+    ],
+    "benefits": "Simple deployment and management Broadcast-grade capabilities Highly available Increased efficiency and reduced cost Customer stories About TVNZ About Fox Sports Get started with AWS Elemental MediaLive in the console"
+  },
+  {
+    "service_path": "/mediapackage/",
+    "service_name": "AWS Elemental MediaPackage",
+    "mini_description": "Video Origination and Packaging",
+    "category": "Media Services",
+    "url": "https://aws.amazon.com/mediapackage/",
+    "keywords": [
+      "Benefits",
+      "Reach a wide range of connected devices",
+      "Advanced video experiences and content protection",
+      "Built-in scalability and reliability",
+      "Easy integration with AWS cloud services",
+      "Customer stories",
+      "About TVNZ",
+      "About BT",
+      "Get started with AWS Elemental MediaPackage in the console"
+    ],
+    "benefits": "Reach a wide range of connected devices Advanced video experiences and content protection Built-in scalability and reliability Easy integration with AWS cloud services Customer stories About TVNZ About BT Get started with AWS Elemental MediaPackage in the console"
+  },
+  {
+    "service_path": "/mediastore/",
+    "service_name": "AWS Elemental MediaStore",
+    "mini_description": "Media Storage and Simple HTTP Origin",
+    "category": "Media Services",
+    "url": "https://aws.amazon.com/mediastore/",
+    "keywords": [
+      "Benefits",
+      "High performance",
+      " optimized for video",
+      "Scale with your audience",
+      "Familiar management tools for access control",
+      "Customer stories",
+      "About Pac-12 Networks",
+      "Get started with AWS Elemental MediaStore in the console"
+    ],
+    "benefits": "High performance, optimized for video Scale with your audience Familiar management tools for access control Customer stories About Pac-12 Networks Get started with AWS Elemental MediaStore in the console"
+  },
+  {
+    "service_path": "/mediatailor/",
+    "service_name": "AWS Elemental MediaTailor",
+    "mini_description": "Video Personalization and Monetization",
+    "category": "Media Services",
+    "url": "https://aws.amazon.com/mediatailor/",
+    "keywords": [
+      "Benefits",
+      "Easily deliver targeted ads to any platform",
+      "Improve viewing experiences",
+      "Increase the accuracy of ad view reporting",
+      "Customer stories",
+      "About Seven Media West",
+      "About Amazon Video",
+      "Get started with AWS Elemental MediaTailor in the console"
+    ],
+    "benefits": "Easily deliver targeted ads to any platform Improve viewing experiences Increase the accuracy of ad view reporting Customer stories About Seven Media West About Amazon Video Get started with AWS Elemental MediaTailor in the console"
+  },
+  {
+    "service_path": "/elemental-appliances-software/",
+    "service_name": "AWS Elemental Appliances & Software",
+    "mini_description": "On-premises media solutions",
+    "category": "Media Services",
+    "url": "https://aws.amazon.com/elemental-appliances-software/",
+    "keywords": [
+      "Benefits",
+      "Flexible video solutions",
+      "Easily incorporate new features",
+      "Designed to work with AWS Media Services",
+      "High-quality viewing experiences",
+      "Dependable service delivery",
+      "Maximize your resources",
+      "Get Started"
+    ],
+    "benefits": "Flexible video solutions Easily incorporate new features Designed to work with AWS Media Services High-quality viewing experiences Dependable service delivery Maximize your resources Get Started"
+  }
+]

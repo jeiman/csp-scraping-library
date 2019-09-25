@@ -1,0 +1,10 @@
+{
+  "Enterprise SPICE capacity provisioned per GB Mo": {
+    "rateCode": "UTWD2UF8CTAYDP6V.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.3800000000"
+  },
+  "Standard SPICE capacity provisioned per GB Mo": {
+    "rateCode": "Z6KZMMAJX8FG88MF.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.2500000000"
+  }
+}

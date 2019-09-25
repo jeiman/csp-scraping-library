@@ -1,0 +1,22 @@
+{
+  "AWS Lambda Notifications": {
+    "rateCode": "G5SSTCSP7QM78JB8.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "Amazon SQS Notifications": {
+    "rateCode": "BAZP5PXTGJU9BH2Z.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000000000"
+  },
+  "HTTP Notifications": {
+    "rateCode": "ZCHHRGA3Q74R36VS.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000006000"
+  },
+  "SNS Email and Email JSON Notifications": {
+    "rateCode": "GH989N2K2A8RTYJY.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000300000"
+  },
+  "Amazon SNS API Requests": {
+    "rateCode": "VCTMVMWSEQ2SJ9DB.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0000006000"
+  }
+}

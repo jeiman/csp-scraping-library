@@ -1,0 +1,43 @@
+[
+  {
+    "service_path": "/connect/",
+    "service_name": "Amazon Connect",
+    "mini_description": "Cloud-based Contact Center",
+    "category": "Customer Engagement",
+    "url": "https://aws.amazon.com/connect/",
+    "keywords": [
+      "Benefits",
+      "Easy to Set Up and Manage",
+      "Scalable and Elastic",
+      "Reliable",
+      "pay as you go",
+      "AI-Enabled",
+      "Open Platform",
+      "Customers",
+      "Blog posts & articles",
+      "Get started with AWS & Amazon Connect"
+    ],
+    "benefits": "Easy to Set Up and Manage Scalable and Elastic Reliable pay as you go AI-Enabled Open Platform Customers Blog posts & articles Get started with AWS & Amazon Connect"
+  },
+  {
+    "service_path": "/ses/",
+    "service_name": "Amazon Simple Email Service (SES)",
+    "mini_description": "Email Sending and Receiving",
+    "category": "Customer Engagement",
+    "url": "https://aws.amazon.com/ses/",
+    "keywords": [
+      "Benefits",
+      "High Deliverability",
+      "Cost-Effective",
+      "Configurable",
+      "Use cases",
+      "Send transactional messages",
+      "Send notifications",
+      "Receive incoming email",
+      "Send marketing communications",
+      "Featured customers",
+      "Blog posts & articles"
+    ],
+    "benefits": "High Deliverability Cost-Effective Configurable Use cases Send transactional messages Send notifications Receive incoming email Send marketing communications Featured customers Blog posts & articles"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "Query ENI": {
+    "rateCode": "US69S9T82SUVJJH7.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.1250000000"
+  },
+  "Query first 1B": {
+    "rateCode": "ARGTJYQFNW4EBN2E.JRTCKXETXF.ZN357FEBCK",
+    "price": "0.0000004000"
+  },
+  "Query over 1B": {
+    "rateCode": "ARGTJYQFNW4EBN2E.JRTCKXETXF.AGD8ADSNTG",
+    "price": "0.0000002000"
+  }
+}

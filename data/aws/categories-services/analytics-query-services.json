@@ -1,0 +1,198 @@
+[
+  {
+    "service_path": "/athena/",
+    "service_name": "Amazon Athena",
+    "mini_description": "Query Data in S3 using SQL",
+    "category": "Analytics & Query Services",
+    "url": "https://aws.amazon.com/athena/",
+    "keywords": [
+      "Benefits",
+      "Start Querying Instantly",
+      "Pay Per Query",
+      "Open. Powerful. Standard",
+      "Fast. Really Fast.",
+      "Case studies",
+      "Get started with AWS"
+    ],
+    "benefits": "Start Querying Instantly Pay Per Query Open. Powerful. Standard Fast. Really Fast. Case studies Get started with AWS"
+  },
+  {
+    "service_path": "/cloudsearch/",
+    "service_name": "Amazon CloudSearch",
+    "mini_description": "Managed Search Service",
+    "category": "Analytics & Query Services",
+    "url": "https://aws.amazon.com/cloudsearch/",
+    "keywords": [
+      ""
+    ],
+    "benefits": ""
+  },
+  {
+    "service_path": "/elasticmapreduce/",
+    "service_name": "Amazon EMR",
+    "mini_description": "Hosted Hadoop Framework",
+    "category": "Analytics & Query Services",
+    "url": "https://aws.amazon.com/emr/",
+    "keywords": [
+      "Benefits",
+      "Easy to use",
+      "Low cost",
+      "Elastic",
+      "Reliable",
+      "Secure",
+      "Flexible",
+      "Use cases",
+      "Machine learning",
+      "Extract transform load (ETL)",
+      "Clickstream analysis",
+      "Real-time streaming",
+      "Interactive analytics",
+      "Genomics",
+      "Case studies",
+      "Analyst research",
+      "Get started with AWS"
+    ],
+    "benefits": "Easy to use Low cost Elastic Reliable Secure Flexible Use cases Machine learning Extract transform load (ETL) Clickstream analysis Real-time streaming Interactive analytics Genomics Case studies Analyst research Get started with AWS"
+  },
+  {
+    "service_path": "/elasticsearch-service/",
+    "service_name": "Amazon Elasticsearch Service",
+    "mini_description": "Run and Scale Elasticsearch Clusters",
+    "category": "Analytics & Query Services",
+    "url": "https://aws.amazon.com/elasticsearch-service/",
+    "keywords": [
+      "Benefits",
+      "Easy to deploy and manage",
+      "Integrated with Open-Source Tools & AWS Services",
+      "Easily scalable",
+      "Secure and Compliant",
+      "Highly available",
+      "Cost-effective",
+      "How it works",
+      "Use cases",
+      "Log Analytics",
+      "Real-Time Application Monitoring",
+      "Security Analytics",
+      "Full Text Search",
+      "Clickstream Analytics",
+      "Customers"
+    ],
+    "benefits": "Easy to deploy and manage Integrated with Open-Source Tools & AWS Services Easily scalable Secure and Compliant Highly available Cost-effective How it works Use cases Log Analytics Real-Time Application Monitoring Security Analytics Full Text Search Clickstream Analytics Customers"
+  },
+  {
+    "service_path": "/kinesis/",
+    "service_name": "Amazon Kinesis",
+    "mini_description": "Work with Real-time Streaming Data",
+    "category": "Analytics & Query Services",
+    "url": "https://aws.amazon.com/kinesis/",
+    "keywords": [
+      "Benefits",
+      "Real-time",
+      "Fully managed",
+      "Scalable",
+      "Amazon Kinesis capabilities",
+      "How it works",
+      "Amazon Kinesis Video Streams",
+      "Amazon Kinesis Data Streams",
+      "Amazon Kinesis Data Firehose",
+      "Amazon Kinesis Data Analytics",
+      "Use cases",
+      "Build video analytics applications",
+      "Evolve from Batch to Real-time Analytics",
+      "Build Real-time Applications",
+      "Analyze IoT device data",
+      "Blog posts & articles",
+      "Get started with Amazon Kinesis"
+    ],
+    "benefits": "Real-time Fully managed Scalable Amazon Kinesis capabilities How it works Amazon Kinesis Video Streams Amazon Kinesis Data Streams Amazon Kinesis Data Firehose Amazon Kinesis Data Analytics Use cases Build video analytics applications Evolve from Batch to Real-time Analytics Build Real-time Applications Analyze IoT device data Blog posts & articles Get started with Amazon Kinesis"
+  },
+  {
+    "service_path": "/msk/",
+    "service_name": "Amazon Managed Streaming for Apache Kafka",
+    "mini_description": "Fully managed Apache Kafka service",
+    "category": "Analytics & Query Services",
+    "url": "https://aws.amazon.com/msk/",
+    "keywords": [
+      "Benefits",
+      "Fully compatible",
+      "Fully managed",
+      "Highly available",
+      "Highly secure",
+      "Customer case studies",
+      "How it works",
+      "Get started with Amazon MSK"
+    ],
+    "benefits": "Fully compatible Fully managed Highly available Highly secure Customer case studies How it works Get started with Amazon MSK"
+  },
+  {
+    "service_path": "/quicksight/",
+    "service_name": "Amazon QuickSight",
+    "mini_description": "Fast Business Analytics Service",
+    "category": "Analytics & Query Services",
+    "url": "https://aws.amazon.com/quicksight/",
+    "keywords": [
+      "Benefits",
+      "Pay only for what you use",
+      "Scale from 10 users to 10",
+      "000",
+      "Embed self-service data analytics",
+      "Build end-to-end BI solutions",
+      "How it works",
+      "Use cases",
+      "Provide interactive dashboards",
+      "Get insights instantly and effortlessly",
+      "Enhance your apps with QuickSight dashboards",
+      "Insights delivered to your inbox",
+      "Customers"
+    ],
+    "benefits": "Pay only for what you use Scale from 10 users to 10,000 Embed self-service data analytics Build end-to-end BI solutions How it works Use cases Provide interactive dashboards  Get insights instantly and effortlessly  Enhance your apps with QuickSight dashboards Insights delivered to your inbox Customers"
+  },
+  {
+    "service_path": "/datapipeline/",
+    "service_name": "AWS Data Pipeline",
+    "mini_description": "Orchestration Service for Periodic, Data-driven Workflows",
+    "category": "Analytics & Query Services",
+    "url": "https://aws.amazon.com/datapipeline/",
+    "keywords": [
+      ""
+    ],
+    "benefits": ""
+  },
+  {
+    "service_path": "/glue/",
+    "service_name": "AWS Glue",
+    "mini_description": "Prepare and Load Data",
+    "category": "Analytics & Query Services",
+    "url": "https://aws.amazon.com/glue/",
+    "keywords": [
+      "Benefits",
+      "Less hassle",
+      "Cost effective",
+      "More power",
+      "How it works",
+      "Use cases",
+      "Queries Against an Amazon S3 Data Lake",
+      "Analyze Log Data in Your Data Warehouse",
+      "Unified View of Your Data Across Multiple Data Stores",
+      "Event-driven ETL Pipelines"
+    ],
+    "benefits": "Less hassle Cost effective More power How it works Use cases Queries Against an Amazon S3 Data Lake Analyze Log Data in Your Data Warehouse Unified View of Your Data Across Multiple Data Stores Event-driven ETL Pipelines"
+  },
+  {
+    "service_path": "/lake-formation/",
+    "service_name": "AWS Lake Formation",
+    "mini_description": "Build a secure data lake in days",
+    "category": "Analytics & Query Services",
+    "url": "https://aws.amazon.com/lake-formation/",
+    "keywords": [
+      "Benefits",
+      "Build data lakes quickly",
+      "Simplify security management",
+      "Make self-service access to data both easy and secure",
+      "How it works",
+      "Use cases",
+      "Customers"
+    ],
+    "benefits": "Build data lakes quickly Simplify security management Make self-service access to data both easy and secure How it works Use cases Customers"
+  }
+]

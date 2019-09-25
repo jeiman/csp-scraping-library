@@ -1,0 +1,18 @@
+{
+  "Hourly charge for Traffic Mirroring Source per hour": {
+    "rateCode": "UUH3FQ2Y7X5XXJU3.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0180000000"
+  },
+  "Charge for per GB data processed by VPC Endpoints per GB": {
+    "rateCode": "PUGDDHYKX88JEKYR.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0100000000"
+  },
+  "Hourly charge for VPC Endpoints per Hrs": {
+    "rateCode": "RQDW4F29PDT7RYTA.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0105000000"
+  },
+  "CreateVpnConnection per Hrs": {
+    "rateCode": "WXFPY6EPJFZHZVNN.JRTCKXETXF.6YS6EN2CT7",
+    "price": "0.0500000000"
+  }
+}

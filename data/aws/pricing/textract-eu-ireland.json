@@ -1,0 +1,50 @@
+{
+  "Async AnalyzeDocument API Forms First 1M": {
+    "rateCode": "NBE2GW7AD7QWVDN3.JRTCKXETXF.SB2VSFF4TP",
+    "price": "0.0500000000"
+  },
+  "AnalyzeDocument API Forms First 1M": {
+    "rateCode": "RN2KXPNNXZEHHH8Q.JRTCKXETXF.SB2VSFF4TP",
+    "price": "0.0500000000"
+  },
+  "Async AnalyzeDocument API Tables First 1M": {
+    "rateCode": "TNX2MNTY2DV35562.JRTCKXETXF.SB2VSFF4TP",
+    "price": "0.0150000000"
+  },
+  "AnalyzeDocument API Tables First 1M": {
+    "rateCode": "MGYSDDG2DUTTJ9DD.JRTCKXETXF.SB2VSFF4TP",
+    "price": "0.0150000000"
+  },
+  "Async DocumentTextDetection API Text First 1M": {
+    "rateCode": "HV3WZRSJSH5TPZZ6.JRTCKXETXF.SB2VSFF4TP",
+    "price": "0.0015000000"
+  },
+  "DetectDocumentText API Text First 1M": {
+    "rateCode": "SQENCYNCS978Y973.JRTCKXETXF.SB2VSFF4TP",
+    "price": "0.0015000000"
+  },
+  "Async AnalyzeDocument API Forms Over 1M": {
+    "rateCode": "NBE2GW7AD7QWVDN3.JRTCKXETXF.VNJQCFJPS4",
+    "price": "0.0400000000"
+  },
+  "AnalyzeDocument API Forms Over 1M": {
+    "rateCode": "RN2KXPNNXZEHHH8Q.JRTCKXETXF.VNJQCFJPS4",
+    "price": "0.0400000000"
+  },
+  "Async AnalyzeDocument API Tables Over 1M": {
+    "rateCode": "TNX2MNTY2DV35562.JRTCKXETXF.VNJQCFJPS4",
+    "price": "0.0100000000"
+  },
+  "AnalyzeDocument API Tables Over 1M": {
+    "rateCode": "MGYSDDG2DUTTJ9DD.JRTCKXETXF.VNJQCFJPS4",
+    "price": "0.0100000000"
+  },
+  "Async DocumentTextDetection API Text Over 1M": {
+    "rateCode": "HV3WZRSJSH5TPZZ6.JRTCKXETXF.VNJQCFJPS4",
+    "price": "0.0006000000"
+  },
+  "DetectDocumentText API Text Over 1M": {
+    "rateCode": "SQENCYNCS978Y973.JRTCKXETXF.VNJQCFJPS4",
+    "price": "0.0006000000"
+  }
+}

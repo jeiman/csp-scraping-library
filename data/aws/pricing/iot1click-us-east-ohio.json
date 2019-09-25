@@ -1,0 +1,30 @@
+{
+  "IoT Enterprise Button per 100000 and higher Enabled Devices": {
+    "rateCode": "KPSVHZTZWMDJXU3Q.JRTCKXETXF.KZ9RWR3KKY",
+    "price": "0.1000000000"
+  },
+  "IoT Enterprise Button per 14999 to 74999 Enabled Devices": {
+    "rateCode": "KPSVHZTZWMDJXU3Q.JRTCKXETXF.8CXH7VDVQH",
+    "price": "0.2000000000"
+  },
+  "IoT Enterprise Button per 1 to 14999 Enabled Devices": {
+    "rateCode": "KPSVHZTZWMDJXU3Q.JRTCKXETXF.8Y3FEATPJK",
+    "price": "0.2500000000"
+  },
+  "AT T LTE-M-Button per 100000 and higher Enabled-Devices": {
+    "rateCode": "ADV4Q2MUEA7JY23B.JRTCKXETXF.KZ9RWR3KKY",
+    "price": "0.1000000000"
+  },
+  "AT T LTE-M-Button per 75000 to 99999 Enabled-Devices": {
+    "rateCode": "ADV4Q2MUEA7JY23B.JRTCKXETXF.GZZK59XNTA",
+    "price": "0.1500000000"
+  },
+  "AT T LTE-M-Button per 14999 to 74999 Enabled-Devices": {
+    "rateCode": "ADV4Q2MUEA7JY23B.JRTCKXETXF.8CXH7VDVQH",
+    "price": "0.2000000000"
+  },
+  "AT T LTE-M-Button per 1 to 14999 Enabled-Devices": {
+    "rateCode": "ADV4Q2MUEA7JY23B.JRTCKXETXF.8Y3FEATPJK",
+    "price": "0.2500000000"
+  }
+}
