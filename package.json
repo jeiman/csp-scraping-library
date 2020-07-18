@@ -24,7 +24,7 @@
   "homepage": "https://github.com/jeiman/csp-scraping-library",
   "devDependencies": {
     "cheerio": "^0.22.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "mocha": "^5.2.0",
     "request": "^2.79.0"
   },
