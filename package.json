@@ -29,7 +29,7 @@
     "request": "^2.79.0"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "chrome-launcher": "^0.13.4",
     "chrome-remote-interface": "^0.27.1",
     "mongodb": "^3.2.7",
